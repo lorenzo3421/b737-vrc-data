@@ -1,26 +1,26 @@
-H|apt|1|0963
-A|BR-2171|LEP|Leopoldina Airport|-21.46823|-42.72708|919|S|BR|0
+H|apt|2|0963
+A|BR-2171|LEP|Leopoldina Airport|-21.46823|-42.72708|919|S|BR|0|-23.24|-0.014
 R|12|30|3937|98|A|0||||||||||
-A|SBAF||Campo Délio Jardim de Mattos Airport|-22.8751|-43.3847|110|M|BR|0
+A|SBAF||Campo Délio Jardim de Mattos Airport|-22.8751|-43.3847|110|M|BR|0|-22.95|-0.022
 R|08|26|6565|171|C|0||||||||||
 F|APP|119.35|RIO APP
 F|GND|121.85|AFONSOS
 F|TWR|118.9|AFONSOS TWR
-A|SBBQ||Major Brigadeiro Doorgal Borges Airport|-21.2672|-43.76101|3657|M|BR|0
+A|SBBQ||Major Brigadeiro Doorgal Borges Airport|-21.2672|-43.76101|3657|M|BR|0|-23.01|-0.025
 R|18|36|5774|98|A|0||||||||||
-A|SBBZ|BZC|Umberto Modiano Airport|-22.77088|-41.96308|10|M|BR|0
+A|SBBZ|BZC|Umberto Modiano Airport|-22.77088|-41.96308|10|M|BR|0|-23.3|-0.006
 R|07|25|4265|98|A|0||||||||||
 F|APP|119.45|ALDEIA APP
-A|SBCB|CFB|Cabo Frio Airport|-22.92149|-42.07187|22|S|BR|1
+A|SBCB|CFB|Cabo Frio Airport|-22.92149|-42.07187|22|S|BR|1|-23.26|-0.008
 R|10|28|8366|148|A|0|-22.92385|-42.08385||||-22.91904|-42.05974|||
-A|SBCP|CAW|Bartolomeu Lisandro Airport|-21.6983|-41.3017|59|M|BR|1
+A|SBCP|CAW|Bartolomeu Lisandro Airport|-21.6983|-41.3017|59|M|BR|1|-23.52|0.002
 R|07|25|5066|148|A|1|||57|||||52||
-A|SBES||Tenente Jorge Henrique Möller Airport|-22.8129|-42.0926|61|S|BR|0
+A|SBES||Tenente Jorge Henrique Möller Airport|-22.8129|-42.0926|61|S|BR|0|-23.27|-0.008
 R|07|25|5906|92|C|0||||||||||
 F|APP|119.45|ALDEIA APP
 F|GND|121.9|GND
 F|TWR|118.3|ALDEIA TWR
-A|SBGL|GIG|Rio de Janeiro Galeão – Tom Jobim International Airport|-22.81|-43.25056|28|L|BR|1
+A|SBGL|GIG|Rio de Janeiro Galeão – Tom Jobim International Airport|-22.81|-43.25056|28|L|BR|1|-22.99|-0.02
 R|10|28|13123|148|C|1|-22.8018|-43.2552|16|74||-22.7922|-43.2177|28|254|
 R|15|33|10433|154|A|1|-22.8124|-43.2637|16|125|612|-22.8291|-43.2385|11|305|375
 F|APP|119.35|RIO APP
@@ -28,17 +28,17 @@ F|ATIS|127.6|ATIS
 F|CLD|121|CLNC DEL
 F|GND|121.65|GND
 F|TWR|118|TWR
-A|SBJF|JDF|Francisco de Assis Airport|-21.79148|-43.38607|2989|M|BR|1
+A|SBJF|JDF|Francisco de Assis Airport|-21.79148|-43.38607|2989|M|BR|1|-23.06|-0.021
 R|03|21|5036|98|A|1||||||||||
-A|SBJR|RRJ|Jacarepaguá - Roberto Marinho Airport|-22.98677|-43.37219|10|M|BR|0
+A|SBJR|RRJ|Jacarepaguá - Roberto Marinho Airport|-22.98677|-43.37219|10|M|BR|0|-22.94|-0.022
 R|03|21|2952|98|A|1|-22.99083|-43.3725|10|||-22.98278|-43.37194|10||
-A|SBME|MEA|Macaé Benedito Lacerda Airport|-22.343|-41.766|8|M|BR|0
+A|SBME|MEA|Macaé Benedito Lacerda Airport|-22.343|-41.766|8|M|BR|0|-23.38|-0.004
 R|06|24|3937|98|A|0||||||||||
 F|APP|119.2|APP
 F|ATIS|127.775|ATIS
 F|GND|121.7|GND
 F|TWR|118.45|TWR
-A|SBRJ|SDU|Santos Dumont Airport|-22.9104|-43.16282|11|L|BR|1
+A|SBRJ|SDU|Santos Dumont Airport|-22.9104|-43.16282|11|L|BR|1|-23|-0.019
 R|02L|20R|4134|98|A|1|-22.91583|-43.16333|9|357||-22.90472|-43.16389|9|177|
 R|02R|20L|4341|138|A|1|-22.91639|-43.1625|9|357||-22.90472|-43.16333|10|177|
 F|APP|119.35|RIO CON
@@ -46,65 +46,65 @@ F|ATIS|132.65|ATIS
 F|CLD|121.05|TFC
 F|GND|121.7|GND
 F|TWR|118.7|RIO TWR
-A|SBSC|SNZ|Santa Cruz Air Force Base|-22.9324|-43.7191|10|M|BR|0
+A|SBSC|SNZ|Santa Cruz Air Force Base|-22.9324|-43.7191|10|M|BR|0|-22.85|-0.026
 R|05|23|8986|148|A|0||||||||||
 F|APP|132.5|APP
 F|GND|121.8|GND
 F|TWR|118.8|TWR
-A|SBVT|VIX|Eurico de Aguiar Salles International Airport|-20.258|-40.285|34|L|BR|1
+A|SBVT|VIX|Eurico de Aguiar Salles International Airport|-20.258|-40.285|34|L|BR|1|-23.73|0.015
 R|02|20|6752|148|A|1|-20.26583|-40.27833|34|||-20.2475|-40.28111|18||
 R|06|24|5742|148|A|1|-20.2644|-40.2911|13|||-20.2508|-40.2822|13||
 F|APP|119.85|VITORIA APP
 F|ATIS|127.575|VITORIA ATIS
 F|TWR|118.1|VITORIA TWR
-A|SBZM|IZA|Presidente Itamar Franco Airport|-21.51309|-43.17307|1348|M|BR|1
+A|SBZM|IZA|Presidente Itamar Franco Airport|-21.51309|-43.17307|1348|M|BR|1|-23.14|-0.019
 R|08|26|8284|148|A|0||||||||||
 R|08|26|8284|148|A|1||||||||||
-A|SD3Y||Rio Louro Airstrip|-22.29317|-41.75983|16|S|BR|0
+A|SD3Y||Rio Louro Airstrip|-22.29317|-41.75983|16|S|BR|0|-23.39|-0.004
 R|05|23|3018|75|T|0||||||||||
-A|SDCZ||Fazenda Bom Jardim Airport|-22.93501|-44.0917|13|S|BR|0
+A|SDCZ||Fazenda Bom Jardim Airport|-22.93501|-44.0917|13|S|BR|0|-22.75|-0.03
 R|11|29|3904|75|T|0|-22.93504|-44.098||||-22.93494|-44.08549|||
-A|SDIL||Fazenda Pedra Branca Airport|-22.90236|-44.28802|52|S|BR|0
+A|SDIL||Fazenda Pedra Branca Airport|-22.90236|-44.28802|52|S|BR|0|-22.7|-0.032
 R|06|24|3445|59|A|0||||||||||
-A|SDMC|JMR|Maricá Airport|-22.9195|-42.8309|5|S|BR|0
+A|SDMC|JMR|Maricá Airport|-22.9195|-42.8309|5|S|BR|0|-23.08|-0.016
 R|09|27|3917|98|A|0|-22.9209|-42.8339|14|63|860|-22.9174|-42.8265|11|243|272
 F|TWR|118.7|
-A|SDPA||Fazenda Portobello Airport|-22.92713|-44.08019|20|S|BR|0
+A|SDPA||Fazenda Portobello Airport|-22.92713|-44.08019|20|S|BR|0|-22.76|-0.03
 R|03|21|4167|98|A|0||||||||||
-A|SDRS|REZ|Resende Airport|-22.4785|-44.4803|1320|S|BR|0
+A|SDRS|REZ|Resende Airport|-22.4785|-44.4803|1320|S|BR|0|-22.7|-0.034
 R|08|26|4265|98|A|0||||||||||
-A|SDUN|ITP|Itaperuna Airport|-21.2193|-41.8759|361|S|BR|0
+A|SDUN|ITP|Itaperuna Airport|-21.2193|-41.8759|361|S|BR|0|-23.44|-0.004
 R|07|25|3937|92|A|0||||||||||
-A|SIVU||João Moteiro Airport|-20.42291|-40.33248|16|S|BR|0
+A|SIVU||João Moteiro Airport|-20.42291|-40.33248|16|S|BR|0|-23.73|0.014
 R|05|23|3150|59|A|0||||||||||
-A|SJJR||Fazenda Recreio Airport|-21.71417|-44.20389|3796|S|BR|0
+A|SJJR||Fazenda Recreio Airport|-21.71417|-44.20389|3796|S|BR|0|-22.86|-0.03
 R|04|22|3281|66|T|0||||||||||
-A|SNAO||Trimonte Jorge Mussi Airport|-22.51322|-42.05293|10|S|BR|0
+A|SNAO||Trimonte Jorge Mussi Airport|-22.51322|-42.05293|10|S|BR|0|-23.3|-0.007
 R|09|27|4249|92|A|0||||||||||
 R|09H|27H|79|79|C|1||||||||||
-A|SNBM||Cristiano Ferreira Varella Airport|-21.1261|-42.3944|886|S|BR|0
+A|SNBM||Cristiano Ferreira Varella Airport|-21.1261|-42.3944|886|S|BR|0|-23.33|-0.01
 R|12|30|3740|75|A|0||||||||||
-A|SNCZ||Ponte Nova Airport|-20.4033|-42.9165|1877|S|BR|0
+A|SNCZ||Ponte Nova Airport|-20.4033|-42.9165|1877|S|BR|0|-23.26|-0.015
 R|07|25|3478|98|A|0||||||||||
-A|SNDV|DIQ|Brigadeiro Cabral Airport|-20.1807|-44.8709|2608|S|BR|0
+A|SNDV|DIQ|Brigadeiro Cabral Airport|-20.1807|-44.8709|2608|S|BR|0|-22.81|-0.037
 R|17|35|5052|98|A|0|-20.1748|-44.87483|2608|||-20.18662|-44.867|2608||
-A|SNGA|GUZ|Guarapari Airport|-20.6465|-40.4919|30|S|BR|1
+A|SNGA|GUZ|Guarapari Airport|-20.6465|-40.4919|30|S|BR|1|-23.7|0.012
 R|06|24|3570|92|A|1||||||||||
-A|SNJM|JMA|Aeroporto Elias Breder Airport|-20.25972|-42.18389|2723|S|BR|0
+A|SNJM|JMA|Aeroporto Elias Breder Airport|-20.25972|-42.18389|2723|S|BR|0|-23.41|-0.006
 R|02|20|3839|98|A|0||||||||||
-A|SNJR|JDR|Prefeito Octávio de Almeida Neves Airport|-21.08564|-44.2253|3117|S|BR|0
+A|SNJR|JDR|Prefeito Octávio de Almeida Neves Airport|-21.08564|-44.2253|3117|S|BR|0|-22.91|-0.03
 R|08|26|4593|98|A|0||||||||||
-A|SNKF||Das Bandeirinhas Airport|-20.73859|-43.79744|3478|S|BR|0
+A|SNKF||Das Bandeirinhas Airport|-20.73859|-43.79744|3478|S|BR|0|-23.04|-0.025
 R|03|21|3150|98|A|0||||||||||
-A|SNKI|CDI|Cachoeiro do Itapemirim - Raimundo de Andrade Airport|-20.8343|-41.1856|256|S|BR|0
+A|SNKI|CDI|Cachoeiro do Itapemirim - Raimundo de Andrade Airport|-20.8343|-41.1856|256|S|BR|0|-23.58|0.004
 R|06|24|3937|98|A|1||||||||||
-A|SNRZ||Oliveira Airport|-20.7146|-44.8653|3334|S|BR|0
+A|SNRZ||Oliveira Airport|-20.7146|-44.8653|3334|S|BR|0|-22.77|-0.037
 R|03|21|3887|82|A|0|-20.7198|-44.8664|3320|11.7||-20.7093|-44.8641|3306|191.7|
-A|SNUB||Ubá Airport|-21.121|-42.8819|1115|S|BR|0
+A|SNUB||Ubá Airport|-21.121|-42.8819|1115|S|BR|0|-23.23|-0.015
 R|16|34|3543|75|A|0||||||||||
-A|SNXB||Caxambu Airport|-21.91707|-44.96817|2838|S|BR|0
+A|SNXB||Caxambu Airport|-21.91707|-44.96817|2838|S|BR|0|-22.63|-0.039
 R|09|27|4921|98|A|0||||||||||
-A|SSDK||São Pedro|-20.07596|-44.72792|2713|S|BR|0
+A|SSDK||São Pedro|-20.07596|-44.72792|2713|S|BR|0|-22.85|-0.035
 R|11|29|4200|75|C|0||||||||||
-A|SSOL|VRZ|Padre Israel Airport|-21.2406|-44.9639|3146|S|BR|0
+A|SSOL|VRZ|Padre Israel Airport|-21.2406|-44.9639|3146|S|BR|0|-22.7|-0.039
 R|05|23|4921|98|A|0||||||||||

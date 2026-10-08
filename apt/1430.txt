@@ -1,7 +1,7 @@
-H|apt|1|1430
-A|ANG||Angaur|6.90683|134.14539|20|S|PW|0
+H|apt|2|1430
+A|ANG||Angaur|6.90683|134.14539|20|S|PW|0|-0.52|-0.072
 R|05|23|7000|150|G|0||||||||||
-A|C23||Peleliu Airport|6.99744|134.23206|9|S|PW|0
+A|C23||Peleliu Airport|6.99744|134.23206|9|S|PW|0|-0.53|-0.072
 R|04|22|6000|40|G|0||||||||||
-A|PTRO|ROR|Roman Tmetuchl International Airport|7.36697|134.54408|176|L|PW|1
+A|PTRO|ROR|Roman Tmetuchl International Airport|7.36697|134.54408|176|L|PW|1|-0.55|-0.072
 R|09|27|7200|150|A|1|7.36789|134.534|176|91||7.36741|134.554|171|271|

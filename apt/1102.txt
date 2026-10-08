@@ -1,42 +1,42 @@
-H|apt|1|1102
-A|BR-0177||Fazenda Nictheroy Airport|-10.2675|-67.698|699|S|BR|0
+H|apt|2|1102
+A|BR-0177||Fazenda Nictheroy Airport|-10.2675|-67.698|699|S|BR|0|-11.48|-0.217
 R|01|19|5249|98|T|0||||||||||
-A|BR-1699||Assis Brasil Airport|-10.92521|-69.55725|965|S|BR|0
+A|BR-1699||Assis Brasil Airport|-10.92521|-69.55725|965|S|BR|0|-9.9|-0.223
 R|03|21|4340|98|A|0|-10.92998|-69.55927|950|22|210|-10.9195|-69.5549|950|202|
-A|SBGM|GJM|Guajará-Mirim Airport|-10.78641|-65.28486|478|M|BR|0
+A|SBGM|GJM|Guajará-Mirim Airport|-10.78641|-65.28486|478|M|BR|0|-13.23|-0.209
 R|17|35|5889|148|A|0||||||||||
 F|RDO|125.9|RDO
-A|SLCO|CIJ|Capitán Aníbal Arab Airport|-11.03911|-68.78277|889|M|BO|1
+A|SLCO|CIJ|Capitán Aníbal Arab Airport|-11.03911|-68.78277|889|M|BO|1|-10.5|-0.222
 R|02|20|6562|98|A|1|-11.0493|-68.7846|892|11||-11.0315|-68.7812|835|191|
 F|TWR|118.3|COBIJA TWR
-A|SLGM|GYA|Guayaramerín Airport|-10.88856|-65.38096|456|M|BO|1
+A|SLGM|GYA|Guayaramerín Airport|-10.88856|-65.38096|456|M|BO|1|-13.15|-0.21
 R|16|34|5767|69|A|0||||||||||
-A|SLGY||Capitán de Av. Emilio Beltrán Airport|-10.82031|-65.34649|557|S|BO|0
+A|SLGY||Capitán de Av. Emilio Beltrán Airport|-10.82031|-65.34649|557|S|BO|0|-13.18|-0.209
 R|17|35|5905||U|0|||417|||||423||
-A|SLRI|RIB|Capitán Av. Selin Zeitun Lopez Airport|-11.00935|-66.07547|462|M|BO|1
+A|SLRI|RIB|Capitán Av. Selin Zeitun Lopez Airport|-11.00935|-66.07547|462|M|BO|1|-12.61|-0.213
 R|13|31|5906||U|0|||462|||||462||
-A|SLRQ|RBQ|Rurrenabaque Airport|-14.4279|-67.4968|676|S|BO|1
+A|SLRQ|RBQ|Rurrenabaque Airport|-14.4279|-67.4968|676|S|BO|1|-10.84|-0.224
 R|14|32|4921||A|0||||||||||
 R|18|36|4757||A|0||||||||||
-A|SLRY|REY|Reyes Airport|-14.3044|-67.3534|935|S|BO|0
+A|SLRY|REY|Reyes Airport|-14.3044|-67.3534|935|S|BO|0|-10.99|-0.223
 R|18|36|4921||U|0|||938|||||938||
-A|SLSA|SBL|Santa Ana Del Yacuma Airport|-13.7622|-65.4352|472|M|BO|0
+A|SLSA|SBL|Santa Ana Del Yacuma Airport|-13.7622|-65.4352|472|M|BO|0|-12.63|-0.216
 R|14|32|5013|69|A|0|-13.757|-65.4398||140.2||-13.7674|-65.4305||320.2|
 F|TWR|118.3|TWR
-A|SLSB|SRJ|Capitán Av. German Quiroga G. Airport|-14.8592|-66.7375|633|S|BO|0
+A|SLSB|SRJ|Capitán Av. German Quiroga G. Airport|-14.8592|-66.7375|633|S|BO|0|-11.37|-0.222
 R|18|36|5906||U|0|||636|||||636||
-A|SLSR|SRB|Santa Rosa de Yacuma Airport|-14.07307|-66.78739|738|S|BO|0
+A|SLSR|SRB|Santa Rosa de Yacuma Airport|-14.07307|-66.78739|738|S|BO|0|-11.5|-0.221
 R|01|19|4925|98|T|0|-14.07969|-66.78743|538|||-14.06612|-66.78733|538||
-A|SNR7||Santa Agro 1 Airstrip|-10.63617|-65.02235|574|S|BR|0
+A|SNR7||Santa Agro 1 Airstrip|-10.63617|-65.02235|574|S|BR|0|-13.44|-0.207
 R|18|36|3281|66|D|0||||||||||
-A|SPBR|IBP|Iberia Airport|-11.4116|-69.4887|750|M|PE|0
+A|SPBR|IBP|Iberia Airport|-11.4116|-69.4887|750|M|PE|0|-9.86|-0.224
 R|13|31|4429|59|A|0|-11.408|-69.4937||126.1||-11.4152|-69.4837||306.1|
-A|SPTU|PEM|Padre Aldamiz International Airport|-12.6136|-69.2286|659|M|PE|1
+A|SPTU|PEM|Padre Aldamiz International Airport|-12.6136|-69.2286|659|M|PE|1|-9.83|-0.225
 R|01|19|11482|148|C|1|-12.6289|-69.2288|659|2.1||-12.5973|-69.2276|656|182.1|
 F|APP|118.8|PUERTO MALDONADO APP
 F|RDO|126.9|PUERTO MALDONADO RDO
 F|TWR|118.8|PUERTO MALDONADO TWR
-A|SWRG||Fazenda Rancho Maria e Tereza Airport|-10.82583|-65.22861|492|S|BR|0
+A|SWRG||Fazenda Rancho Maria e Tereza Airport|-10.82583|-65.22861|492|S|BR|0|-13.27|-0.209
 R|05|23|3281|66|T|0||||||||||
-A|SWXU||Xapuri Airport|-10.66372|-68.48587|492|S|BR|0
+A|SWXU||Xapuri Airport|-10.66372|-68.48587|492|S|BR|0|-10.8|-0.22
 R|15|33|3340|98|A|0||||||||||

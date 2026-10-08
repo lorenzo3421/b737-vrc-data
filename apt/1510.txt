@@ -1,3 +1,3 @@
-H|apt|1|1510
-A|MH-MJB|MJB|Mejit Atoll Airport|10.2833|170.869|5|S|MH|0
+H|apt|2|1510
+A|MH-MJB|MJB|Mejit Atoll Airport|10.2833|170.869|5|S|MH|0|8.07|0.001
 R|07|25|3000|50|G|0||||||||||

@@ -1,20 +1,20 @@
-H|apt|1|2008
-A|RJCW|WKJ|Wakkanai Airport|45.4042|141.80099|30|M|JP|1
+H|apt|2|2008
+A|RJCW|WKJ|Wakkanai Airport|45.4042|141.80099|30|M|JP|1|-10.52|-0.029
 R|08|26|6560|150|A|1|45.4009|141.789|23|68.9||45.4073|141.813|30|249|
-A|RJER|RIS|Rishiri Airport|45.242|141.186|112|M|JP|1
+A|RJER|RIS|Rishiri Airport|45.242|141.186|112|M|JP|1|-10.59|-0.029
 R|07|25|5906|148|A|1|45.2376|141.17799|98|57||45.2464|141.19701|112|237|
-A|RU-1892||Dolinsk-Sokol Air Base|47.2617|142.768|95|M|RU|0
+A|RU-1892||Dolinsk-Sokol Air Base|47.2617|142.768|95|M|RU|0|-10.85|-0.029
 R|02|20|8202|144|C|1||||||||||
-A|RU-7218||Matrosovo Air Base|49.4017|142.883|335|S|RU|0
+A|RU-7218||Matrosovo Air Base|49.4017|142.883|335|S|RU|0|-11.42|-0.029
 R|01|19|8202|115|C|1||||||||||
-A|UHKG||Kamenny Ruchey Naval Air Base|49.2357|140.1931|659|M|RU|0
+A|UHKG||Kamenny Ruchey Naval Air Base|49.2357|140.1931|659|M|RU|0|-11.89|-0.026
 R|12|30|11154|256|C|1||||||||||
-A|UHKM|GVN|Sovetskaya Gavan (Maygatka) Airport|48.92507|140.03535|768|M|RU|0
+A|UHKM|GVN|Sovetskaya Gavan (Maygatka) Airport|48.92507|140.03535|768|M|RU|0|-11.83|-0.026
 R|09|27|9842|151|C|1||||||||||
-A|UHKP||Sovetskaya Gavan (Postovaya) Airport|49.0311|140.22678|240|S|RU|0
+A|UHKP||Sovetskaya Gavan (Postovaya) Airport|49.0311|140.22678|240|S|RU|0|-11.83|-0.026
 R|13|31|8202|138|C|1||||||||||
-A|UHSK|EKS|Shakhtyorsk Airport|49.1903|142.08299|50|S|RU|1
+A|UHSK|EKS|Shakhtyorsk Airport|49.1903|142.08299|50|S|RU|1|-11.53|-0.028
 R|16|34|5249||U|0||||||||||
-A|UHSS|UUS|Yuzhno-Sakhalinsk International Airport|46.88546|142.71747|59|L|RU|1
+A|UHSS|UUS|Yuzhno-Sakhalinsk International Airport|46.88546|142.71747|59|L|RU|1|-10.76|-0.029
 R|01|19|11155|148|C|1|46.8704|142.71699|44|1||46.9008|142.718|49|181|
 F|TWR|120.6|TWR

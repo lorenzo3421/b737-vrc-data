@@ -1,3 +1,3 @@
-H|apt|1|2354
-A|USDA|SBT|Sabetta International Airport|71.21917|72.05222|46|M|RU|1
+H|apt|2|2354
+A|USDA|SBT|Sabetta International Airport|71.21917|72.05222|46|M|RU|1|30.12|0.13
 R|04|22|8858|151|C|1|71.20958|72.00462|38|||71.21948|72.07325|38||

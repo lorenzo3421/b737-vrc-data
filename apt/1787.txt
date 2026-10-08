@@ -1,41 +1,41 @@
-H|apt|1|1787
-A|CN-0321||Anji Tianzihu General Airport|30.79772|119.59029|137|M|CN|0
+H|apt|2|1787
+A|CN-0321||Anji Tianzihu General Airport|30.79772|119.59029|137|M|CN|0|-6.09|-0.034
 R|08|26|2625|100|C|0||||79|||||259|
 F|TWR|122.05|Anji Tianzihu Tower
-A|CN-0444||Baitabu Air Base|34.5713|118.87314||S|CN|0
+A|CN-0444||Baitabu Air Base|34.5713|118.87314||S|CN|0|-6.85|-0.035
 R|03|21|8202||C|1||||||||||
-A|CN-0476|BFY|Bengbu Tenghu Airport|33.16629|117.05834||M|CN|1
+A|CN-0476|BFY|Bengbu Tenghu Airport|33.16629|117.05834||M|CN|1|-6.11|-0.031
 R|07|25|8530|148|C|1||||||||||
-A|JUH|JUH|Chizhou Jiuhuashan Airport|30.7403|117.6856|60|S|CN|1
+A|JUH|JUH|Chizhou Jiuhuashan Airport|30.7403|117.6856|60|S|CN|1|-5.69|-0.03
 R|13|31|7874||C|0||||||||||
-A|ZHEC|EHU|Ezhou Huahu International Airport|30.34118|115.03926|86|L|CN|1
+A|ZHEC|EHU|Ezhou Huahu International Airport|30.34118|115.03926|86|L|CN|1|-5.02|-0.024
 R|01L|19R|11811|148|C|0||||||||||
 R|01R|19L|11811|148|C|0||||||||||
-A|ZSAQ|AQG|Anqing Tianzhushan Airport / Anqing North Air Base|30.5822|117.05||M|CN|1
+A|ZSAQ|AQG|Anqing Tianzhushan Airport / Anqing North Air Base|30.5822|117.05||M|CN|1|-5.52|-0.029
 R|06|24|9186||C|1||||||||||
-A|ZSCG|CZX|Changzhou Benniu International Airport|31.92048|119.77546|33|M|CN|1
+A|ZSCG|CZX|Changzhou Benniu International Airport|31.92048|119.77546|33|M|CN|1|-6.39|-0.035
 R|11|29|11155||C|1||||||||||
-A|ZSFY|FUG|Fuyang Xiguan Airport|32.88216|115.73436|104|M|CN|1
+A|ZSFY|FUG|Fuyang Xiguan Airport|32.88216|115.73436|104|M|CN|1|-5.72|-0.028
 R|03|21|7874||C|1||||||||||
-A|ZSLG|LYG|Lianyungang Huaguoshan International Airport|34.41406|119.17899||L|CN|1
+A|ZSLG|LYG|Lianyungang Huaguoshan International Airport|34.41406|119.17899||L|CN|1|-6.88|-0.035
 R|03|21|9186||U|0||||||||||
-A|ZSNJ|NKG|Nanjing Lukou International Airport|31.73503|118.86595|49|L|CN|1
+A|ZSNJ|NKG|Nanjing Lukou International Airport|31.73503|118.86595|49|L|CN|1|-6.17|-0.033
 R|06|24|11811|148|C|1|31.7334|118.846|43|58||31.7506|118.878|38|238|
 R|07|25|11810|197|C|1|31.71351|118.84811|43|58||31.73071|118.88033|39|238|
 F|APP|119.25|NANJING APP
 F|ATIS|126.25|ATIS
 F|GND|121.7|NANJING GND
 F|TWR|118.85|NANJING TWR
-A|ZSOF|HFE|Hefei Xinqiao International Airport|31.98779|116.9769|207|L|CN|1
+A|ZSOF|HFE|Hefei Xinqiao International Airport|31.98779|116.9769|207|L|CN|1|-5.82|-0.03
 R|15|33|11155|164|C|1|32.00171|116.9675|95|135||31.97517|116.98554|72|315|
 F|ATIS|128.85|ATIS
 F|TWR|118.75|HEFEI TWR
-A|ZSSH|HIA|Huai'an Lianshui Airport|33.79271|119.12666|28|L|CN|1
+A|ZSSH|HIA|Huai'an Lianshui Airport|33.79271|119.12666|28|L|CN|1|-6.72|-0.034
 R|04|22|9186|148|C|1|33.78211|119.11754|34|||33.8026|119.13519|34||
-A|ZSWA|WHA|Wuhu Xuanzhou Airport|31.1045|118.66687|80|M|CN|1
+A|ZSWA|WHA|Wuhu Xuanzhou Airport|31.1045|118.66687|80|M|CN|1|-5.98|-0.032
 R|06|24|9186||U|1||||||||||
-A|ZSXZ|XUZ|Xuzhou Guanyin International Airport|34.05906|117.55528|108|M|CN|1
+A|ZSXZ|XUZ|Xuzhou Guanyin International Airport|34.05906|117.55528|108|M|CN|1|-6.43|-0.032
 R|09|27|11548|148|C|1|34.05814|117.53805|115|90||34.06056|117.57478|115|270|
 F|TWR|118.25|XUZ
-A|ZSYA|YTY|Yangzhou Taizhou Airport|32.5634|119.7198|7|M|CN|1
+A|ZSYA|YTY|Yangzhou Taizhou Airport|32.5634|119.7198|7|M|CN|1|-6.54|-0.035
 R|17|35|10499|148|C|1|32.58096|119.71491|16|||32.55286|119.72267|16||

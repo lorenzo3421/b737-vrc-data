@@ -1,6 +1,6 @@
-H|apt|1|1241
-A|SEGS|GPS|Seymour Galapagos Ecological Airport|-0.45376|-90.2659|207|M|EC|1
+H|apt|2|1241
+A|SEGS|GPS|Seymour Galapagos Ecological Airport|-0.45376|-90.2659|207|M|EC|1|2.5|-0.119
 R|14|32|7877|115|A|1|-0.44499|-90.2723|145|144||-0.46252|-90.2596|207|324|
 F|TWR|122.2|TWR
-A|SEII|IBB|General Villamil Airport|-0.94263|-90.953|35|S|EC|1
+A|SEII|IBB|General Villamil Airport|-0.94263|-90.953|35|S|EC|1|2.94|-0.114
 R|17|35|4921|98|A|0|-0.93593|-90.9541||171||-0.94933|-90.952||351|

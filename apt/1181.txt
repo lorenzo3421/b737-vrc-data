@@ -1,17 +1,17 @@
-H|apt|1|1181
-A|BR-0856||Coroa do Avião Airport|-7.84515|-34.89153|33|S|BR|0
+H|apt|2|1181
+A|BR-0856||Coroa do Avião Airport|-7.84515|-34.89153|33|S|BR|0|-21.03|0.123
 R|18|36|4326|94|A|0|-7.83953|-34.89364|5|159||-7.85067|-34.8894|22|339|572
-A|BR-1400||Clube Estância Ouro Verde Airport|-7.04626|-34.91291|249|S|BR|0
+A|BR-1400||Clube Estância Ouro Verde Airport|-7.04626|-34.91291|249|S|BR|0|-20.73|0.126
 R|16|34|3532|53|A|0|-7.04256|-34.91616|241|139|228|-7.04993|-34.9097|196|319|178
-A|SBJP|JPA|Presidente Castro Pinto International Airport|-7.14869|-34.95055|217|L|BR|1
+A|SBJP|JPA|Presidente Castro Pinto International Airport|-7.14869|-34.95055|217|L|BR|1|-20.78|0.125
 R|16|34|8251|148|A|0||||||||||
 F|APP|118.3|PESSOA CON
 F|TWR|118.3|PESSOA TWR
-A|SBRF|REC|Recife/Guararapes - Gilberto Freyre International Airport|-8.12747|-34.92296|33|L|BR|1
+A|SBRF|REC|Recife/Guararapes - Gilberto Freyre International Airport|-8.12747|-34.92296|33|L|BR|1|-21.14|0.121
 R|18|36|9865|148|A|0|||23|162||||32|342|
 F|APP|119.1|RECIFE APP
 F|ATIS|127.65|ATIS
 F|GND|121.85|GND
 F|TWR|122.8|RECIFE TWR
-A|SIPE||Itapessoca Airport|-7.65601|-34.8565|16|S|BR|0
+A|SIPE||Itapessoca Airport|-7.65601|-34.8565|16|S|BR|0|-20.95|0.124
 R|05|23|5906|98|A|0||||||||||

@@ -1,26 +1,26 @@
-H|apt|1|1246
-A|SBTT|TBT|Tabatinga International Airport|-4.25567|-69.9358|263|M|BR|1
+H|apt|2|1246
+A|SBTT|TBT|Tabatinga International Airport|-4.25567|-69.9358|263|M|BR|1|-10.61|-0.206
 R|12|30|7054|107|A|1||||||||||
-A|SBUA|SJL|São Gabriel da Cachoeira Airport|-0.14835|-66.9855|249|M|BR|1
+A|SBUA|SJL|São Gabriel da Cachoeira Airport|-0.14835|-66.9855|249|M|BR|1|-12.94|-0.18
 R|05|23|8530|148|A|0||||||||||
-A|SBUY|RPU|Urucu Airport|-4.88426|-65.35542|210|S|BR|0
+A|SBUY|RPU|Urucu Airport|-4.88426|-65.35542|210|S|BR|0|-13.75|-0.191
 R|09|27|4331|98|A|0|-4.8855|-65.3612|208|||-4.88303|-65.34972|208||
-A|SDCG|OLC|Senadora Eunice Micheles Airport|-3.46907|-68.92106|335|S|BR|0
+A|SDCG|OLC|Senadora Eunice Micheles Airport|-3.46907|-68.92106|335|S|BR|0|-11.42|-0.201
 R|04|22|3937|75|C|0||||||||||
-A|SKLP|LPD|La Pedrera Airport|-1.32488|-69.58129|590|S|CO|1
+A|SKLP|LPD|La Pedrera Airport|-1.32488|-69.58129|590|S|CO|1|-11.15|-0.195
 R|15|33|5643||U|0|||590|||||590||
-A|SKLT|LET|Alfredo Vásquez Cobo International Airport|-4.19115|-69.942|277|M|CO|1
+A|SKLT|LET|Alfredo Vásquez Cobo International Airport|-4.19115|-69.942|277|M|CO|1|-10.61|-0.206
 R|03|21|6168|131|A|1|-4.2011|-69.9457|314|20.8||-4.18523|-69.9397|313|200.8|
 F|APP|119.1|LETICIA APP
 F|RDO|127.5|LETICIA RDO
 F|TWR|118.1|TWR
-A|SKRA|TCD|Tarapacá Airport|-2.8958|-69.74976|253|S|CO|1
+A|SKRA|TCD|Tarapacá Airport|-2.8958|-69.74976|253|S|CO|1|-10.89|-0.201
 R|07|25|3527||A|0||||||||||
-A|SWCA|CAF|Carauari Airport|-4.87147|-66.89755|355|S|BR|1
+A|SWCA|CAF|Carauari Airport|-4.87147|-66.89755|355|S|BR|1|-12.71|-0.198
 R|04|22|5463|59|A|0||||||||||
-A|SWII|IPG|Ipiranga Airport|-2.94014|-69.69426|220|S|BR|0
+A|SWII|IPG|Ipiranga Airport|-2.94014|-69.69426|220|S|BR|0|-10.92|-0.201
 R|01|19|4921|97|C|0||||||||||
-A|SWJP||Bittencourt Airport|-1.40393|-69.4238|257|S|BR|0
+A|SWJP||Bittencourt Airport|-1.40393|-69.4238|257|S|BR|0|-11.25|-0.195
 R|13|31|3937|98|A|0||||||||||
-A|SWOB|FBA|Fonte Boa Airport|-2.53261|-66.0832|207|S|BR|0
+A|SWOB|FBA|Fonte Boa Airport|-2.53261|-66.0832|207|S|BR|0|-13.41|-0.185
 R|18|36|4167|89|A|0||||||||||

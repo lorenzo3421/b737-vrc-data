@@ -1,26 +1,26 @@
-H|apt|1|0997
-A|YBGO|BQW|Balgo Hill Airport|-20.14833|127.97389|1440|S|AU|0
+H|apt|2|0997
+A|YBGO|BQW|Balgo Hill Airport|-20.14833|127.97389|1440|S|AU|0|2.54|-0.027
 R|04|22|2270||U|0||||||||||
 R|15|33|5282||U|0|||1396|||||1440||
 F|CTAF|126.7|CTAF
-A|YDVR|DKV|Docker River Airport|-24.85953|129.12221|589|S|AU|0
+A|YDVR|DKV|Docker River Airport|-24.85953|129.12221|589|S|AU|0|3.22|-0.015
 R|09|27|4406||U|0||||||||||
 F|CTAF|125|CTAF
-A|YJUK||Tjukurla Airport|-24.37071|128.73933||S|AU|0
+A|YJUK||Tjukurla Airport|-24.37071|128.73933||S|AU|0|3.08|-0.016
 R|15|33|5249||U|0||||||||||
 F|CTAF|121.85|CTAF
-A|YKNT||Kintore Airport|-23.265|129.38699||S|AU|0
+A|YKNT||Kintore Airport|-23.265|129.38699||S|AU|0|3.14|-0.02
 R|10|28|4429||U|0||||||||||
 F|CTAF|120.5|CTAF
-A|YPTJ||Patjarr Airport|-24.6189|126.327|1493|S|AU|0
+A|YPTJ||Patjarr Airport|-24.6189|126.327|1493|S|AU|0|2.51|-0.011
 R|15|33|5905||U|0||||||||||
 F|CTAF|130.9|CTAF
-A|YTAN||Tanami Downs Airport|-20.57365|129.74013||S|AU|0
+A|YTAN||Tanami Downs Airport|-20.57365|129.74013||S|AU|0|2.94|-0.029
 R|11|29|3280||U|0||||||||||
 F|CTAF|126.7|CTAF
-A|YWCM||Wilson's Camp Airport|-20.1014|129.12601||S|AU|0
+A|YWCM||Wilson's Camp Airport|-20.1014|129.12601||S|AU|0|2.76|-0.029
 R|09|27|4593||U|0||||||||||
 F|CTAF|123.9|CTAF
-A|YYGG||Yagga Yagga Airport|-20.8906|127.949||S|AU|0
+A|YYGG||Yagga Yagga Airport|-20.8906|127.949||S|AU|0|2.6|-0.025
 R|09|27|3937||U|0||||||||||
 F|CTAF|126|CTAF

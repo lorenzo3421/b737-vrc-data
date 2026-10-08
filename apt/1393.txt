@@ -1,5 +1,5 @@
-H|apt|1|1393
-A|GF-0001||Kourou Airport|5.17605|-52.69421|47|S|GF|0
+H|apt|2|1393
+A|GF-0001||Kourou Airport|5.17605|-52.69421|47|S|GF|0|-18.46|-0.032
 R|09|27|3630|50|A|0|5.17477|-52.69906|||250|5.17688|-52.6893|||250
-A|SOOM|LDX|Saint-Laurent-du-Maroni Airport|5.48189|-54.03496|16|M|GF|1
+A|SOOM|LDX|Saint-Laurent-du-Maroni Airport|5.48189|-54.03496|16|M|GF|1|-18.19|-0.045
 R|04|22|3281|75|A|0||||||||||

@@ -1,3 +1,3 @@
-H|apt|1|2369
-A|UESO|CKH|Chokurdakh Airport|70.6231|147.90199|151|M|RU|1
+H|apt|2|2369
+A|UESO|CKH|Chokurdakh Airport|70.6231|147.90199|151|M|RU|1|-16.16|-0.252
 R|07|25|6233|98|C|1||||||||||

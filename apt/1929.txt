@@ -1,7 +1,7 @@
-H|apt|1|1929
-A|ZBOW|BAV|Baotou Donghe International Airport|40.56|109.997|3321|L|CN|1
+H|apt|2|1929
+A|ZBOW|BAV|Baotou Donghe International Airport|40.56|109.997|3321|L|CN|1|-5.58|-0.034
 R|13|31|9186|200|A|1||||130|||||310|
-A|ZBYZ|RLK|Bayannur Tianjitai Airport|40.92636|107.74093|3400|M|CN|1
+A|ZBYZ|RLK|Bayannur Tianjitai Airport|40.92636|107.74093|3400|M|CN|1|-4.83|-0.033
 R|11|29|8530|148|H|1||||||||||
-A|ZMTT||Umnugobi/Tavan Tolgoi Airport|43.77367|105.57867|4793|S|MN|0
+A|ZMTT||Umnugobi/Tavan Tolgoi Airport|43.77367|105.57867|4793|S|MN|0|-4.41|-0.04
 R|15|33|7710|98|U|0||||144|||||324|

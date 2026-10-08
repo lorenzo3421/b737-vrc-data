@@ -1,98 +1,98 @@
-H|apt|1|0888
-A|AR-0008||Aeroclub Chaco Airport|-27.6311|-59.1797|164|S|AR|0
+H|apt|2|0888
+A|AR-0008||Aeroclub Chaco Airport|-27.6311|-59.1797|164|S|AR|0|-13.31|-0.173
 R|03|21|3839|164|T|1||||||||||
 F|CTAF|123.5|
-A|AR-0119||Curuzu Cuatia Aeroclub Airport|-29.7789|-58.0958|262|S|AR|0
+A|AR-0119||Curuzu Cuatia Aeroclub Airport|-29.7789|-58.0958|262|S|AR|0|-13.13|-0.158
 R|07|25|5249|148|T|0||||||||||
-A|AR-0161||Aeródromo sede del Aeroclub Formosa|-26.3014|-58.2983|229|S|AR|0
+A|AR-0161||Aeródromo sede del Aeroclub Formosa|-26.3014|-58.2983|229|S|AR|0|-14.56|-0.17
 R|18|36|3609|75|T|0||||||||||
-A|AR-0181||Goya Aeroclub|-29.1678|-59.2464|124|S|AR|0
+A|AR-0181||Goya Aeroclub|-29.1678|-59.2464|124|S|AR|0|-12.53|-0.169
 R|02|20|3937|197|T|0||||||||||
-A|AR-0380||Villa Ocampo Airport|-28.4969|-59.3256|160|S|AR|0
+A|AR-0380||Villa Ocampo Airport|-28.4969|-59.3256|160|S|AR|0|-12.79|-0.171
 R|18|36|4199|115|T|0||||||||||
-A|AR-0410||Aeródromo Estancia La Leonor|-26.1494|-59.6672|285|S|AR|0
+A|AR-0410||Aeródromo Estancia La Leonor|-26.1494|-59.6672|285|S|AR|0|-13.56|-0.18
 R|01|19|5741|125|T|0||||||||||
-A|AR-0416||Estancia Villa Corina Airport|-28.035|-56.0678|403|S|AR|0
+A|AR-0416||Estancia Villa Corina Airport|-28.035|-56.0678|403|S|AR|0|-15.46|-0.147
 R|04|22|4724|98|T|0||||||||||
-A|AR-0436||La Esmeralda Airport|-29.9939|-57.8378|265|S|AR|0
+A|AR-0436||La Esmeralda Airport|-29.9939|-57.8378|265|S|AR|0|-13.23|-0.156
 R|07|25|3379|75|T|0||||||||||
-A|AR-0448||Aeródromo Petruk|-27.0878|-58.6694|177|S|AR|0
+A|AR-0448||Aeródromo Petruk|-27.0878|-58.6694|177|S|AR|0|-13.94|-0.171
 R|05|23|3117|82|T|0||||||||||
-A|AR-0584||San Hilario Airport|-25.86448|-58.67289|236|S|AR|0
+A|AR-0584||San Hilario Airport|-25.86448|-58.67289|236|S|AR|0|-14.45|-0.174
 R|18|36|3084|98|T|0||||||||||
-A|AR-0627||Itá Caabó Airport|-29.29287|-57.72721|262|S|AR|0
+A|AR-0627||Itá Caabó Airport|-29.29287|-57.72721|262|S|AR|0|-13.66|-0.157
 R|01|19|3281|131|T|0||||||||||
-A|AR-0801||Estancia La Flecha Airfield|-27.68946|-57.9275|214|S|AR|0
+A|AR-0801||Estancia La Flecha Airfield|-27.68946|-57.9275|214|S|AR|0|-14.25|-0.164
 R|03|21|5906|82|T|0||||||||||
-A|AR-0803||Santa Barbara Airfield|-28.58636|-58.37971|197|S|AR|0
+A|AR-0803||Santa Barbara Airfield|-28.58636|-58.37971|197|S|AR|0|-13.49|-0.164
 R|18|36|4593|98|T|0||||||||||
-A|BR-0444||Cabanha Umbú Airport|-29.98056|-57.27111|223|S|BR|0
+A|BR-0444||Cabanha Umbú Airport|-29.98056|-57.27111|223|S|BR|0|-13.67|-0.151
 R|14|32|3153|82|T|0||||||||||
-A|BR-2918||Estância Itapororó Airport|-29.43628|-56.29389|197|S|BR|0
+A|BR-2918||Estância Itapororó Airport|-29.43628|-56.29389|197|S|BR|0|-14.66|-0.145
 R|08|26|3281|98|T|0||||||||||
-A|SA10||Aeródromo Estancia Don Panos|-26.2959|-59.5353|262|S|AR|1
+A|SA10||Aeródromo Estancia Don Panos|-26.2959|-59.5353|262|S|AR|1|-13.6|-0.179
 R|16|34|4921|82|C|0|-26.2894|-59.5373||165||-26.3025|-59.5334||345|
-A|SA23||Apóstoles Airport|-27.9032|-55.7655|581|S|AR|0
+A|SA23||Apóstoles Airport|-27.9032|-55.7655|581|S|AR|0|-15.72|-0.145
 R|06|24|6070|98|A|0|-27.9088|-55.772||45.7||-27.8976|-55.759||225.7|
-A|SA26||Bella Vista Airport|-28.5262|-59.0385|180|S|AR|0
+A|SA26||Bella Vista Airport|-28.5262|-59.0385|180|S|AR|0|-13|-0.169
 R|17|35|3609|98|A|0|-28.5211|-59.0383||182||-28.5313|-59.0388||2|
-A|SARC|CNQ|Corrientes Airport|-27.4455|-58.7619|202|M|AR|1
+A|SARC|CNQ|Corrientes Airport|-27.4455|-58.7619|202|M|AR|1|-13.72|-0.17
 R|02|20|6890|148|C|1|-27.4548|-58.7633|202|8||-27.4362|-58.7604|199|188|
 F|TWR|118.3|TWR
-A|SARE|RES|Resistencia International Airport|-27.44991|-59.05613|173|L|AR|1
+A|SARE|RES|Resistencia International Airport|-27.44991|-59.05613|173|L|AR|1|-13.48|-0.172
 R|03|21|9088|148|A|1|-27.4617|-59.0611|171|20.9||-27.4383|-59.0511|174|200.9|
 F|RDO|122.3|RDO
 F|TWR|118.7|TWR/APP
-A|SARF|FMA|Formosa National Airport|-26.2127|-58.2281|193|M|AR|1
+A|SARF|FMA|Formosa National Airport|-26.2127|-58.2281|193|M|AR|1|-14.64|-0.17
 R|04|22|5905|131|A|1|-26.2201|-58.2319|193|25||-26.2054|-58.2243|193|205|
 F|TWR|119.1|TWR
-A|SARL|AOL|Paso De Los Libres Airport|-29.6894|-57.1521|230|M|AR|0
+A|SARL|AOL|Paso De Los Libres Airport|-29.6894|-57.1521|230|M|AR|0|-13.9|-0.151
 R|18|36|7415|148|A|1|-29.6793|-57.1539|230|171|230|-29.6995|-57.1502|229|351|1010
 F|TWR|120.3|LIBRES TWR/APP
-A|SARP|PSS|Libertador Gral D Jose De San Martin Airport|-27.3858|-55.9707|430|M|AR|1
+A|SARP|PSS|Libertador Gral D Jose De San Martin Airport|-27.3858|-55.9707|430|M|AR|1|-15.8|-0.148
 R|02|20|7388|98|A|1|-27.396|-55.9706|429|359||-27.3757|-55.9709|376|179|
 F|TWR|120.1|TWR/APP
-A|SATC|CLX|Aeródromo de Clorinda|-25.3036|-57.7344|206|S|AR|0
+A|SATC|CLX|Aeródromo de Clorinda|-25.3036|-57.7344|206|S|AR|0|-15.36|-0.168
 R|01|19|3937|98|T|0||||||||||
-A|SATG|OYA|Goya Airport|-29.1058|-59.2189|128|M|AR|0
+A|SATG|OYA|Goya Airport|-29.1058|-59.2189|128|M|AR|0|-12.58|-0.169
 R|04|22|7415|148|A|1|-29.1141|-59.2258||38|427|-29.098|-59.2115||218|1075
 F|TWR|118.1|TWR
-A|SATM|MDX|Mercedes Airport|-29.2214|-58.0878|358|S|AR|0
+A|SATM|MDX|Mercedes Airport|-29.2214|-58.0878|358|S|AR|0|-13.41|-0.16
 R|03|21|5909|98|A|0||||||||||
-A|SATO||Oberá Airport|-27.5182|-55.1242|1125|S|AR|0
+A|SATO||Oberá Airport|-27.5182|-55.1242|1125|S|AR|0|-16.32|-0.14
 R|17|35|5905|98|A|0|-27.5104|-55.1271||161.3||-27.5259|-55.1212||341.3|
-A|SATR|RCQ|Reconquista Airport|-29.21028|-59.68333|160|M|AR|0
+A|SATR|RCQ|Reconquista Airport|-29.21028|-59.68333|160|M|AR|0|-12.15|-0.171
 R|02|20|4101|112|C|1|-29.2102|-59.6909||7||-29.1989|-59.6892||187|
 R|10|28|9186|164|C|1|-29.2104|-59.6943||89.6||-29.2102|-59.6655||269.6|
 F|TWR|119|TWR/APP
-A|SATU|UZU|Curuzu Cuatia Airport|-29.7706|-57.9789|229|M|AR|0
+A|SATU|UZU|Curuzu Cuatia Airport|-29.7706|-57.9789|229|M|AR|0|-13.23|-0.158
 R|01|19|7054|98|A|1|-29.7801|-57.979||1||-29.7607|-57.9786||181|
 F|RDO|118.1|RDO
-A|SBUG|URG|Rubem Berta Airport|-29.7822|-57.0382|256|M|BR|1
+A|SBUG|URG|Rubem Berta Airport|-29.7822|-57.0382|256|M|BR|1|-13.94|-0.15
 R|04|22|2625|164|T|0||||||||||
 R|09|27|4921|98|A|0||||||||||
-A|SGAS|ASU|Silvio Pettirossi International Airport|-25.24016|-57.51923|292|L|PY|1
+A|SGAS|ASU|Silvio Pettirossi International Airport|-25.24016|-57.51923|292|L|PY|1|-15.54|-0.166
 R|02|20|10997|148|A|1|-25.2546|-57.5227|292|10||-25.2251|-57.5155|249|190|
 F|APP|119.7|ASUNCION APP
 F|GND|121.9|GND
 F|RDO|126.9|ASUNCION RDO
 F|TWR|118.1|ASUNCION TWR
-A|SGAY|AYO|Aeropuerto Nacional Juan de Ayolas|-27.37838|-56.85679|223|M|PY|0
+A|SGAY|AYO|Aeropuerto Nacional Juan de Ayolas|-27.37838|-56.85679|223|M|PY|0|-15.17|-0.156
 R|02|20|6070|148|A|0|-27.3789|-56.8556|223|10.2||-27.3624|-56.8523|223|190.2|
-A|SGEN|ENO|Teniente Ramon A. Ayub Gonzalez International Airport|-27.22754|-55.83758|659|L|PY|1
+A|SGEN|ENO|Teniente Ramon A. Ayub Gonzalez International Airport|-27.22754|-55.83758|659|L|PY|1|-15.95|-0.147
 R|02|20|7218|148|A|1|||279|||||279||
-A|SGPI|PIL|Aeródromo Don Carlos Miguel Gimenez|-26.88198|-58.31907|249|M|PY|0
+A|SGPI|PIL|Aeródromo Don Carlos Miguel Gimenez|-26.88198|-58.31907|249|M|PY|0|-14.3|-0.169
 R|02|20|4920|62|C|0|-26.8882|-58.3187||5||-26.8747|-58.3174||185|
-A|SJ1B||Fazenda Barrocal Airport|-29.47352|-55.50946|509|S|BR|0
+A|SJ1B||Fazenda Barrocal Airport|-29.47352|-55.50946|509|S|BR|0|-15.2|-0.138
 R|08|26|3610|59|D|0||||||||||
-A|SJ2H||Cambaí Airstrip|-28.31056|-55.12028|564|S|BR|0
+A|SJ2H||Cambaí Airstrip|-28.31056|-55.12028|564|S|BR|0|-15.99|-0.138
 R|03|21|3281|98|D|0||||||||||
-A|SSIQ|ITQ|Itaqui Airport|-29.17198|-56.53834|230|S|BR|0
+A|SSIQ|ITQ|Itaqui Airport|-29.17198|-56.53834|230|S|BR|0|-14.6|-0.148
 R|15|33|3169|75|T|0||||||||||
-A|SSLG||São Luís Gonzaga Airport|-28.37639|-55.0375|656|S|BR|0
+A|SSLG||São Luís Gonzaga Airport|-28.37639|-55.0375|656|S|BR|0|-16.02|-0.137
 R|06|24|3937|197|T|0||||||||||
-A|SSLT|ALQ|Alegrete Novo Airport|-29.8116|-55.89471|410|S|BR|0
+A|SSLT|ALQ|Alegrete Novo Airport|-29.8116|-55.89471|410|S|BR|0|-14.76|-0.141
 R|15|33|3937|59|A|0||||||||||
-A|SSSB|JBS|São Borja Airport|-28.6549|-56.0346|262|S|BR|0
+A|SSSB|JBS|São Borja Airport|-28.6549|-56.0346|262|S|BR|0|-15.2|-0.145
 R|07|25|4921|98|A|1||||||||||
 R|14|32|2297|59|T|0||||122|||||302|

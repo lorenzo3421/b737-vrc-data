@@ -1,157 +1,157 @@
-H|apt|1|0816
-A|AR-0031||San Andrés de Giles Airport|-34.47035|-59.42461|167|S|AR|0
+H|apt|2|0816
+A|AR-0031||San Andrés de Giles Airport|-34.47035|-59.42461|167|S|AR|0|-9.39|-0.149
 R|16|34|3937|262|T|0||||||||||
-A|AR-0060||Basavilbaso Airport|-32.3611|-58.8808|196|S|AR|0
+A|AR-0060||Basavilbaso Airport|-32.3611|-58.8808|196|S|AR|0|-11.11|-0.154
 R|06|24|3018|98|T|0||||||||||
-A|AR-0080||Aeroclub Capitan Sarmiento|-34.1639|-59.7311|160|S|AR|0
+A|AR-0080||Aeroclub Capitan Sarmiento|-34.1639|-59.7311|160|S|AR|0|-9.33|-0.152
 R|03|21|3100|98|T|0||||||||||
-A|AR-0110||Concepcion Del Uruguay Airport|-32.4519|-58.3058|121|S|AR|0
+A|AR-0110||Concepcion Del Uruguay Airport|-32.4519|-58.3058|121|S|AR|0|-11.53|-0.15
 R|02|20|3937|98|T|0||||||||||
-A|AR-0137||El Pajaro Airport|-34.82354|-58.31631|52|S|AR|0
+A|AR-0137||El Pajaro Airport|-34.82354|-58.31631|52|S|AR|0|-10.08|-0.14
 R|06|24|3858|72|T|0||||||||||
-A|AR-0142||Esquina Airport|-30.0489|-59.5353|127|S|AR|0
+A|AR-0142||Esquina Airport|-30.0489|-59.5353|127|S|AR|0|-11.84|-0.167
 R|03|21|3150|131|T|0||||||||||
-A|AR-0158||Ezpeleta Airport|-34.7464|-58.2033|9|S|AR|0
+A|AR-0158||Ezpeleta Airport|-34.7464|-58.2033|9|S|AR|0|-10.22|-0.139
 R|15|33|3182|66|T|0||||||||||
-A|AR-0202||Establecimiento La Susana Airport|-34.91063|-59.34868|121|S|AR|0
+A|AR-0202||Establecimiento La Susana Airport|-34.91063|-59.34868|121|S|AR|0|-9.17|-0.146
 R|01|19|4429|98|T|0||||||||||
-A|AR-0217||La Angelita Airport|-30.8522|-58.7067|229|S|AR|0
+A|AR-0217||La Angelita Airport|-30.8522|-58.7067|229|S|AR|0|-12.09|-0.159
 R|06|24|3661|82|T|0||||||||||
-A|AR-0225||Quebracho Herrado Airport|-34.1553|-59.8739|170|S|AR|0
+A|AR-0225||Quebracho Herrado Airport|-34.1553|-59.8739|170|S|AR|0|-9.21|-0.153
 R|13|31|3215|98|T|0||||||||||
-A|AR-0230||La Paz Aeroclub Airport|-30.74399|-59.56933|200|S|AR|0
+A|AR-0230||La Paz Aeroclub Airport|-30.74399|-59.56933|200|S|AR|0|-11.45|-0.165
 R|05|23|3281|131|T|0||||||||||
-A|AR-0354||Tolosa Airport|-34.8747|-57.9608|18|S|AR|0
+A|AR-0354||Tolosa Airport|-34.8747|-57.9608|18|S|AR|0|-10.34|-0.137
 R|01|19|2789|98|T|0||||||||||
 R|11|29|3304|98|T|0||||||||||
-A|AR-0383||Zarate Airport|-34.11991|-59.0832|85|S|AR|0
+A|AR-0383||Zarate Airport|-34.11991|-59.0832|85|S|AR|0|-9.89|-0.148
 R|01|19|3937|131|T|0||||||||||
 R|09|27|4429|131|T|0||||||||||
-A|AR-0386||Buena Esperanza Airport|-30.5306|-58.3972|246|S|AR|0
+A|AR-0386||Buena Esperanza Airport|-30.5306|-58.3972|246|S|AR|0|-12.51|-0.158
 R|06|24|3051|89|T|0||||||||||
-A|AR-0399||General Rodriguez Ildefonso Durana Airport|-34.6803|-59.0358|91|S|AR|0
+A|AR-0399||General Rodriguez Ildefonso Durana Airport|-34.6803|-59.0358|91|S|AR|0|-9.58|-0.145
 R|17|35|3773|75|T|0||||||||||
-A|AR-0404||El Pilincho Airport|-30.3872|-57.9683|228|S|AR|0
+A|AR-0404||El Pilincho Airport|-30.3872|-57.9683|228|S|AR|0|-12.92|-0.155
 R|17|35|3163|82|T|0||||||||||
-A|AR-0417||Estancia Villa María|-34.6433|-59.1272|104|S|AR|0
+A|AR-0417||Estancia Villa María|-34.6433|-59.1272|104|S|AR|0|-9.53|-0.146
 R|06|24|3996|75|T|0||||||||||
-A|AR-0429||Haras La Pomme Airport|-34.2078|-59.3856|91|S|AR|0
+A|AR-0429||Haras La Pomme Airport|-34.2078|-59.3856|91|S|AR|0|-9.59|-0.149
 R|06|24|3937|98|T|0||||||||||
-A|AR-0463||Timboy Airport|-30.2236|-57.8444|213|S|AR|0
+A|AR-0463||Timboy Airport|-30.2236|-57.8444|213|S|AR|0|-13.1|-0.155
 R|17|35|3839|98|T|0||||||||||
-A|AR-0485||San Patricio Airport|-34.0403|-59.6944|147|S|AR|0
+A|AR-0485||San Patricio Airport|-34.0403|-59.6944|147|S|AR|0|-9.43|-0.152
 R|14|32|4593|98|T|1||||145|656||||325|
-A|AR-0585||Santa Elena Airport|-30.97607|-59.77689||S|AR|0
+A|AR-0585||Santa Elena Airport|-30.97607|-59.77689||S|AR|0|-11.15|-0.165
 R|14|32|4265|164|T|0||||||||||
-A|AR-0629||Estancia El Pinocho|-32.56474|-58.51746|56|S|AR|0
+A|AR-0629||Estancia El Pinocho|-32.56474|-58.51746|56|S|AR|0|-11.29|-0.151
 R|02|20|3051|131|T|0||||||||||
-A|AR-0630||Estancia La Elisa Airport|-34.03889|-59.77694|154|S|AR|0
+A|AR-0630||Estancia La Elisa Airport|-34.03889|-59.77694|154|S|AR|0|-9.36|-0.153
 R|01|19|3937|131|T|0||||||||||
-A|AR-0756||San Pedro Airport|-33.70408|-59.72579|88|S|AR|0
+A|AR-0756||San Pedro Airport|-33.70408|-59.72579|88|S|AR|0|-9.61|-0.154
 R|01|19|3084|75|T|0||||||||||
 R|10|28|3084|75|T|0||||||||||
-A|SA04||Isla Martin Garcia Airport|-34.1821|-58.2469|6|S|AR|0
+A|SA04||Isla Martin Garcia Airport|-34.1821|-58.2469|6|S|AR|0|-10.54|-0.142
 R|17|35|4150|98|A|1|-34.1767|-58.2488|7|164||-34.1876|-58.245|7|344|210
-A|SAAC|COC|Comodoro Pierrestegui Airport|-31.2969|-57.9966|112|M|AR|0
+A|SAAC|COC|Comodoro Pierrestegui Airport|-31.2969|-57.9966|112|M|AR|0|-12.42|-0.152
 R|04|22|5249|98|A|1|-31.3033|-58.0006|112|28||-31.2905|-57.9927|82|208|
 F|TWR|118.3|TWR
-A|SAAG|GHU|Gualeguaychu Airport|-33.00557|-58.61283|75|M|AR|0
+A|SAAG|GHU|Gualeguaychu Airport|-33.00557|-58.61283|75|M|AR|0|-10.96|-0.15
 R|01|19|4364|98|A|1|-33.0117|-58.6138|75|1||-32.9998|-58.6134|53|181|
 R|03|21|||U|0|||75|||||75||
 F|TWR|118.4|TWR/APP
-A|SAAU||Villaguay Airport|-31.855|-59.0756|131|S|AR|0
+A|SAAU||Villaguay Airport|-31.855|-59.0756|131|S|AR|0|-11.24|-0.158
 R|18|36|3904|98|T|0||||||||||
-A|SABE|AEP|Aeroparque Jorge Newbery|-34.55942|-58.41554|18|L|AR|1
+A|SABE|AEP|Aeroparque Jorge Newbery|-34.55942|-58.41554|18|L|AR|1|-10.17|-0.142
 R|13|31|7710|148|H|1|-34.5539|-58.4251|18|124||-34.5645|-58.4061|15|304|417
 F|APP|120.6|APP
 F|ATIS|127.6|ATIS
 F|CLD|129.3|CLNC DEL
 F|GND|121.9|GND
 F|TWR|118.85|TWR
-A|SADF||San Fernando Airport|-34.4532|-58.5896|10|M|AR|0
+A|SADF||San Fernando Airport|-34.4532|-58.5896|10|M|AR|0|-10.09|-0.143
 R|05|23|5909|98|A|1|-34.4598|-58.5971|10|44||-34.4474|-58.5828|10|224|
 F|GND|121.65|GND
 F|TWR|120.7|FERNANDO TWR
-A|SADL|LPG|La Plata Airport|-34.9722|-57.8947|72|M|AR|0
+A|SADL|LPG|La Plata Airport|-34.9722|-57.8947|72|M|AR|0|-10.33|-0.136
 R|02|20|4682|148|A|1|-34.9755|-57.895|69|13.9||-34.963|-57.8912|69|193.9|495
 F|TWR|119.3|La Plata Aeradio
-A|SADM||Morón Airport|-34.6763|-58.6428|95|S|AR|0
+A|SADM||Morón Airport|-34.6763|-58.6428|95|S|AR|0|-9.91|-0.143
 R|02|20|9350|131|A|0|-34.6888|-58.6464|98|13|2460|-34.6638|-58.6391|82|193|2172
 F|GND|121.8|Morón superficie
 F|TWR|118.5|Moron Torre
-A|SADO||Campo de Mayo Military Airport|-34.5344|-58.6717|78|S|AR|0
+A|SADO||Campo de Mayo Military Airport|-34.5344|-58.6717|78|S|AR|0|-9.97|-0.143
 R|18|36|5905|98|A|1|-34.5265|-58.6723||176.9||-34.5424|-58.6712||356.9|
 F|GND|124.5|GND
 F|TWR|123.8|TWR
-A|SADP|EPA|El Palomar Airport|-34.6099|-58.6126|59|M|AR|0
+A|SADP|EPA|El Palomar Airport|-34.6099|-58.6126|59|M|AR|0|-9.97|-0.143
 R|17|35|6923|147|C|1|-34.6012|-58.617|43|165.3|656|-34.6187|-58.6082|59|345.3|656
 F|TWR|118.9|PALOMAR TWR
-A|SADQ||Quilmes Airport|-34.7064|-58.2444|6|S|AR|0
+A|SADQ||Quilmes Airport|-34.7064|-58.2444|6|S|AR|0|-10.21|-0.14
 R|18|36|3281|98|T|0||||||||||
-A|SADZ||Matanza Airport|-34.72837|-58.50086|9|S|AR|0
+A|SADZ||Matanza Airport|-34.72837|-58.50086|9|S|AR|0|-9.99|-0.141
 R|09|27|2133|75|T|0||||||||||
 R|17|35|3396|164|T|0||||||||||
-A|SAEZ|EZE|Ezeiza International Airport - Ministro Pistarini|-34.8222|-58.5358|67|L|AR|1
+A|SAEZ|EZE|Ezeiza International Airport - Ministro Pistarini|-34.8222|-58.5358|67|L|AR|1|-9.9|-0.141
 R|11|29|10827|197|A|1|-34.8191|-58.5535|62|102.3||-34.8254|-58.5182|66|282.3|
 R|17|35|10187|148|A|1|-34.8083|-58.5339|62|164||-34.8352|-58.5246|67|344|984
 F|A/D|124.9|BAIRES CON
 F|APP|119.9|EZEIZA APP
 F|ATIS|127.8|ATIS
 F|TWR|118.6|EZEIZA TWR
-A|SARM|MCS|Monte Caseros Airport|-30.2719|-57.6402|170|M|AR|0
+A|SARM|MCS|Monte Caseros Airport|-30.2719|-57.6402|170|M|AR|0|-13.24|-0.153
 R|18|36|4068|98|T|0|-30.2667|-57.6409||173||-30.2771|-57.6395||353|
 R|18L|36R|4323|98|T|0|-30.2646|-57.6399||173||-30.2764|-57.6385||353|
 F|RDO|118.7|RDO
-A|SUAA||Ángel S. Adami International Airport|-34.7892|-56.2647|174|M|UY|0
+A|SUAA||Ángel S. Adami International Airport|-34.7892|-56.2647|174|M|UY|0|-11.71|-0.125
 R|01|19|4101|75|C|1|-34.79458|-56.26455|174|7||-34.78344|-56.26533|151|187|
 F|TWR|118.4|ADAMI TWR
-A|SUAG|ATI|Artigas International Airport|-30.4007|-56.5079|410|S|UY|0
+A|SUAG|ATI|Artigas International Airport|-30.4007|-56.5079|410|S|UY|0|-14.03|-0.144
 R|11|29|4183||U|0|||397|||||390||
-A|SUAN||Anchorena Airport|-34.27052|-57.96438|49|S|UY|0
+A|SUAN||Anchorena Airport|-34.27052|-57.96438|49|S|UY|0|-10.71|-0.14
 R|01|19|4100|131|T|0||||||||||
-A|SUCA|CYR|Colonia Laguna de Los Patos International Airport|-34.4564|-57.7706|66|S|UY|0
+A|SUCA|CYR|Colonia Laguna de Los Patos International Airport|-34.4564|-57.7706|66|S|UY|0|-10.75|-0.138
 R|13|31|4495||C|0|||66|||||33||
-A|SUCL||La Calera Airport|-34.28677|-55.35476|501|S|UY|0
+A|SUCL||La Calera Airport|-34.28677|-55.35476|501|S|UY|0|-12.7|-0.12
 R|01|19|5577|148|T|0||||||||||
-A|SUCM||Zagarzazú International Airport|-33.96611|-58.32528|42|S|UY|0
+A|SUCM||Zagarzazú International Airport|-33.96611|-58.32528|42|S|UY|0|-10.61|-0.144
 R|17|35|3478|92|T|0|-33.96146|-58.32709|36|||-33.9706|-58.32369|33||
-A|SUCN||Aeroclub Canelones|-34.51515|-56.26138|98|S|UY|0
+A|SUCN||Aeroclub Canelones|-34.51515|-56.26138|98|S|UY|0|-11.89|-0.126
 R|03|21|2297|98|T|0|||98|||||82||
 R|09|27|3281|98|T|0|||75|||||92||
 R|15|33|1476|98|T|0|||75|||||98||
-A|SUDU|DZO|Santa Bernardina International Airport|-33.3589|-56.4992|305|M|UY|0
+A|SUDU|DZO|Santa Bernardina International Airport|-33.3589|-56.4992|305|M|UY|0|-12.41|-0.133
 R|03|21|7477|148|A|1|-33.3694|-56.5046|272|23||-33.3505|-56.4949|305|203|
 R|10|28|4764|98|A|1|-33.3596|-56.5108|276|90||-33.3588|-56.4953|295|270|
 F|APP|120.4|DURAZNO APP
 F|TWR|120.4|DURAZNO TWR
-A|SULS|PDP|Capitan Corbeta CA Curbelo International Airport|-34.8551|-55.0943|95|M|UY|1
+A|SULS|PDP|Capitan Corbeta CA Curbelo International Airport|-34.8551|-55.0943|95|M|UY|1|-12.54|-0.115
 R|01|19|5249|125|A|1|-34.8646|-55.0938|95|357.9||-34.8502|-55.0945|75|177.9|
 R|08|26|6998|148|A|1|-34.8598|-55.1123|92|72.5||-34.854|-55.0901|69|252.5|
 F|TWR|118.3|TWR
-A|SUME||Ricardo Detomasi Airport|-33.2489|-58.0737|68|S|UY|0
+A|SUME||Ricardo Detomasi Airport|-33.2489|-58.0737|68|S|UY|0|-11.25|-0.145
 R|08|26|3675||U|0|||72|||||66||
-A|SUMU|MVD|Carrasco General Cesáreo L. Berisso International Airport|-34.83565|-56.0265|105|L|UY|1
+A|SUMU|MVD|Carrasco General Cesáreo L. Berisso International Airport|-34.83565|-56.0265|105|L|UY|1|-11.87|-0.123
 R|01|19|7382|148|H|1|-34.84192|-56.03073|62|359||-34.8217|-56.03095|51|179|
 R|07|25|10499|148|H|1|-34.844|-56.04|49|53|1150|-34.8268|-56.0119|105|233|490
 F|APP|119.2|APP
 F|TWR|118.1|TWR
-A|SUPU|PDU|Tydeo Larre Borges Airport|-32.3633|-58.0619|138|M|UY|0
+A|SUPU|PDU|Tydeo Larre Borges Airport|-32.3633|-58.0619|138|M|UY|0|-11.77|-0.148
 R|02|20|4331|98|A|1|-32.37009|-58.06336|177|||-32.35833|-58.06121|141||
-A|SURV|RVY|Pres. Gral. Óscar D. Gestido Binational Airport|-30.9746|-55.4762|712|M|UY|1
+A|SURV|RVY|Pres. Gral. Óscar D. Gestido Binational Airport|-30.9746|-55.4762|712|M|UY|1|-14.48|-0.133
 R|05|23|6004||U|0|||669|||||719||
-A|SUSJ||San José Airport|-34.35055|-56.75244|229|S|UY|0
+A|SUSJ||San José Airport|-34.35055|-56.75244|229|S|UY|0|-11.62|-0.131
 R|08|26|3937|98|T|0||||||||||
 R|12|30|2789|98|T|0||||||||||
 R|17|35|2034|115|T|0||||||||||
-A|SUSO|STY|Nueva Hesperides International Airport|-31.4385|-57.9853|187|M|UY|0
+A|SUSO|STY|Nueva Hesperides International Airport|-31.4385|-57.9853|187|M|UY|0|-12.35|-0.152
 R|05|23|5210|148|A|1|-31.4441|-57.9905|187|38.9||-31.4329|-57.9801|171|218.9|
 R|13|31|2461|164|T|0|-31.4308|-57.9891|157|116||-31.4338|-57.9821|174|296|
 F|TWR|118.8|SALTO TWR
-A|SUTB|TAW|Tacuarembo Airport|-31.749|-55.9258|440|S|UY|0
+A|SUTB|TAW|Tacuarembo Airport|-31.749|-55.9258|440|S|UY|0|-13.75|-0.134
 R|10|28|3806||U|0|||440|||||430||
-A|SUTG||Tomás Gomenzoro Airport|-30.43661|-57.44673|273|S|UY|0
+A|SUTG||Tomás Gomenzoro Airport|-30.43661|-57.44673|273|S|UY|0|-13.3|-0.151
 R|09|27|3609||T|0||||||||||
-A|UY-0014||Juan B. Desalvo Airport|-33.48556|-56.89083|423|S|UY|0
+A|UY-0014||Juan B. Desalvo Airport|-33.48556|-56.89083|423|S|UY|0|-12.03|-0.135
 R|05|23|3215|148|T|0||||||||||
 R|09|27|2051|148|T|0||||||||||
 R|18|36|1804|148|T|0||||||||||

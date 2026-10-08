@@ -1,35 +1,35 @@
-H|apt|1|1036
-A|BR-1832||Trancoso Rio Frade Airstrip|-16.58556|-39.23583|256|S|BR|0
+H|apt|2|1036
+A|BR-1832||Trancoso Rio Frade Airstrip|-16.58556|-39.23583|256|S|BR|0|-23.61|0.036
 R|09|27|4265|98|D|1||||||||||
-A|BR-2466||Fazenda Taua Airport|-16.98352|-39.16454|43|S|BR|0
+A|BR-2466||Fazenda Taua Airport|-16.98352|-39.16454|43|S|BR|0|-23.66|0.036
 R|12|30|3609|75|G|0||||||||||
-A|SBCV|CRQ|Caravelas Airport|-17.6523|-39.2531|36|M|BR|0
+A|SBCV|CRQ|Caravelas Airport|-17.6523|-39.2531|36|M|BR|0|-23.73|0.032
 R|06|24|5020|164|A|0||||||||||
-A|SBPS|BPS|Porto Seguro International Airport|-16.43843|-39.08058|169|L|BR|1
+A|SBPS|BPS|Porto Seguro International Airport|-16.43843|-39.08058|169|L|BR|1|-23.6|0.038
 R|10|28|6562|148|A|1|-16.4407|-39.0888|169|74|427|-16.4363|-39.0726|156|254|230
 F|TWR|118.2|TWR
-A|SBTC|UNA|Una-Comandatuba Airport|-15.35436|-38.99873|23|S|BR|1
+A|SBTC|UNA|Una-Comandatuba Airport|-15.35436|-38.99873|23|S|BR|1|-23.45|0.043
 R|02|20|6234|98|A|0||||||||||
-A|SBTV||Terravista Airport|-16.54142|-39.10811|164|S|BR|0
+A|SBTV||Terravista Airport|-16.54142|-39.10811|164|S|BR|0|-23.61|0.038
 R|15|33|4921|98|A|1|-16.5368|-39.1134||127||-16.5449|-39.1021||307|
 F|RDO|131.4|
-A|SD6P|BVM|Belmonte Airport|-15.8717|-38.8719|10|S|BR|0
+A|SD6P|BVM|Belmonte Airport|-15.8717|-38.8719|10|S|BR|0|-23.53|0.043
 R|04|22|3937|98|A|0||||||||||
-A|SJXC||Usina Santa Cruz Airport|-16.18306|-39.35806|410|S|BR|0
+A|SJXC||Usina Santa Cruz Airport|-16.18306|-39.35806|410|S|BR|0|-23.55|0.036
 R|08|26|4593|98|A|0||||||||||
-A|SJXS||Veracel Airport|-16.10444|-39.36389|434|S|BR|0
+A|SJXS||Veracel Airport|-16.10444|-39.36389|434|S|BR|0|-23.54|0.036
 R|08|26|4921|98|A|0||||||||||
-A|SNEC||Outeiros da Brisas Airport|-16.71296|-39.14241|130|S|BR|0
+A|SNEC||Outeiros da Brisas Airport|-16.71296|-39.14241|130|S|BR|0|-23.63|0.037
 R|16|34|3117|66|T|0||||||||||
-A|SNED|CNV|Sócrates Rezende Airport|-15.667|-38.9547|20|S|BR|0
+A|SNED|CNV|Sócrates Rezende Airport|-15.667|-38.9547|20|S|BR|0|-23.5|0.043
 R|14|32|4396|98|A|0||||||||||
-A|SNMU|MVS|Mucuri Airport|-18.0489|-39.86432|276|S|BR|0
+A|SNMU|MVS|Mucuri Airport|-18.0489|-39.86432|276|S|BR|0|-23.7|0.024
 R|05|23|4593|59|A|0||||||||||
-A|SNMX|SBJ|São Mateus - Ernesto Bonomo Airport|-18.7213|-39.8337|98|S|BR|0
+A|SNMX|SBJ|São Mateus - Ernesto Bonomo Airport|-18.7213|-39.8337|98|S|BR|0|-23.75|0.023
 R|08|26|4429|98|A|1||||||||||
-A|SNRD|PDF|Prado Airport|-17.29698|-39.27113|89|S|BR|0
+A|SNRD|PDF|Prado Airport|-17.29698|-39.27113|89|S|BR|0|-23.69|0.033
 R|11|29|3822|98|A|0|-17.29708|-39.27614||88|150|-17.29681|-39.26608||268|150
-A|SNTF|TXF|9 de Maio - Teixeira de Freitas Airport|-17.52439|-39.6685|344|S|BR|0
+A|SNTF|TXF|9 de Maio - Teixeira de Freitas Airport|-17.52439|-39.6685|344|S|BR|0|-23.68|0.028
 R|11|29|4790|98|A|1|-17.52442|-39.67533|336|||-17.52442|-39.66159|336||
-A|SW2A||Cesconetto Airport|-16.29364|-39.55942|591|S|BR|0
+A|SW2A||Cesconetto Airport|-16.29364|-39.55942|591|S|BR|0|-23.55|0.034
 R|07|25|3773|66|D|0||||||||||

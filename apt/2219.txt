@@ -1,5 +1,5 @@
-H|apt|1|2219
-A|UENN|NYR|Nyurba Airport|63.2967|118.34195|394|S|RU|0
+H|apt|2|2219
+A|UENN|NYR|Nyurba Airport|63.2967|118.34195|394|S|RU|0|-14.23|-0.075
 R|16|34|4265||U|0||||||||||
-A|UENS|SUY|Suntar Airport|62.185|117.635|452|S|RU|1
+A|UENS|SUY|Suntar Airport|62.185|117.635|452|S|RU|1|-13.68|-0.07
 R|17|35|5906||C|0||||||||||

@@ -1,5 +1,5 @@
-H|apt|1|2228
-A|RU-10136||Verkhnee Penzhino Airport|64.22266|164.24487|1093|S|RU|0
+H|apt|2|2228
+A|RU-10136||Verkhnee Penzhino Airport|64.22266|164.24487|1093|S|RU|0|-7.48|-0.214
 R|15|33|3379||H|0||||||||||
-A|UHMG||Chaybukha Airport|61.835|160.548|207|M|RU|0
+A|UHMG||Chaybukha Airport|61.835|160.548|207|M|RU|0|-8.56|-0.162
 R|06|24|6561|98|C|1||||||||||

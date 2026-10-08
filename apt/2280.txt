@@ -1,5 +1,5 @@
-H|apt|1|2280
-A|RU-9129||Vorkuta Sovetskiy Air Base|67.4633|64.3067|630|M|RU|0
+H|apt|2|2280
+A|RU-9129||Vorkuta Sovetskiy Air Base|67.4633|64.3067|630|M|RU|0|25.68|0.108
 R|01|19|11482|246|C|1||||||||||
-A|UUYW|VKT|Vorkuta Airport|67.4886|63.9931|604|M|RU|1
+A|UUYW|VKT|Vorkuta Airport|67.4886|63.9931|604|M|RU|1|25.72|0.11
 R|08|26|7218|157|C|1||||||||||

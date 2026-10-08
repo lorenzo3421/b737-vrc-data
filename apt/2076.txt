@@ -1,5 +1,5 @@
-H|apt|1|2076
-A|ZYJD|JGD|Daxing'anling Elunchun Airport|50.37139|124.1175|1205|M|CN|1
+H|apt|2|2076
+A|ZYJD|JGD|Daxing'anling Elunchun Airport|50.37139|124.1175|1205|M|CN|1|-12.31|-0.034
 R|18|36|7546||C|0||||||||||
-A|ZYMH|OHE|Mohe Gulian Airport|52.91687|122.42276|1836|M|CN|1
+A|ZYMH|OHE|Mohe Gulian Airport|52.91687|122.42276|1836|M|CN|1|-12.69|-0.037
 R|15|33|7218||C|0||||||||||

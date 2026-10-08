@@ -1,3 +1,3 @@
-H|apt|1|1083
-A|NCMH|MHX|Manihiki Island Airport|-10.38091|-160.99942|11|S|CK|1
+H|apt|2|1083
+A|NCMH|MHX|Manihiki Island Airport|-10.38091|-160.99942|11|S|CK|1|11.1|0.017
 R|14|32|3937||U|0|||5|||||5||

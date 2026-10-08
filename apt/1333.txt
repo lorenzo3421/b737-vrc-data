@@ -1,37 +1,37 @@
-H|apt|1|1333
-A|DN55||Eket Airport|4.64284|7.94914|47|S|NG|0
+H|apt|2|1333
+A|DN55||Eket Airport|4.64284|7.94914|47|S|NG|0|-0.58|0.082
 R|01|19|4266|70|A|0|4.63638|7.94801||10||4.64797|7.95007||190|
-A|DNAI|QUO|Akwa Ibom International Airport|4.8725|8.093|170|M|NG|1
+A|DNAI|QUO|Akwa Ibom International Airport|4.8725|8.093|170|M|NG|1|-0.5|0.081
 R|03|21|11811||U|0||||||||||
-A|DNBY||Bayelsa International Airport|4.95759|6.20333|67|M|NG|1
+A|DNBY||Bayelsa International Airport|4.95759|6.20333|67|M|NG|1|-0.93|0.087
 R|06|24|12139||A|0||||||||||
-A|DNCA|CBQ|Margaret Ekpo International Airport|4.97602|8.3472|210|M|NG|1
+A|DNCA|CBQ|Margaret Ekpo International Airport|4.97602|8.3472|210|M|NG|1|-0.43|0.08
 R|03|21|8040|148|A|1|4.96617|8.34229|201|27||4.98593|8.3523|211|207|
 F|TWR|124.5|TWR
-A|DNFB||Finima Bonny Airport|4.40481|7.18087||S|NG|0
+A|DNFB||Finima Bonny Airport|4.40481|7.18087||S|NG|0|-0.81|0.084
 R|04|22|5582|98|A|0||||||||||
-A|FGBT|BSG|Bata International Airport|1.90547|9.80568|13|L|GQ|1
+A|FGBT|BSG|Bata International Airport|1.90547|9.80568|13|L|GQ|1|-0.64|0.079
 R|03|21|10860|200|A|1|||13|||||13||
 F|TWR|118.8|TWR
-A|FGSL|SSG|Malabo International Airport|3.75527|8.70872|76|L|GQ|1
+A|FGSL|SSG|Malabo International Airport|3.75527|8.70872|76|L|GQ|1|-0.56|0.08
 R|04|22|9647|151|C|1|3.74541|8.69991|75|42||3.76513|8.71753|41|222|
 F|TWR|128.3|TWR
-A|FKKB|KBI|Kribi Airport|2.87389|9.97778|148|S|CM|0
+A|FKKB|KBI|Kribi Airport|2.87389|9.97778|148|S|CM|0|-0.41|0.077
 R|03|21|5906||U|0|||144|||||131||
-A|FKKC|TKC|Tiko Airport|4.08919|9.36053|151|M|CM|0
+A|FKKC|TKC|Tiko Airport|4.08919|9.36053|151|M|CM|0|-0.34|0.078
 R|05|23|4512|151|A|1|4.08468|9.35627|151|43||4.0937|9.36479|144|223|
-A|FKKD|DLA|Douala International Airport|4.00608|9.71948|33|L|CM|1
+A|FKKD|DLA|Douala International Airport|4.00608|9.71948|33|L|CM|1|-0.27|0.077
 R|12|30|9350|148|A|1|4.01187|9.70804|34|117||4.00024|9.73098|14|297|
 F|TWR|119.7|TWR
-A|FOOL|LBV|Libreville Leon M'ba International Airport|0.45895|9.41214|39|L|GA|1
+A|FOOL|LBV|Libreville Leon M'ba International Airport|0.45895|9.41214|39|L|GA|1|-1.03|0.082
 R|16|34|9844|148|A|1|0.47081|9.40635|29|154||0.44642|9.41815|28|334|
 F|TWR|118.7|TWR
-A|FPPR|PCP|Principe Airport|1.66115|7.41108|591|M|ST|1
+A|FPPR|PCP|Principe Airport|1.66115|7.41108|591|M|ST|1|-1.3|0.088
 R|18|36|4331|98|A|1|1.66872|7.4105|581|168||1.65715|7.41298|591|348|
-A|FPST|TMS|São Tomé International Airport|0.37817|6.71215|33|L|ST|1
+A|FPST|TMS|São Tomé International Airport|0.37817|6.71215|33|L|ST|1|-1.79|0.093
 R|11|29|7283|148|A|0|0.38053|6.70242|39|103|200|0.37582|6.72188|16|283|200
 F|TWR|118.9|TWR
-A|NG-0004|PHG|Port Harcourt City Airport / Port Harcourt Air Force Base|4.84611|7.02139|57|M|NG|1
+A|NG-0004|PHG|Port Harcourt City Airport / Port Harcourt Air Force Base|4.84611|7.02139|57|M|NG|1|-0.76|0.084
 R|04|26|6923||A|1||||||||||
-A|OCS|OCS|Corisco International Airport|0.91094|9.33027|55|L|GQ|1
+A|OCS|OCS|Corisco International Airport|0.91094|9.33027|55|L|GQ|1|-0.96|0.082
 R|01|19|10220||C|0||||||||||

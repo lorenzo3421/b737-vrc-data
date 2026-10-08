@@ -1,5 +1,5 @@
-H|apt|1|2079
-A|UHKD||Dzemgi Airport|50.60563|137.08127|89|M|RU|0
+H|apt|2|2079
+A|UHKD||Dzemgi Airport|50.60563|137.08127|89|M|RU|0|-12.73|-0.023
 R|01|19|8202|246|C|1||||||||||
-A|UHKK|KXK|Komsomolsk-on-Amur Airport|50.409|136.93401|92|M|RU|1
+A|UHKK|KXK|Komsomolsk-on-Amur Airport|50.409|136.93401|92|M|RU|1|-12.69|-0.023
 R|18|36|8202|131|C|1||||||||||

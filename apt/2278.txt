@@ -1,7 +1,7 @@
-H|apt|1|2278
-A|ULAM|NNM|Naryan Mar Airport|67.64|53.1219|36|M|RU|1
+H|apt|2|2278
+A|ULAM|NNM|Naryan Mar Airport|67.64|53.1219|36|M|RU|1|24.62|0.16
 R|06|24|8202|131|C|1||||||||||
-A|UUYV||Izhma Airport|65.0317|53.97|230|M|RU|0
+A|UUYV||Izhma Airport|65.0317|53.97|230|M|RU|0|22.22|0.125
 R|01|19|4264|105|C|1||||||||||
-A|UUYX|UTS|Ust-Tsylma Airport|65.43729|52.20034|262|M|RU|0
+A|UUYX|UTS|Ust-Tsylma Airport|65.43729|52.20034|262|M|RU|0|22.27|0.136
 R|15|33|4265|98|C|1||||||||||

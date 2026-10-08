@@ -1,48 +1,48 @@
-H|apt|1|1031
-A|BR-2718||Fazenda Sagrado Coração de Jesus Airport|-15.08997|-60.11655|499|S|BR|0
+H|apt|2|1031
+A|BR-2718||Fazenda Sagrado Coração de Jesus Airport|-15.08997|-60.11655|499|S|BR|0|-16.27|-0.186
 R|10|28|3281|66|A|0||||||||||
-A|BR-3038||Casalvasco Airport|-15.48945|-60.08535|676|S|BR|0
+A|BR-3038||Casalvasco Airport|-15.48945|-60.08535|676|S|BR|0|-16.23|-0.187
 R|01|19|3445|98|T|0||||||||||
-A|BR-3090||Fazenda Excalibur Airport|-15.29631|-60.36868|971|S|BR|0
+A|BR-3090||Fazenda Excalibur Airport|-15.29631|-60.36868|971|S|BR|0|-16.07|-0.188
 R|06|24|3937|98|A|0||||||||||
-A|BR-3135||São Simão Airport|-15.9146|-60.14836|705|S|BR|0
+A|BR-3135||São Simão Airport|-15.9146|-60.14836|705|S|BR|0|-16.12|-0.188
 R|13|31|3655|98|A|0||||||||||
-A|SD3R||Fazenda Zohar Airstrip|-15.36667|-60.04556|755|S|BR|0
+A|SD3R||Fazenda Zohar Airstrip|-15.36667|-60.04556|755|S|BR|0|-16.28|-0.186
 R|06|24|3609|59|G|0||||||||||
-A|SI2W||Fazenda Lacy Airstrip.|-15.95028|-60.11306|791|S|BR|0
+A|SI2W||Fazenda Lacy Airstrip.|-15.95028|-60.11306|791|S|BR|0|-16.14|-0.187
 R|18|36|3937|66|D|0||||||||||
-A|SIFT||Fazenda Travessão Airport|-16.14428|-60.12017|906|S|BR|0
+A|SIFT||Fazenda Travessão Airport|-16.14428|-60.12017|906|S|BR|0|-16.1|-0.188
 R|01|19|3281|66|A|0||||||||||
-A|SJUB||Fazenda Rio Azul Airport|-15.18333|-60.22167|896|S|BR|0
+A|SJUB||Fazenda Rio Azul Airport|-15.18333|-60.22167|896|S|BR|0|-16.19|-0.187
 R|18|36|3609|82|A|0||||||||||
-A|SLAG|MHW|Monteagudo Airport|-19.827|-63.961|3674|S|BO|0
+A|SLAG|MHW|Monteagudo Airport|-19.827|-63.961|3674|S|BO|0|-12.33|-0.213
 R|16|34|6562|98|A|0|-19.81654|-63.96678|3671|150||-19.83216|-63.9572|3627|330|
-A|SLCP|CEP|Concepción Airport|-16.14269|-62.0266|1620|S|BO|0
+A|SLCP|CEP|Concepción Airport|-16.14269|-62.0266|1620|S|BO|0|-14.75|-0.201
 R|17|35|5653|98|T|0|-16.1364|-62.02963|1635|||-16.15047|-62.02271|1635||
-A|SLET|SRZ|El Trompillo Airport|-17.8116|-63.1715|1371|M|BO|1
+A|SLET|SRZ|El Trompillo Airport|-17.8116|-63.1715|1371|M|BO|1|-13.52|-0.209
 R|16|34|9098|131|A|0|-17.8014|-63.1793|1372|144||-17.8218|-63.1637|1359|324|
 F|APP|119.7|VIRU VIRU APP
 F|GND|121.7|GND
 F|RDO|127.1|SANTA CRUZ RDO
 F|TWR|118.3|TROMPILLO TWR
-A|SLSI|SNG|Capitán Av. Juan Cochamanidis S. Airport|-16.38719|-60.96232|1354|S|BO|0
+A|SLSI|SNG|Capitán Av. Juan Cochamanidis S. Airport|-16.38719|-60.96232|1354|S|BO|0|-15.47|-0.194
 R|18|36|3936|98|U|0|-16.37927|-60.96358|1355|||-16.38998|-60.96184|1355||
-A|SLSV||San Ignacio de Velasco Airport|-16.40124|-61.0452|1477|M|BO|0
+A|SLSV||San Ignacio de Velasco Airport|-16.40124|-61.0452|1477|M|BO|0|-15.41|-0.195
 R|18|36|9055|148|A|1|-16.389|-61.0475|1482|169||-16.4134|-61.0428|1482|349|
-A|SLVR|VVI|Viru Viru International Airport|-17.6448|-63.1354|1224|L|BO|1
+A|SLVR|VVI|Viru Viru International Airport|-17.6448|-63.1354|1224|L|BO|1|-13.59|-0.209
 R|16|34|11483|148|C|1|-17.6315|-63.1443|1218|147||-17.658|-63.1264|1224|327|
 F|APP|119.7|APP
 F|CLD|121.8|CLNC DEL
 F|GND|121.9|GND
 F|RDO|127.1|SANTA CRUZ RDO
 F|TWR|118.6|TWR
-A|SNOM||Fazenda Guaporeí Airport|-15.00665|-60.22074|1027|S|BR|0
+A|SNOM||Fazenda Guaporeí Airport|-15.00665|-60.22074|1027|S|BR|0|-16.21|-0.187
 R|18|36|3609|59|A|0||||||||||
-A|SS3B||Fazenda LB Airstrip|-15.89861|-60.08861|771|S|BR|0
+A|SS3B||Fazenda LB Airstrip|-15.89861|-60.08861|771|S|BR|0|-16.16|-0.187
 R|04|22|3283|66|D|0||||||||||
-A|SS9Z||Fazenda Silmar Airstrip|-16.225|-60.08916|937|S|BR|0
+A|SS9Z||Fazenda Silmar Airstrip|-16.225|-60.08916|937|S|BR|0|-16.11|-0.188
 R|02|20|3281|66|D|0||||||||||
-A|SWSF||Fazenda São Francisco Airport|-15.2241|-60.2172|863|S|BR|0
+A|SWSF||Fazenda São Francisco Airport|-15.2241|-60.2172|863|S|BR|0|-16.18|-0.187
 R|18|36|3609|59|A|0||||||||||
-A|SWVV||Fazenda Bela Vista Airport|-15.75513|-60.09574|728|S|BR|0
+A|SWVV||Fazenda Bela Vista Airport|-15.75513|-60.09574|728|S|BR|0|-16.18|-0.187
 R|12|30|3071|98|T|0||||||||||

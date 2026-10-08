@@ -1,3 +1,3 @@
-H|apt|1|2224
-A|UEMT|USR|Ust-Nera Airport|64.55|143.115|1805|M|RU|1
+H|apt|2|2224
+A|UEMT|USR|Ust-Nera Airport|64.55|143.115|1805|M|RU|1|-15.47|-0.1
 R|08|26|5020||A|0||||||||||

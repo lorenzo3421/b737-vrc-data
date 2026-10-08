@@ -1,3 +1,3 @@
-H|apt|1|1253
-A|SBFN|FEN|Fernando de Noronha Airport|-3.85453|-32.42302|193|M|BR|1
+H|apt|2|1253
+A|SBFN|FEN|Fernando de Noronha Airport|-3.85453|-32.42302|193|M|BR|1|-18.77|0.16
 R|12|30|6053|148|A|0||||||||||

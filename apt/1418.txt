@@ -1,8 +1,8 @@
-H|apt|1|1418
-A|VRDA|NMF|Maafaru International Airport|5.81741|73.4684|6|M|MV|1
+H|apt|2|1418
+A|VRDA|NMF|Maafaru International Airport|5.81741|73.4684|6|M|MV|1|-2.29|0.03
 R|06|24|9350|148|A|1|5.80962|73.45664|6|||5.82415|73.4779|6||
-A|VRMD|DRV|Dharavandhoo Airport|5.1561|73.1302|6|S|MV|1
+A|VRMD|DRV|Dharavandhoo Airport|5.1561|73.1302|6|S|MV|1|-2.43|0.031
 R|11|29|3901||A|0||||||||||
-A|VRMH|HAQ|Hanimaadhoo International Airport|6.74324|73.16707|4|L|MV|1
+A|VRMH|HAQ|Hanimaadhoo International Airport|6.74324|73.16707|4|L|MV|1|-2.11|0.028
 R|03|21|8087|148|A|1|6.7393|73.168|5|27||6.74916|73.173|5|207|
 F|TWR|119.1|TWR

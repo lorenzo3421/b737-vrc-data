@@ -1,164 +1,164 @@
-H|apt|1|0889
-A|BR-0122||Old Vacaria Airport|-28.50972|-50.91833|3215|S|BR|0
+H|apt|2|0889
+A|BR-0122||Old Vacaria Airport|-28.50972|-50.91833|3215|S|BR|0|-18.48|-0.097
 R|14|32|3543|98|T|0||||||||||
-A|BR-0693||Eloy Biesuz Airport|-25.99833|-52.92667|1631|S|BR|0
+A|BR-0693||Eloy Biesuz Airport|-25.99833|-52.92667|1631|S|BR|0|-18.26|-0.123
 R|10|28|3937|75|G|0||||||||||
-A|BR-1951||Dionísio Cerqueira Airport|-26.28834|-53.63078|2703|S|BR|0
+A|BR-1951||Dionísio Cerqueira Airport|-26.28834|-53.63078|2703|S|BR|0|-17.74|-0.129
 R|01|19|4514|75|A|0||||||||||
-A|BR-2190||Campo Novo Airport|-27.66646|-53.8086|1460|S|BR|0
+A|BR-2190||Campo Novo Airport|-27.66646|-53.8086|1460|S|BR|0|-17.11|-0.128
 R|09|27|3346|98|A|0||||||||||
-A|BR-2191||Medianeira Airport|-25.3109|-54.0705|1483|S|BR|0
+A|BR-2191||Medianeira Airport|-25.3109|-54.0705|1483|S|BR|0|-17.81|-0.135
 R|13|31|3937|59|A|0||||||||||
-A|BR-2214||AAGR (Associação Aerodesportiva de Guaporé) Airport|-28.89485|-51.85533|1581|S|BR|0
+A|BR-2214||AAGR (Associação Aerodesportiva de Guaporé) Airport|-28.89485|-51.85533|1581|S|BR|0|-17.8|-0.105
 R|12|30|3609|75|A|0||||||||||
-A|BR-2232||Três Passos Airport|-27.51273|-53.8983|1503|S|BR|0
+A|BR-2232||Três Passos Airport|-27.51273|-53.8983|1503|S|BR|0|-17.12|-0.129
 R|11|29|4199|98|T|0||||||||||
-A|BR-2952||Salto Santiago Airport|-25.51413|-52.5575|2087|S|BR|0
+A|BR-2952||Salto Santiago Airport|-25.51413|-52.5575|2087|S|BR|0|-18.63|-0.12
 R|07|25|3937|98|G|0||||||||||
-A|BR-3002||Cambará Airport|-29.00058|-50.07582|3527|S|BR|0
+A|BR-3002||Cambará Airport|-29.00058|-50.07582|3527|S|BR|0|-18.73|-0.087
 R|09|27|3182|98|T|0||||||||||
-A|SARI|IGR|Cataratas Del Iguazú International Airport|-25.7373|-54.4734|916|M|AR|1
+A|SARI|IGR|Cataratas Del Iguazú International Airport|-25.7373|-54.4734|916|M|AR|1|-17.42|-0.138
 R|13|31|10827|148|A|1|-25.731|-54.4884|908|114.8||-25.7435|-54.4585|916|294.8|
 F|TWR|120.7|TWR/APP
-A|SATD|ELO|El Dorado Airport|-26.3975|-54.5747|685|S|AR|0
+A|SATD|ELO|El Dorado Airport|-26.3975|-54.5747|685|S|AR|0|-17.12|-0.138
 R|01|19|4695|98|A|0|-26.4039|-54.5742||357||-26.3911|-54.575||177|
-A|SBCA|CAC|Coronel Adalberto Mendes da Silva Airport|-25.00032|-53.50121|2481|M|BR|1
+A|SBCA|CAC|Coronel Adalberto Mendes da Silva Airport|-25.00032|-53.50121|2481|M|BR|1|-18.25|-0.13
 R|15|33|5810|148|A|0|-24.99454|-53.50753|2478|||-25.00583|-53.4951|2478||
-A|SBCD|CFC|Doctor Carlos Alberto da Costa Neves Airport|-26.78742|-50.93994|3376|S|BR|0
+A|SBCD|CFC|Doctor Carlos Alberto da Costa Neves Airport|-26.78742|-50.93994|3376|S|BR|0|-19.1|-0.101
 R|02|20|5331|98|A|0||||||||||
 F|RDO|130.05|RDO
-A|SBCH|XAP|Serafin Enoss Bertaso Airport|-27.1342|-52.6566|2154|M|BR|1
+A|SBCH|XAP|Serafin Enoss Bertaso Airport|-27.1342|-52.6566|2154|M|BR|1|-18.02|-0.118
 R|11|29|6758|148|A|1||||||||||
-A|SBCO||Canoas Air Force Base|-29.94593|-51.14441|26|M|BR|0
+A|SBCO||Canoas Air Force Base|-29.94593|-51.14441|26|M|BR|0|-17.76|-0.095
 R|13|31|9026|148|A|1||||||||||
 F|APP|119|PALEGRE APP
 F|ATIS|127.85|ATIS
 F|GND|121.7|GND
 F|TWR|118.5|TWR
-A|SBCX|CXJ|Hugo Cantergiani Regional Airport|-29.19718|-51.18765|2472|M|BR|1
+A|SBCX|CXJ|Hugo Cantergiani Regional Airport|-29.19718|-51.18765|2472|M|BR|1|-18.05|-0.098
 R|15|33|5479|98|A|0|-29.1925|-51.19283|2472|134|876|-29.20333|-51.1805|2472|314|
-A|SBFI|IGU|Cataratas International Airport|-25.59417|-54.48944|786|L|BR|1
+A|SBFI|IGU|Cataratas International Airport|-25.59417|-54.48944|786|L|BR|1|-17.45|-0.139
 R|15|33|8875|148|A|0|-25.58585|-54.50012|764|130|1804|-25.60176|-54.47971|764|311|197
 F|APP|119.15|FOZ APP
 F|TWR|118.8|FOZ TWR
-A|SBGU|GPB|Tancredo Thomas de Faria Airport|-25.38833|-51.52349|3494|S|BR|0
+A|SBGU|GPB|Tancredo Thomas de Faria Airport|-25.38833|-51.52349|3494|S|BR|0|-19.23|-0.109
 R|08|26|5315|98|A|0||||||||||
-A|SBLJ|LAJ|Lages Airport|-27.7821|-50.2815|3065|M|BR|1
+A|SBLJ|LAJ|Lages Airport|-27.7821|-50.2815|3065|M|BR|1|-19.09|-0.092
 R|16|34|5020|98|A|0||||||||||
-A|SBNM|GEL|Santo Ângelo Airport|-28.2825|-54.16962|1056|M|BR|1
+A|SBNM|GEL|Santo Ângelo Airport|-28.2825|-54.16962|1056|M|BR|1|-16.63|-0.13
 R|12|30|5331|98|A|1|-28.28112|-54.17775|1031|||-28.28387|-54.16148|1031||
-A|SBPA|POA|Porto Alegre-Salgado Filho International Airport|-29.99398|-51.16748|11|L|BR|1
+A|SBPA|POA|Porto Alegre-Salgado Filho International Airport|-29.99398|-51.16748|11|L|BR|1|-17.72|-0.095
 R|11|29|10499|148|A|1|-29.99438|-51.18301|11|91||-29.99485|-51.15939|11|271|
 F|APP|119|PALEGRE APP
 F|ATIS|127.85|ATIS
 F|GND|121.9|GND
 F|TWR|118.1|PALEGRE TWR
-A|SBPF|PFB|Lauro Kurtz Airport|-28.24398|-52.32777|2380|M|BR|1
+A|SBPF|PFB|Lauro Kurtz Airport|-28.24398|-52.32777|2380|M|BR|1|-17.78|-0.112
 R|09|27|5512|98|A|0|-28.24699|-52.33643|2363|||-28.24142|-52.32052|2363||
-A|SBPG|PGZ|Ponta Grossa Airport - Comandante Antonio Amilton Beraldo|-25.18448|-50.14382|2588|M|BR|1
+A|SBPG|PGZ|Ponta Grossa Airport - Comandante Antonio Amilton Beraldo|-25.18448|-50.14382|2588|M|BR|1|-19.99|-0.095
 R|08|26|4692|98|A|0||||||||||
-A|SBPO|PTO|Juvenal Loureiro Cardoso Airport|-26.21718|-52.69446|2697|S|BR|1
+A|SBPO|PTO|Juvenal Loureiro Cardoso Airport|-26.21718|-52.69446|2697|S|BR|1|-18.32|-0.12
 R|07|25|5318|98|A|0|-26.22131|-52.70101|2694|||-26.21289|-52.68779|2694||
-A|SBSM|RIA|Santa Maria Airport|-29.7114|-53.6882|287|M|BR|1
+A|SBSM|RIA|Santa Maria Airport|-29.7114|-53.6882|287|M|BR|1|-16.32|-0.121
 R|02|20|4638|98|A|1||||||||||
 R|11|29|8839|148|C|1||||||||||
 F|APP|119.35|APP
 F|TWR|118.3|TWR
-A|SGES|AGT|Guaraní International Airport|-25.45719|-54.83954|846|L|PY|1
+A|SGES|AGT|Guaraní International Airport|-25.45719|-54.83954|846|L|PY|1|-17.28|-0.142
 R|05|23|11154|148|A|1|-25.4671|-54.8546|846|40.8||-25.4439|-54.8326|774|220.8|
 F|APP|119.3|APP
 F|GND|121.7|GND
 F|TWR|118.1|TWR
-A|SGIB||Itaipú Airport|-25.40782|-54.61946|762|M|PY|0
+A|SGIB||Itaipú Airport|-25.40782|-54.61946|762|M|PY|0|-17.44|-0.14
 R|03|21|4987|75|A|1|-25.4143|-54.6219|762|19.3||-25.4014|-54.6169|738|199.3|
 F|RDO|118.5|RDO
 F|TWR|119.3|GUARANI APP
-A|SIWE||Nelson Pizzani Airport|-27.2127|-50.9565|3223|S|BR|0
+A|SIWE||Nelson Pizzani Airport|-27.2127|-50.9565|3223|S|BR|0|-18.94|-0.1
 R|08|26|3707|59|A|0||||||||||
-A|SNCP|EEA|Planalto Serrano Regional Airport|-27.63413|-50.35825|2887|M|BR|0
+A|SNCP|EEA|Planalto Serrano Regional Airport|-27.63413|-50.35825|2887|M|BR|0|-19.11|-0.093
 R|09|27|5912|98|A|0|-27.63632|-50.36709|2868|||-27.63203|-50.34947|2868||
-A|SNW8||Fazenda Santo Antônio Airport|-27.75758|-53.8124|1651|S|BR|0
+A|SNW8||Fazenda Santo Antônio Airport|-27.75758|-53.8124|1651|S|BR|0|-17.08|-0.128
 R|05|23|3281|98|U|0||||||||||
-A|SS6N||Fazenda Santo Antônio Airport|-29.83153|-54.6498|295|S|BR|0
+A|SS6N||Fazenda Santo Antônio Airport|-29.83153|-54.6498|295|S|BR|0|-15.62|-0.13
 R|06|14|3281|75|U|0||||||||||
-A|SSAF||Aeroclube de Foz do Iguaçu Airport|-25.36971|-54.47051|840|S|BR|0
+A|SSAF||Aeroclube de Foz do Iguaçu Airport|-25.36971|-54.47051|840|S|BR|0|-17.54|-0.139
 R|15|33|3281|98|T|0||||||||||
-A|SSAQ||Aeroclube Airport|-28.2506|-52.5167|1969|S|BR|0
+A|SSAQ||Aeroclube Airport|-28.2506|-52.5167|1969|S|BR|0|-17.67|-0.114
 R|15|33|3543|115|T|0||||||||||
 R|17|35|3084|59|T|0||||||||||
-A|SSBG|BGV|Aeroclube de Bento Gonçalves Airport|-29.14742|-51.54079|2209|S|BR|0
+A|SSBG|BGV|Aeroclube de Bento Gonçalves Airport|-29.14742|-51.54079|2209|S|BR|0|-17.87|-0.102
 R|13|31|3281|98|T|0||||||||||
-A|SSCK|CCI|Olavo Cecco Rigon Airport|-27.18051|-52.05175|2461|S|BR|0
+A|SSCK|CCI|Olavo Cecco Rigon Airport|-27.18051|-52.05175|2461|S|BR|0|-18.35|-0.112
 R|14|32|4856|59|A|0||||||||||
-A|SSCN|CEL|Canela Airport|-29.37009|-50.83173|2746|S|BR|1
+A|SSCN|CEL|Canela Airport|-29.37009|-50.83173|2746|S|BR|1|-18.17|-0.094
 R|06|24|4134|59|A|0||||||||||
-A|SSCQ||Salcã Airport|-29.90025|-54.92939|285|S|BR|0
+A|SSCQ||Salcã Airport|-29.90025|-54.92939|285|S|BR|0|-15.4|-0.132
 R|02|20|4921|98|A|1||||||||||
-A|SSCX||Fazenda Coxilha Airport|-28.09509|-52.33575|2133|S|BR|0
+A|SSCX||Fazenda Coxilha Airport|-28.09509|-52.33575|2133|S|BR|0|-17.84|-0.112
 R|17|35|3281|98|T|0||||||||||
-A|SSER|ERM|Erechim Airport|-27.66361|-52.27149|2498|S|BR|0
+A|SSER|ERM|Erechim Airport|-27.66361|-52.27149|2498|S|BR|0|-18.04|-0.113
 R|14|32|4199|98|A|0||||||||||
-A|SSFA||Foz do Areia Airport|-25.9815|-51.6407|3701|S|BR|0
+A|SSFA||Foz do Areia Airport|-25.9815|-51.6407|3701|S|BR|0|-18.99|-0.11
 R|07|25|4921|98|A|0||||||||||
-A|SSFB|FBE|Paulo Abdala Airport|-26.05938|-53.06383|2113|S|BR|1
+A|SSFB|FBE|Paulo Abdala Airport|-26.05938|-53.06383|2113|S|BR|1|-18.16|-0.124
 R|07|25|4331|98|A|0||||||||||
-A|SSFE||Estância Hércules Airport|-25.4607|-54.59847|584|S|BR|0
+A|SSFE||Estância Hércules Airport|-25.4607|-54.59847|584|S|BR|0|-17.43|-0.14
 R|02|20|3100|59|A|0||||||||||
-A|SSGA||Garibaldi Airport|-29.26905|-51.53167|2231|S|BR|0
+A|SSGA||Garibaldi Airport|-29.26905|-51.53167|2231|S|BR|0|-17.82|-0.101
 R|15|33|3937|98|A|0||||||||||
-A|SSHZ|HRZ|Walter Bündchen Airport|-27.6383|-54.3391|1063|S|BR|0
+A|SSHZ|HRZ|Walter Bündchen Airport|-27.6383|-54.3391|1063|S|BR|0|-16.79|-0.133
 R|15|33|3445|59|A|0||||||||||
-A|SSIJ|IJU|João Batista Bos Filho Airport|-28.36871|-53.84657|1197|S|BR|0
+A|SSIJ|IJU|João Batista Bos Filho Airport|-28.36871|-53.84657|1197|S|BR|0|-16.8|-0.126
 R|18|36|4200|70|A|0|-28.3633|-53.8484|1163|162||-28.37407|-53.84449|1188|342|
-A|SSJA|JCB|Santa Terezinha Airport|-27.17151|-51.55333|2546|S|BR|0
+A|SSJA|JCB|Santa Terezinha Airport|-27.17151|-51.55333|2546|S|BR|0|-18.63|-0.106
 R|15|33|4396|99|A|1||||128|148||||308|148
-A|SSJK||Júlio de Castilho Airport|-29.1531|-53.7433|1633|S|BR|0
+A|SSJK||Júlio de Castilho Airport|-29.1531|-53.7433|1633|S|BR|0|-16.53|-0.123
 R|11|29|3904|98|T|0||||||||||
-A|SSKU||Curitibanos Airport|-27.28683|-50.60483|3209|S|BR|0
+A|SSKU||Curitibanos Airport|-27.28683|-50.60483|3209|S|BR|0|-19.1|-0.096
 R|10|28|3281|98|T|0||||||||||
-A|SSKZ||Carazinho Airport|-28.3225|-52.8162|1854|S|BR|0
+A|SSKZ||Carazinho Airport|-28.3225|-52.8162|1854|S|BR|0|-17.46|-0.117
 R|11|29|5118|98|A|0|-28.32073|-52.82419||||-28.32287|-52.80839|||
-A|SSMY||São Miguel do Iguaçu Airport|-25.39889|-54.23472|951|S|BR|0
+A|SSMY||São Miguel do Iguaçu Airport|-25.39889|-54.23472|951|S|BR|0|-17.68|-0.136
 R|02|20|3281|59|A|0||||||||||
-A|SSNG|QGF|Montenegro Airport|-29.7194|-51.4894|125|S|BR|0
+A|SSNG|QGF|Montenegro Airport|-29.7194|-51.4894|125|S|BR|0|-17.66|-0.1
 R|13|31|3018|75|T|0||||||||||
-A|SSNH|QHV|Novo Hamburgo Airport|-29.6961|-51.0817|66|S|BR|0
+A|SSNH|QHV|Novo Hamburgo Airport|-29.6961|-51.0817|66|S|BR|0|-17.9|-0.095
 R|02|20|3937|262|T|0||||||||||
-A|SSNP||Nova Prata Airport|-28.8025|-51.6042|2264|S|BR|0
+A|SSNP||Nova Prata Airport|-28.8025|-51.6042|2264|S|BR|0|-17.98|-0.103
 R|13|31|3281|98|A|0||||||||||
-A|SSOE|SQX|São Miguel do Oeste Hélio Wasum Airport|-26.7816|-53.5035|2180|S|BR|0
+A|SSOE|SQX|São Miguel do Oeste Hélio Wasum Airport|-26.7816|-53.5035|2180|S|BR|0|-17.64|-0.127
 R|17|35|4134|59|A|0||||||||||
-A|SSOS||Osório Airport|-29.90229|-50.24919|56|S|BR|0
+A|SSOS||Osório Airport|-29.90229|-50.24919|56|S|BR|0|-18.27|-0.086
 R|11|29|3117|82|D|0||||||||||
-A|SSPL||Palmeira das Missões Airport|-27.9018|-53.3297|2083|S|BR|0
+A|SSPL||Palmeira das Missões Airport|-27.9018|-53.3297|2083|S|BR|0|-17.32|-0.123
 R|05|23|3281|59|A|0||||||||||
-A|SSPS||Palmas Airport|-26.472|-51.9759|3609|S|BR|0
+A|SSPS||Palmas Airport|-26.472|-51.9759|3609|S|BR|0|-18.64|-0.112
 R|02|20|3609|98|A|0||||||||||
-A|SSRE||Realeza Airport|-25.8012|-53.5127|1693|S|BR|0
+A|SSRE||Realeza Airport|-25.8012|-53.5127|1693|S|BR|0|-17.98|-0.129
 R|06|24|3937|59|A|0||||||||||
-A|SSSC|CSU|Santa Cruz do Sul Airport|-29.6841|-52.4122|653|S|BR|0
+A|SSSC|CSU|Santa Cruz do Sul Airport|-29.6841|-52.4122|653|S|BR|0|-17.13|-0.109
 R|08|26|3871|59|A|0||||||||||
-A|SSSD||Soledade Airport|-28.86376|-52.54057|2208|S|BR|0
+A|SSSD||Soledade Airport|-28.86376|-52.54057|2208|S|BR|0|-17.4|-0.112
 R|16|34|4265|197|T|0||||||||||
-A|SSST||Santiago Airport|-29.215|-54.84222|1460|S|BR|0
+A|SSST||Santiago Airport|-29.215|-54.84222|1460|S|BR|0|-15.78|-0.133
 R|17|35|4396|197|T|0||||||||||
-A|SSTB||Três Barras Airport|-26.1358|-50.3109|2559|S|BR|0
+A|SSTB||Três Barras Airport|-26.1358|-50.3109|2559|S|BR|0|-19.63|-0.095
 R|03|21|4495|59|A|0||||||||||
-A|SSTY||Usina Foz do Chopim Airport|-25.55681|-53.16655|1640|S|BR|0
+A|SSTY||Usina Foz do Chopim Airport|-25.55681|-53.16655|1640|S|BR|0|-18.27|-0.126
 R|17|35|4921|131|T|0||||||||||
-A|SSUV|UVI|José Cleto Airport|-26.23322|-51.06675|2467|S|BR|1
+A|SSUV|UVI|José Cleto Airport|-26.23322|-51.06675|2467|S|BR|1|-19.21|-0.103
 R|17|35|3281|98|A|0||||||||||
-A|SSVI|VIA|Videira Airport|-26.9997|-51.1419|2766|S|BR|0
+A|SSVI|VIA|Videira Airport|-26.9997|-51.1419|2766|S|BR|0|-18.92|-0.103
 R|10|28|4594|76|A|0||||||||||1149
-A|SSVN||Veranópolis Airport|-28.93541|-51.56807|2218|S|BR|0
+A|SSVN||Veranópolis Airport|-28.93541|-51.56807|2218|S|BR|0|-17.94|-0.102
 R|12|30|3281|59|D|0||||||||||
-A|SSXD||Sarandi Airport|-27.9811|-52.8636|2034|S|BR|0
+A|SSXD||Sarandi Airport|-27.9811|-52.8636|2034|S|BR|0|-17.57|-0.118
 R|14|32|3937|197|T|0||||||||||
-A|SSXX|AXE|Xanxerê Airport|-26.87507|-52.37286|2986|S|BR|0
+A|SSXX|AXE|Xanxerê Airport|-26.87507|-52.37286|2986|S|BR|0|-18.28|-0.115
 R|18|36|3773|59|A|0||||||||||
-A|SSYT||Itapiranga Airport|-27.1425|-53.6858|1247|S|BR|0
+A|SSYT||Itapiranga Airport|-27.1425|-53.6858|1247|S|BR|0|-17.4|-0.128
 R|18|36|3002|98|G|0||||||||||
-A|SSZR|SRA|Luis Alberto Lehr Airport|-27.90658|-54.52063|1014|S|BR|1
+A|SSZR|SRA|Luis Alberto Lehr Airport|-27.90658|-54.52063|1014|S|BR|1|-16.56|-0.134
 R|07|25|3937|98|A|0||||||||||
-A|SWIT||Condomínio de Voo Itaipu - CVI Airport|-25.48488|-54.44135|896|S|BR|0
+A|SWIT||Condomínio de Voo Itaipu - CVI Airport|-25.48488|-54.44135|896|S|BR|0|-17.52|-0.138
 R|01|19|3151|56|A|1|-25.48926|-54.44104|860|356|461|-25.48061|-54.44162|864|177|82

@@ -1,5 +1,5 @@
-H|apt|1|1220
-A|AGGA|AKS|Gwaunaru'u Airport|-8.70257|160.68201|5|S|SB|1
+H|apt|2|1220
+A|AGGA|AKS|Gwaunaru'u Airport|-8.70257|160.68201|5|S|SB|1|8.77|0.001
 R|18|36|3100||U|0|||28|||||29||
-A|AGGH|HIR|Honiara International Airport|-9.428|160.05499|28|L|SB|1
+A|AGGH|HIR|Honiara International Airport|-9.428|160.05499|28|L|SB|1|8.75|0
 R|06|24|7218|148|A|1|-9.43174|160.045|28|68||-9.42426|160.064|14|248|

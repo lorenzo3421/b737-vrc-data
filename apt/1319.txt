@@ -1,49 +1,49 @@
-H|apt|1|1319
-A|BR-3099||Novo Intento Airport|2.78|-60.61667|282|S|BR|0
+H|apt|2|1319
+A|BR-3099||Novo Intento Airport|2.78|-60.61667|282|S|BR|0|-16.39|-0.124
 R|04|22|3445|66|T|0||||||||||
-A|BR-3131||Fazenda São Marco Airport|3.05284|-60.47959|295|S|BR|0
+A|BR-3131||Fazenda São Marco Airport|3.05284|-60.47959|295|S|BR|0|-16.43|-0.121
 R|05|22|4921|197|T|0||||||||||
-A|BR-3185||Estância Norteagro Airport|2.67583|-60.77861|279|S|BR|0
+A|BR-3185||Estância Norteagro Airport|2.67583|-60.77861|279|S|BR|0|-16.32|-0.126
 R|02|20|3773|52|A|0||||||||||
-A|SBBV|BVB|Atlas Brasil Cantanhede International Airport|2.84615|-60.69065|276|L|BR|1
+A|SBBV|BVB|Atlas Brasil Cantanhede International Airport|2.84615|-60.69065|276|L|BR|1|-16.35|-0.124
 R|08|26|8858|148|A|0||||||||||
 F|APP|120.1|APP
 F|GND|121.7|GND
 F|TWR|118.1|TWR
-A|SJH4||Fazenda São José Airport|1.75739|-61.1649|194|S|BR|0
+A|SJH4||Fazenda São José Airport|1.75739|-61.1649|194|S|BR|0|-16.19|-0.133
 R|05|23|3281|59|G|0||||||||||
-A|SJMV||Serra do Sol Airport|4.9425|-60.4753|2480|S|BR|0
+A|SJMV||Serra do Sol Airport|4.9425|-60.4753|2480|S|BR|0|-16.31|-0.111
 R|12|30|3937|98|T|0||||||||||
-A|SJQK||Barra do Vento Airport|2.69556|-60.8142|279|S|BR|0
+A|SJQK||Barra do Vento Airport|2.69556|-60.8142|279|S|BR|0|-16.3|-0.126
 R|08|26|3281|59|T|0||||||||||
-A|SJS9||Fazenda Cajueiro Airstrip|2.93722|-60.99389|289|S|BR|0
+A|SJS9||Fazenda Cajueiro Airstrip|2.93722|-60.99389|289|S|BR|0|-16.21|-0.126
 R|09|27|3280|59|T|0||||||||||
-A|SJYF||Ajarani Airport|2.00778|-61.4758|594|S|BR|0
+A|SJYF||Ajarani Airport|2.00778|-61.4758|594|S|BR|0|-16.03|-0.135
 R|08|26|3281|82|A|0||||||||||
-A|SJYT||Campo Formoso Airport|4.7179|-60.77101|1194|S|BR|0
+A|SJYT||Campo Formoso Airport|4.7179|-60.77101|1194|S|BR|0|-16.21|-0.115
 R|18|36|3281|98|T|0||||||||||
-A|SJYU||Campo Grande Airstrip|4.68556|-60.80028|1194|S|BR|0
+A|SJYU||Campo Grande Airstrip|4.68556|-60.80028|1194|S|BR|0|-16.2|-0.116
 R|08|26|3281|98|T|0||||||||||
-A|SS6J||Recanto dos Guimarães Airstrip|0.18348|-60.79657|165|S|BR|0
+A|SS6J||Recanto dos Guimarães Airstrip|0.18348|-60.79657|165|S|BR|0|-16.42|-0.138
 R|02|20|3281|82|D|0||||||||||
-A|SVDP||Hato Divina Pastora Airstrip|4.68846|-61.05932|2802|S|VE|0
+A|SVDP||Hato Divina Pastora Airstrip|4.68846|-61.05932|2802|S|VE|0|-16.09|-0.118
 R|15|33|4331|40|U|0||||||||||
-A|SVIC|ICA|Ikabaru Airport|4.33814|-61.73866|1640|S|VE|0
+A|SVIC|ICA|Ikabaru Airport|4.33814|-61.73866|1640|S|VE|0|-15.81|-0.125
 R|11|29|3937|65|U|0||||||||||
-A|SVPH|PPH|Paraitepuy Airstrip|4.60036|-61.49816|3373|S|VE|0
+A|SVPH|PPH|Paraitepuy Airstrip|4.60036|-61.49816|3373|S|VE|0|-15.9|-0.122
 R|09|27|3001|65|T|0||||134|||||314|
 R|10|28|3051||T|0||||||||||
-A|SVPI||El Pauji Airstrip|4.46902|-61.58931|2857|S|VE|0
+A|SVPI||El Pauji Airstrip|4.46902|-61.58931|2857|S|VE|0|-15.87|-0.123
 R|06|24|3871|59|U|0||||||||||
-A|SVSE|SNV|Santa Elena de Uairén Airport|4.5547|-61.14523|2938|M|VE|1
+A|SVSE|SNV|Santa Elena de Uairén Airport|4.5547|-61.14523|2938|M|VE|1|-16.06|-0.119
 R|11|29|5445|98|A|0|4.55629|-61.1522||102||4.55316|-61.1376||282|
-A|SWBV||Auaris Airport|4.00347|-64.49363|2490|S|BR|0
+A|SWBV||Auaris Airport|4.00347|-64.49363|2490|S|BR|0|-14.47|-0.147
 R|13|31|3740|75|A|0||||||||||
-A|SWMU||Surumu Airport|4.31639|-60.7006|1640|S|BR|0
+A|SWMU||Surumu Airport|4.31639|-60.7006|1640|S|BR|0|-16.26|-0.117
 R|12|30|3281|49|A|0||||||||||
-A|SWQI||Caracaraí Airport|1.84389|-61.12183|184|S|BR|0
+A|SWQI||Caracaraí Airport|1.84389|-61.12183|184|S|BR|0|-16.2|-0.132
 R|04|22|8202|262|T|0||||||||||
-A|SWUQ||Surucucu Airport|2.83528|-63.647|2854|S|BR|0
+A|SWUQ||Surucucu Airport|2.83528|-63.647|2854|S|BR|0|-14.92|-0.147
 R|12|30|3543|98|A|0||||||||||
-A|VE-0259||Las Agallas Airstrip|4.57018|-61.52039|2946|S|VE|0
+A|VE-0259||Las Agallas Airstrip|4.57018|-61.52039|2946|S|VE|0|-15.89|-0.122
 R|08|26|5217|125|U|0||||||||||

@@ -1,7 +1,7 @@
-H|apt|1|2156
-A|RU-4936||Klyuchi Air Base|56.30976|160.80454|499|S|RU|0
+H|apt|2|2156
+A|RU-4936||Klyuchi Air Base|56.30976|160.80454|499|S|RU|0|-7.25|-0.116
 R|13|31|6562|98|C|1||||||||||
-A|UHPD||Ossora Airport|59.2236|163.0664|13|S|RU|0
+A|UHPD||Ossora Airport|59.2236|163.0664|13|S|RU|0|-6.91|-0.15
 R|02|20|5249|115|C|1||||||||||
-A|UHPK||Ust'-Kamchatsk Airport|56.23885|162.68999|200|S|RU|1
+A|UHPK||Ust'-Kamchatsk Airport|56.23885|162.68999|200|S|RU|1|-6.45|-0.125
 R|01|19|4100|115|C|1||||||||||

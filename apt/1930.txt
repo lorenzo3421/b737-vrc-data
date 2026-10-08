@@ -1,19 +1,19 @@
-H|apt|1|1930
-A|CN-0418||Hohhot Shengle International Airport (under construction)|40.48096|111.57517||M|CN|0
+H|apt|2|1930
+A|CN-0418||Hohhot Shengle International Airport (under construction)|40.48096|111.57517||M|CN|0|-6.12|-0.035
 R|08L|26R|11155|148|A|1||||||||||
 R|08R|26L|12467|197|A|1||||||||||
-A|ZBDT|DAT|Datong Yungang International Airport|40.06139|113.48051|3442|L|CN|1
+A|ZBDT|DAT|Datong Yungang International Airport|40.06139|113.48051|3442|L|CN|1|-6.66|-0.036
 R|14|32|9843|148|C|1|40.07111|113.46647|3467|132||40.05316|113.49275|3444|312|
-A|ZBER|ERL|Erenhot Saiwusu International Airport|43.42408|112.09108|3301|M|CN|1
+A|ZBER|ERL|Erenhot Saiwusu International Airport|43.42408|112.09108|3301|M|CN|1|-6.92|-0.042
 R|12|30|9186|148|C|1||||||||||
-A|ZBHH|HET|Hohhot Baita International Airport|40.84966|111.8246|3556|L|CN|1
+A|ZBHH|HET|Hohhot Baita International Airport|40.84966|111.8246|3556|L|CN|1|-6.28|-0.036
 R|08|26|11811|148|C|1|40.847|111.806|3511|72||40.8559|111.842|3556|252|
 F|ATIS|126.25|
 F|GND|121.65|HOHHOT GND
 F|TWR|118.1|HOHHOT TWR
-A|ZBUC|UCB|Ulanqab Jining Airport|41.13027|113.10727||M|CN|1
+A|ZBUC|UCB|Ulanqab Jining Airport|41.13027|113.10727||M|CN|1|-6.78|-0.038
 R|09|27|10499||C|0||||||||||
-A|ZBZJ|ZQZ|Zhangjiakou Ningyuan Airport|40.73866|114.9334|2347|M|CN|1
+A|ZBZJ|ZQZ|Zhangjiakou Ningyuan Airport|40.73866|114.9334|2347|M|CN|1|-7.28|-0.038
 R|12|30|8202|148|C|1||||||||||
-A|ZMSH||Sainshand Airport|44.98483|110.17651|3022|S|MN|0
+A|ZMSH||Sainshand Airport|44.98483|110.17651|3022|S|MN|0|-6.5|-0.046
 R|15|33|9183||U|0|||2969|||||3022||

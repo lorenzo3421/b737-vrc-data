@@ -1,24 +1,24 @@
-H|apt|1|1321
-A|SBAM||Amapá Airport|2.07751|-50.8582|45|S|BR|0
+H|apt|2|1321
+A|SBAM||Amapá Airport|2.07751|-50.8582|45|S|BR|0|-19.28|-0.026
 R|07|25|5003|148|A|0||||||||||
-A|SBMQ|MCP|Macapá - Alberto Alcolumbre International Airport|0.05066|-51.0722|56|M|BR|1
+A|SBMQ|MCP|Macapá - Alberto Alcolumbre International Airport|0.05066|-51.0722|56|M|BR|1|-19.62|-0.038
 R|08|26|6890|148|A|0||||||||||
 F|APP|119|APP
 F|TWR|118|TWR
-A|SBOI|OYK|Oiapoque Airport|3.85412|-51.79706|53|M|BR|0
+A|SBOI|OYK|Oiapoque Airport|3.85412|-51.79706|53|M|BR|0|-18.83|-0.028
 R|03|21|3937|98|A|0||||||||||
-A|SIJ8||Fazenda Pouso Alegre Airport|2.18941|-50.93636|69|S|BR|0
+A|SIJ8||Fazenda Pouso Alegre Airport|2.18941|-50.93636|69|S|BR|0|-19.25|-0.026
 R|04|26|3937|59|G|0||||||||||
-A|SJKI||Hangar Comandante Salomão Alcolumbre Airport|0.20879|-51.01237|66|S|BR|0
+A|SJKI||Hangar Comandante Salomão Alcolumbre Airport|0.20879|-51.01237|66|S|BR|0|-19.6|-0.037
 R|10|28|3609|66|A|0||||||||||
-A|SOCA|CAY|Cayenne – Félix Eboué Airport|4.81996|-52.36133|26|L|GF|1
+A|SOCA|CAY|Cayenne – Félix Eboué Airport|4.81996|-52.36133|26|L|GF|1|-18.58|-0.03
 R|08|26|10486|148|A|1|4.81378|-52.3735|18|65.3||4.82584|-52.3474|25|245.3|
 F|APP|119.9|APP
 F|ATIS|132.2|ATIS
 F|TWR|118.1|TWR
-A|SOOA|MPY|Maripasoula Airport|3.65591|-54.03943|406|M|GF|1
+A|SOOA|MPY|Maripasoula Airport|3.65591|-54.03943|406|M|GF|1|-18.47|-0.055
 R|07|25|3938|49|A|0|3.65252|-54.044||55||3.65875|-54.0352||235|
-A|SOOG|OYP|Saint-Georges-de-l'Oyapock Airport|3.8976|-51.8041|46|M|GF|0
+A|SOOG|OYP|Saint-Georges-de-l'Oyapock Airport|3.8976|-51.8041|46|M|GF|0|-18.82|-0.028
 R|04|22|3937|49|C|0|3.89244|-51.8058||18||3.90276|-51.8024||198|
-A|SSTQ||Silvestre Airport|0.84932|-51.90772|482|S|BR|0
+A|SSTQ||Silvestre Airport|0.84932|-51.90772|482|S|BR|0|-19.34|-0.044
 R|03|21|3281|66|U|0||||||||||

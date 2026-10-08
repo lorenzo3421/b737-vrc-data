@@ -1,50 +1,50 @@
-H|apt|1|0996
-A|YBBC||Bamboo Creek Airport|-20.9446|120.165||S|AU|0
+H|apt|2|0996
+A|YBBC||Bamboo Creek Airport|-20.9446|120.165||S|AU|0|1.31|-0.007
 R|03|21|4593||U|0||||||||||
-A|YCNF|NIF|Camp Nifty Airport|-21.6717|121.587|295|S|AU|0
+A|YCNF|NIF|Camp Nifty Airport|-21.6717|121.587|295|S|AU|0|1.51|-0.009
 R|12|30|5577||U|0|||968|||||965||
 F|CTAF|134.2|CTAF
-A|YCPG||Coppins Gap Airport|-20.95|120.033||S|AU|0
+A|YCPG||Coppins Gap Airport|-20.95|120.033||S|AU|0|1.29|-0.007
 R|06|24|3444||U|0||||||||||
 F|CTAF|123.4|CTAF
-A|YGIA|GBW|Ginbata Airport|-22.5812|120.03553|1409|S|AU|0
+A|YGIA|GBW|Ginbata Airport|-22.5812|120.03553|1409|S|AU|0|1.24|-0.003
 R|09|27|8202|148|C|0||||||||||
-A|YJIG||Jiggalong Mission Airport|-23.3667|120.783||S|AU|0
+A|YJIG||Jiggalong Mission Airport|-23.3667|120.783||S|AU|0|1.35|-0.003
 R|14|32|4593||U|0||||||||||
 F|CTAF|120.6|CTAF
-A|YMUC|MUQ|Muccan Station Airport|-20.6589|120.067|300|S|AU|0
+A|YMUC|MUQ|Muccan Station Airport|-20.6589|120.067|300|S|AU|0|1.3|-0.008
 R|08|26|3608||U|0||||||||||
 F|CTAF|123.4|CTAF
-A|YNUL|NLL|Nullagine Airport|-21.9133|120.198|381|S|AU|0
+A|YNUL|NLL|Nullagine Airport|-21.9133|120.198|381|S|AU|0|1.29|-0.005
 R|14|32|4002||U|0||||||||||
 F|CTAF|126.7|CTAF
-A|YPUN||Punmu Airport|-22.0667|123.167||S|AU|0
+A|YPUN||Punmu Airport|-22.0667|123.167||S|AU|0|1.78|-0.012
 R|14|32|4593||U|0||||||||||
 F|CTAF|130.9|CTAF
-A|YRUD||Rudal River Airport|-22.55807|122.14806||S|AU|0
+A|YRUD||Rudal River Airport|-22.55807|122.14806||S|AU|0|1.61|-0.008
 R|06|24|3280||U|0||||||||||
 R|15|33|4921||U|0||||||||||
 F|CTAF|123.4|CTAF
-A|YSHG|SGP|Shay Gap Airport|-20.4247|120.141|620|S|AU|0
+A|YSHG|SGP|Shay Gap Airport|-20.4247|120.141|620|S|AU|0|1.31|-0.008
 R|10|28|4757||U|0||||||||||
 F|CTAF|118.6|CTAF
-A|YSLV||Sylvania Homestead Airport|-23.55757|120.04706||S|AU|0
+A|YSLV||Sylvania Homestead Airport|-23.55757|120.04706||S|AU|0|1.2|-0
 R|08|26|3280||U|0||||||||||
 F|CTAF|126.7|CTAF
-A|YTCF||Tracies Field|-22.3167|122.067||S|AU|0
+A|YTCF||Tracies Field|-22.3167|122.067||S|AU|0|1.59|-0.009
 R|10|28|3608||U|0||||||||||
 F|CTAF|121.85|CTAF
-A|YTEF|TEF|Telfer Airport|-21.715|122.229|970|M|AU|0
+A|YTEF|TEF|Telfer Airport|-21.715|122.229|970|M|AU|0|1.62|-0.011
 R|12|30|6562|98|A|1|-21.7105|122.222|969|121||-21.7199|122.238|945|301|
 F|CTAF|126.7|CTAF
 F|UNIC|126.7|UNICOM
-A|YWEX||Well 33 Airport|-22.3667|124.767||S|AU|0
+A|YWEX||Well 33 Airport|-22.3667|124.767||S|AU|0|2.08|-0.015
 R|12|30|3937||U|0||||||||||
 F|CTAF|124.8|CTAF
-A|YWWG|WRW|Warrawagine Airport|-20.8442|120.702||S|AU|0
+A|YWWG|WRW|Warrawagine Airport|-20.8442|120.702||S|AU|0|1.38|-0.009
 R|03|21|6561||U|0||||||||||
 R|13|31|6561||U|0||||||||||
 F|CTAF|124.3|CTAF
-A|YWWI|WWI|Woodie Woodie Airport|-21.64551|121.19118||S|AU|0
+A|YWWI|WWI|Woodie Woodie Airport|-21.64551|121.19118||S|AU|0|1.45|-0.008
 R|15|33|4593||U|0||||||||||
 F|CTAF|123.4|CTAF

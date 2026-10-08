@@ -1,60 +1,60 @@
-H|apt|1|1251
-A|BR-0108||Piripiri Airport|-4.33521|-41.76898|561|S|BR|0
+H|apt|2|1251
+A|BR-0108||Piripiri Airport|-4.33521|-41.76898|561|S|BR|0|-20.94|0.059
 R|18|36|3281|66|D|0||||||||||
-A|BR-0249||Luís Antônio Fontenele - Cocal da Estação Airport|-3.45507|-41.60494|482|S|BR|0
+A|BR-0249||Luís Antônio Fontenele - Cocal da Estação Airport|-3.45507|-41.60494|482|S|BR|0|-20.67|0.065
 R|13|31|3609|66|D|0||||||||||
-A|BR-1570||Piracuruca Airport|-3.89142|-41.71077|364|S|BR|0
+A|BR-1570||Piracuruca Airport|-3.89142|-41.71077|364|S|BR|0|-20.8|0.062
 R|04|22|4429|66|D|0||||||||||
-A|BR-1572||Luzilandia Airport|-3.53724|-42.37287|177|S|BR|0
+A|BR-1572||Luzilandia Airport|-3.53724|-42.37287|177|S|BR|0|-20.76|0.055
 R|12|30|3937|72|G|0||||||||||
-A|BR-1850||Deputado Moraes Souza Airport|-3.15469|-41.86806|190|S|BR|0
+A|BR-1850||Deputado Moraes Souza Airport|-3.15469|-41.86806|190|S|BR|0|-20.61|0.063
 R|11|29|3937|82|A|1||||||||||
-A|BR-2839||Brejo Airport|-3.66694|-42.83389|328|S|BR|0
+A|BR-2839||Brejo Airport|-3.66694|-42.83389|328|S|BR|0|-20.83|0.049
 R|04|22|3281|492|U|0||||||||||
 R|06|24|4265|98|D|0||||||||||
-A|BR-2855||Urbano Santos Airport|-3.19797|-43.38872|197|S|BR|0
+A|BR-2855||Urbano Santos Airport|-3.19797|-43.38872|197|S|BR|0|-20.74|0.044
 R|11|29|3937|131|T|0||||||||||
-A|SBJE|JJD|Comandante Ariston Pessoa Airport|-2.90643|-40.35734|89|M|BR|1
+A|SBJE|JJD|Comandante Ariston Pessoa Airport|-2.90643|-40.35734|89|M|BR|1|-20.35|0.083
 R|08|26|7218|148|A|1|-2.91085|-40.3662|86|63||-2.90199|-40.3485|89|243|
-A|SBPB|PHB|Parnaíba - Prefeito Doutor João Silva Filho International Airport|-2.89375|-41.732|23|M|BR|1
+A|SBPB|PHB|Parnaíba - Prefeito Doutor João Silva Filho International Airport|-2.89375|-41.732|23|M|BR|1|-20.52|0.066
 R|09|27|6890|148|A|0||||||||||
-A|SBSL|SLZ|Marechal Cunha Machado International Airport|-2.58639|-44.23501|178|L|BR|1
+A|SBSL|SLZ|Marechal Cunha Machado International Airport|-2.58639|-44.23501|178|L|BR|1|-20.61|0.036
 R|06|24|7828|148|A|1|||178|39||||143|219|
 R|09|27|4803|148|A|1|||171|70||||131|250|
 F|APP|119.1|SAO LUIS APP
 F|TWR|118.7|SAO LUIS TWR
-A|SD7E||Fazenda Canaã Airport|-4.96062|-42.7926|400|S|BR|0
+A|SD7E||Fazenda Canaã Airport|-4.96062|-42.7926|400|S|BR|0|-21.17|0.043
 R|18|36|3937|52|D|0||||||||||
-A|SDYX||Campo Maior Airport|-4.85417|-42.26056|490|S|BR|0
+A|SDYX||Campo Maior Airport|-4.85417|-42.26056|490|S|BR|0|-21.11|0.051
 R|13|31|3937|59|A|0||||||||||
-A|SI8W||Barra Grande Airport|-3.04137|-41.39629|108|S|BR|0
+A|SI8W||Barra Grande Airport|-3.04137|-41.39629|108|S|BR|0|-20.53|0.069
 R|10|28|4017|82|A|1||||||||||
-A|SIA6||Fazenda Baraúna Airstrip|-4.86209|-43.1881|479|S|BR|0
+A|SIA6||Fazenda Baraúna Airstrip|-4.86209|-43.1881|479|S|BR|0|-21.16|0.039
 R|10|28|3281|66|U|0||||||||||
-A|SIDB||Doutor Almir Lopes de Oliveira Melo Airport|-4.27103|-42.99963|168|S|BR|0
+A|SIDB||Doutor Almir Lopes de Oliveira Melo Airport|-4.27103|-42.99963|168|S|BR|0|-21|0.044
 R|18|36|3281|59|A|0||||||||||
-A|SIK4||Fazenda Bomfim Airport|-3.36639|-43.17889|338|S|BR|0
+A|SIK4||Fazenda Bomfim Airport|-3.36639|-43.17889|338|S|BR|0|-20.77|0.046
 R|07|25|3937|75|G|0||||||||||
-A|SJ7K||Fazenda Santo Anjo Airstrip|-3.58972|-43.46306|344|S|BR|0
+A|SJ7K||Fazenda Santo Anjo Airstrip|-3.58972|-43.46306|344|S|BR|0|-20.84|0.041
 R|14|32|3281|59|G|0||||||||||
-A|SN4M||Fazenda Bela Vista - Vontobel Agrícola Airport|-4.20583|-43.29889|420|S|BR|0
+A|SN4M||Fazenda Bela Vista - Vontobel Agrícola Airport|-4.20583|-43.29889|420|S|BR|0|-21|0.04
 R|17|35|4429|98|U|0||||||||||
-A|SN4U||Fazenda Vontobel|-3.65472|-42.79444|354|S|BR|0
+A|SN4U||Fazenda Vontobel|-3.65472|-42.79444|354|S|BR|0|-20.82|0.049
 R|12|30|3281|59|U|0||||||||||
-A|SN6L|JSO|Dr. Luciano de Arruda Coelho Regional Airport|-3.61477|-40.23221|299|M|BR|0
+A|SN6L|JSO|Dr. Luciano de Arruda Coelho Regional Airport|-3.61477|-40.23221|299|M|BR|0|-20.55|0.081
 R|10|28|5906|98|A|1||||||||||
-A|SNB4||Fazenda Cantanhede Airport|-3.67671|-44.52415|174|S|BR|0
+A|SNB4||Fazenda Cantanhede Airport|-3.67671|-44.52415|174|S|BR|0|-20.89|0.027
 R|18|36|4593|59|A|0||||||||||
-A|SNBI||Bacabal Airport|-4.22771|-44.82|64|S|BR|0
+A|SNBI||Bacabal Airport|-4.22771|-44.82|64|S|BR|0|-21.02|0.021
 R|10|28|5249|98|A|0||||||||||
-A|SNC4||Itapecuru Bioenergia Airport|-4.66143|-43.50673|210|S|BR|0
+A|SNC4||Itapecuru Bioenergia Airport|-4.66143|-43.50673|210|S|BR|0|-21.12|0.036
 R|12|30|3936|59|U|0||||||||||
-A|SNOZ||Coronel Alexandre Raposo Airport|-2.52097|-44.1213|154|S|BR|0
+A|SNOZ||Coronel Alexandre Raposo Airport|-2.52097|-44.1213|154|S|BR|0|-20.59|0.037
 R|09|27|3281|98|A|0||||||||||
 F|TWR|118.7|SAO LUIS
-A|SNWC|CMC|Camocim - Pinto Martins Airport|-2.8956|-40.8593|46|S|BR|0
+A|SNWC|CMC|Camocim - Pinto Martins Airport|-2.8956|-40.8593|46|S|BR|0|-20.42|0.077
 R|14|32|3117|98|A|0||||||||||
-A|SNXH||Itapecuru Airport|-4.51383|-44.02153|184|S|BR|0
+A|SNXH||Itapecuru Airport|-4.51383|-44.02153|184|S|BR|0|-21.09|0.03
 R|09|27|4839|95|A|0||||||||||
-A|SS6L||Fazenda Pajeú Airport|-4.95412|-44.25049|635|S|BR|0
+A|SS6L||Fazenda Pajeú Airport|-4.95412|-44.25049|635|S|BR|0|-21.2|0.025
 R|11|29|3741|82|A|0||||||||||

@@ -1,5 +1,5 @@
-H|apt|1|1668
-A|MM10||Isla Cedros Airport|28.03903|-115.18942|98|S|MX|1
+H|apt|2|1668
+A|MM10||Isla Cedros Airport|28.03903|-115.18942|98|S|MX|1|9.67|-0.066
 R|15|33|4660|85|A|0|28.0438|-115.19||173||28.0313|-115.188||353|
-A|MMGD||Aeródromo Isla Guadalupe|29.02415|-118.27196||S|MX|0
+A|MMGD||Aeródromo Isla Guadalupe|29.02415|-118.27196||S|MX|0|10.47|-0.068
 R|05|23|3900||A|0||||||||||

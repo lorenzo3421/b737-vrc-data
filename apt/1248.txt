@@ -1,49 +1,49 @@
-H|apt|1|1248
-A|BR-0155||Autazes Airport|-3.59833|-59.12629|69|S|BR|0
+H|apt|2|1248
+A|BR-0155||Autazes Airport|-3.59833|-59.12629|69|S|BR|0|-17.37|-0.14
 R|07|25|3281|59|D|0||||||||||
-A|BR-0193||Manoel Francisco dos Santos Airport|-1.06608|-57.05243|144|S|BR|0
+A|BR-0193||Manoel Francisco dos Santos Airport|-1.06608|-57.05243|144|S|BR|0|-18.12|-0.109
 R|04|22|3937|75|D|0||||||||||
-A|BR-1487||Coronel Eduardo Garcia Airport|-2.83737|-58.22133|223|S|BR|0
+A|BR-1487||Coronel Eduardo Garcia Airport|-2.83737|-58.22133|223|S|BR|0|-17.75|-0.129
 R|12|30|4266|66|D|0||||||||||
-A|BR-2195||Balbina Airport|-1.92481|-59.4123|564|S|BR|0
+A|BR-2195||Balbina Airport|-1.92481|-59.4123|564|S|BR|0|-17.17|-0.136
 R|15|33|3937|98|A|0||||||||||
-A|BR-2200||Urucará Airport|-2.52889|-57.7558|98|S|BR|0
+A|BR-2200||Urucará Airport|-2.52889|-57.7558|98|S|BR|0|-17.94|-0.123
 R|13|31|3937|98|A|0||||||||||
-A|BR-3100||Nova Olinda do Norte Airport|-3.88836|-59.07998|121|S|BR|0
+A|BR-3100||Nova Olinda do Norte Airport|-3.88836|-59.07998|121|S|BR|0|-17.4|-0.141
 R|07|25|3937|98|A|0||||||||||
-A|SBIC|ITA|Itacoatiara Airport|-3.12654|-58.48167|142|M|BR|0
+A|SBIC|ITA|Itacoatiara Airport|-3.12654|-58.48167|142|M|BR|0|-17.65|-0.132
 R|14|32|4970|98|A|0||||||||||
-A|SBIH|ITB|Itaituba Airport|-4.24213|-56.00065|110|M|BR|1
+A|SBIH|ITB|Itaituba Airport|-4.24213|-56.00065|110|M|BR|1|-18.77|-0.113
 R|05|23|5577|98|A|1|-4.24803|-56.0051|110|33||-4.23588|-55.9958|110|213|
 F|TWR|118.4|TWR
-A|SBMN|PLL|Ponta Pelada Airport / Manaus Air Base|-3.14604|-59.9863|267|M|BR|0
+A|SBMN|PLL|Ponta Pelada Airport / Manaus Air Base|-3.14604|-59.9863|267|M|BR|0|-16.93|-0.146
 R|09|27|7119|148|A|0||||||||||
 F|APP|119.7|MANAUS APP
 F|ATIS|127.65|ATIS
 F|TWR|118.1|MANAUS TWR
-A|SBOW||Fazenda Agropecuária Vale do Ouro Airport|-4.18631|-56.0599|217|S|BR|0
+A|SBOW||Fazenda Agropecuária Vale do Ouro Airport|-4.18631|-56.0599|217|S|BR|0|-18.74|-0.114
 R|12|30|3117|59|G|0||||||||||
-A|SBTB|TMT|Trombetas Airport|-1.4896|-56.3968|167|M|BR|1
+A|SBTB|TMT|Trombetas Airport|-1.4896|-56.3968|167|M|BR|1|-18.4|-0.105
 R|09|27|5249|98|A|0||||||||||
-A|SJCW||Jatapu Airport|-1.71205|-58.5112|132|S|BR|0
+A|SJCW||Jatapu Airport|-1.71205|-58.5112|132|S|BR|0|-17.57|-0.126
 R|11|29|4413|98|A|0||||||||||
-A|SJOH|JRT|Juruti Airport|-2.18667|-56.09028|108|S|BR|0
+A|SJOH|JRT|Juruti Airport|-2.18667|-56.09028|108|S|BR|0|-18.58|-0.105
 R|07|25|3445|59|A|0||||||||||
-A|SJTS||Terra Santa Airport|-2.07278|-56.48889|83|S|BR|0
+A|SJTS||Terra Santa Airport|-2.07278|-56.48889|83|S|BR|0|-18.42|-0.108
 R|12|30|3281|75|A|0||||||||||
-A|SN2R||Estância Tapajós Airstrip|-4.30289|-56.0751|131|S|BR|0
+A|SN2R||Estância Tapajós Airstrip|-4.30289|-56.0751|131|S|BR|0|-18.75|-0.114
 R|16|34|5577|75|G|0||||||||||
-A|SNOX|ORX|Oriximiná Airport|-1.71408|-55.8362|262|S|BR|0
+A|SNOX|ORX|Oriximiná Airport|-1.71408|-55.8362|262|S|BR|0|-18.62|-0.1
 R|17|35|5249|98|A|0||||||||||
-A|SNRB||Fazenda Rosa de Maio Airport|-4.31616|-56.10846|102|S|BR|0
+A|SNRB||Fazenda Rosa de Maio Airport|-4.31616|-56.10846|102|S|BR|0|-18.73|-0.115
 R|05|23|3150|59|A|0||||||||||
-A|SNTI|OBI|Óbidos Municipal Airport|-1.86798|-55.5146|328|S|BR|0
+A|SNTI|OBI|Óbidos Municipal Airport|-1.86798|-55.5146|328|S|BR|0|-18.75|-0.097
 R|09|27|4987|98|A|0||||||||||
-A|SWBI||Barreirinha Airport|-2.79192|-57.05802|46|S|BR|0
+A|SWBI||Barreirinha Airport|-2.79192|-57.05802|46|S|BR|0|-18.25|-0.117
 R|07|25|3937|75|A|0||||||||||
-A|SWBR|RBB|Borba Airport|-4.40634|-59.6024|98|S|BR|1
+A|SWBR|RBB|Borba Airport|-4.40634|-59.6024|98|S|BR|1|-17.15|-0.148
 R|12|30|3937|75|A|0||||||||||
-A|SWMW|MBZ|Maués Airport|-3.37217|-57.7248|69|S|BR|0
+A|SWMW|MBZ|Maués Airport|-3.37217|-57.7248|69|S|BR|0|-18|-0.126
 R|01|19|3937|82|A|0||||||||||
-A|SWPI|PIN|Parintins Airport|-2.67352|-56.77763|87|S|BR|0
+A|SWPI|PIN|Parintins Airport|-2.67352|-56.77763|87|S|BR|0|-18.35|-0.114
 R|06|24|5906|98|A|0||||||||||

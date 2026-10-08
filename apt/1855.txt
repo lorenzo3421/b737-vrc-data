@@ -1,5 +1,5 @@
-H|apt|1|1855
-A|ZLDL|HXD|Haixi Delingha Airport|37.12529|97.26866|9843|M|CN|1
+H|apt|2|1855
+A|ZLDL|HXD|Haixi Delingha Airport|37.12529|97.26866|9843|M|CN|1|-1.06|-0.008
 R|07|25|9843||U|0||||||||||
-A|ZLJQ|JGN|Jiayuguan International Airport|39.85905|98.33934|5112|L|CN|1
+A|ZLJQ|JGN|Jiayuguan International Airport|39.85905|98.33934|5112|L|CN|1|-1.4|-0.018
 R|14|32|9843|131|H|0|||5112|||||5112||

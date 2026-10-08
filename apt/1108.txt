@@ -1,35 +1,35 @@
-H|apt|1|1108
-A|BR-1598||Fazenda Juerana Airport|-14.6568|-39.0773|33|S|BR|0
+H|apt|2|1108
+A|BR-1598||Fazenda Juerana Airport|-14.6568|-39.0773|33|S|BR|0|-23.33|0.045
 R|08|26|3281|98|D|0||||||||||
-A|BR-1736||Jauá Airport|-12.8096|-38.24826|76|S|BR|0
+A|BR-1736||Jauá Airport|-12.8096|-38.24826|76|S|BR|0|-22.95|0.063
 R|15|33|3281|66|T|0||||||||||
-A|BR-2152|ITN|Tertuliano Guedes de Pinho Airport|-14.8105|-39.2904|197|S|BR|0
+A|BR-2152|ITN|Tertuliano Guedes de Pinho Airport|-14.8105|-39.2904|197|S|BR|0|-23.35|0.042
 R|08|26|4993|98|C|0|-14.8131|-39.2947|199|56|165|-14.8081|-39.287|195|236|350
-A|BR-2158||Alagoinhas Airport|-12.17508|-38.38005|568|S|BR|0
+A|BR-2158||Alagoinhas Airport|-12.17508|-38.38005|568|S|BR|0|-22.8|0.064
 R|02|20|5184|98|A|0||||||||||
-A|BR-2166||Adustina Airport|-10.5809|-38.0888|892|S|BR|0
+A|BR-2166||Adustina Airport|-10.5809|-38.0888|892|S|BR|0|-22.37|0.075
 R|14|32|3609|66|A|0||||||||||
-A|BR-2167||Amargosa Airport|-12.9936|-39.6399|1394|S|BR|0
+A|BR-2167||Amargosa Airport|-12.9936|-39.6399|1394|S|BR|0|-23|0.046
 R|15|33|3609|82|A|0||||||||||
-A|BR-2179||Freitas Melro Airport|-10.2659|-36.5515|197|S|BR|0
+A|BR-2179||Freitas Melro Airport|-10.2659|-36.5515|197|S|BR|0|-22.12|0.094
 R|14|32|4921|66|A|0||||||||||
-A|BR-2228||Propriá Airport|-10.25612|-36.80237|164|S|BR|0
+A|BR-2228||Propriá Airport|-10.25612|-36.80237|164|S|BR|0|-22.15|0.091
 R|12|30|3937|98|A|0||||||||||
-A|BR-2277||Caldas do Jorro Airport|-11.04209|-38.78373|696|S|BR|0
+A|BR-2277||Caldas do Jorro Airport|-11.04209|-38.78373|696|S|BR|0|-22.54|0.065
 R|13|31|3609|82|A|0||||||||||
-A|BR-2560||Parque Manoelito Argolo Airport|-11.96041|-38.00278|558|S|BR|0
+A|BR-2560||Parque Manoelito Argolo Airport|-11.96041|-38.00278|558|S|BR|0|-22.73|0.069
 R|14|32|3281|59|A|0||||||||||
-A|BR-2774||Esplanada Airport|-11.77321|-37.9511|164|S|BR|0
+A|BR-2774||Esplanada Airport|-11.77321|-37.9511|164|S|BR|0|-22.68|0.071
 R|11|29|3937|98|T|0||||||||||
-A|BR-2775||Fazenda Lagoa do Morro Airport|-13.10326|-39.89528|2666|S|BR|0
+A|BR-2775||Fazenda Lagoa do Morro Airport|-13.10326|-39.89528|2666|S|BR|0|-23.02|0.042
 R|18|36|3937|66|T|0||||||||||
-A|SBAR|AJU|Aracaju - Santa Maria Airport|-10.98394|-37.07287|23|M|BR|1
+A|SBAR|AJU|Aracaju - Santa Maria Airport|-10.98394|-37.07287|23|M|BR|1|-22.4|0.085
 R|12|30|7218|148|A|0|-10.98369|-37.08035|22|||-10.98437|-37.06031|22||
 F|APP|120.3|ARACAJU APP
-A|SBIL|IOS|Bahia - Jorge Amado Airport|-14.81593|-39.03346|15|M|BR|1
+A|SBIL|IOS|Bahia - Jorge Amado Airport|-14.81593|-39.03346|15|M|BR|1|-23.36|0.045
 R|11|29|5174|148|A|0||||||||||
 F|APP|120.1|APP
-A|SBSV|SSA|Deputado Luiz Eduardo Magalhães International Airport|-12.90861|-38.3225|64|L|BR|1
+A|SBSV|SSA|Deputado Luiz Eduardo Magalhães International Airport|-12.90861|-38.3225|64|L|BR|1|-22.97|0.061
 R|10|28|9859|148|A|1|||30|78||||64|258|
 R|17|35|4987|148|A|1|||28|143||||34|323|
 F|APP|120.8|SALVADOR CON
@@ -37,31 +37,31 @@ F|ATIS|127.75|SALVADOR ATIS
 F|CLD|121.1|SALVADOR TRAFFIC
 F|GND|121.9|GND
 F|TWR|118.3|SALVADOR TWR
-A|SDIY|FEC|João Durval Carneiro Airport|-12.20069|-38.90616|781|M|BR|0
+A|SDIY|FEC|João Durval Carneiro Airport|-12.20069|-38.90616|781|M|BR|0|-22.83|0.058
 R|13|31|4921|98|A|1||||||||||
-A|SI8M||Hospital de Amor Airport|-10.90096|-37.63229|502|S|BR|0
+A|SI8M||Hospital de Amor Airport|-10.90096|-37.63229|502|S|BR|0|-22.42|0.079
 R|07|25|4265|75|A|0||||||||||
-A|SIRI|MUU|Barra Grande Airport|-13.90608|-38.9408|23|S|BR|0
+A|SIRI|MUU|Barra Grande Airport|-13.90608|-38.9408|23|S|BR|0|-23.19|0.05
 R|11|29|3281|59|A|0||||||||||
-A|SNAU||Aeroclube de Sergipe Airport|-10.90145|-37.08292|26|S|BR|0
+A|SNAU||Aeroclube de Sergipe Airport|-10.90145|-37.08292|26|S|BR|0|-22.37|0.085
 R|14|32|3182|164|A|0||||||||||
-A|SNEU||Euclides da Cunha Airport|-10.5273|-39.0327|1499|S|BR|0
+A|SNEU||Euclides da Cunha Airport|-10.5273|-39.0327|1499|S|BR|0|-22.42|0.064
 R|18|36|3937|72|A|0||||||||||
-A|SNIO||Cipó Airport|-11.12528|-38.48695|732|S|BR|0
+A|SNIO||Cipó Airport|-11.12528|-38.48695|732|S|BR|0|-22.54|0.068
 R|13|31|5118|92|A|0||||||||||
-A|SNIU|IPU|Ipiaú Airport|-14.17354|-39.68399|433|S|BR|0
+A|SNIU|IPU|Ipiaú Airport|-14.17354|-39.68399|433|S|BR|0|-23.23|0.04
 R|15|33|4265|66|A|0||||||||||
-A|SNQM||Queimadas Airport|-10.98833|-39.62056|1050|S|BR|0
+A|SNQM||Queimadas Airport|-10.98833|-39.62056|1050|S|BR|0|-22.56|0.055
 R|03|21|3937|72|A|0||||||||||
-A|SNVB|VAL|Valença Airport|-13.2965|-38.9924|21|S|BR|1
+A|SNVB|VAL|Valença Airport|-13.2965|-38.9924|21|S|BR|1|-23.07|0.052
 R|04|22|5906|98|A|0|-13.30424|-38.99439|16|||-13.28851|-38.99041|16||
-A|SNVR||Aeroclube da Bahia Airport|-13.02405|-38.66573|12|S|BR|0
+A|SNVR||Aeroclube da Bahia Airport|-13.02405|-38.66573|12|S|BR|0|-23.01|0.057
 R|08|26|4265|98|A|0||||||||||
-A|SNVV||Valente Airport|-11.41178|-39.44099|1096|S|BR|0
+A|SNVV||Valente Airport|-11.41178|-39.44099|1096|S|BR|0|-22.66|0.055
 R|11|29|3281|66|A|0||||||||||
-A|SS9O||Rio Sauípe Aeropark|-12.30665|-38.01264|132|S|BR|0
+A|SS9O||Rio Sauípe Aeropark|-12.30665|-38.01264|132|S|BR|0|-22.82|0.068
 R|15|33|3970|75|D|0||||||||||
-A|SSQP||Monte Santo Airport|-10.46482|-39.28648|1453|S|BR|0
+A|SSQP||Monte Santo Airport|-10.46482|-39.28648|1453|S|BR|0|-22.42|0.061
 R|17|35|3281|98|A|0||||||||||
-A|SSRF||Castro Alves Airport|-12.7657|-39.4467|869|S|BR|0
+A|SSRF||Castro Alves Airport|-12.7657|-39.4467|869|S|BR|0|-22.96|0.049
 R|13|31|4265|69|A|0||||||||||

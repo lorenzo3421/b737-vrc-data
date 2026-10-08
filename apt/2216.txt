@@ -1,5 +1,5 @@
-H|apt|1|2216
-A|UNIT|GOY|Tura Mountain Airport|64.33351|100.43289|2044|S|RU|1
+H|apt|2|2216
+A|UNIT|GOY|Tura Mountain Airport|64.33351|100.43289|2044|S|RU|1|-0.97|-0.138
 R|17|35|4593|92|C|1||||||||||
-A|UNIW|VAQ|Vanavara Airport|60.35623|102.30964|892|M|RU|1
+A|UNIW|VAQ|Vanavara Airport|60.35623|102.30964|892|M|RU|1|-3.52|-0.113
 R|06|24|4592|72|C|1||||||||||

@@ -1,49 +1,49 @@
-H|apt|1|1249
-A|BR-1496||Coomerj Airstrip|-0.10131|-52.95034|328|S|BR|0
+H|apt|2|1249
+A|BR-1496||Coomerj Airstrip|-0.10131|-52.95034|328|S|BR|0|-19.27|-0.061
 R|17|35|3281|164|D|0||||||||||
-A|BR-2482||Monte Verde Airport|-3.27684|-50.31867|249|S|BR|0
+A|BR-2482||Monte Verde Airport|-3.27684|-50.31867|249|S|BR|0|-20.31|-0.045
 R|15|33|3281|82|G|0||||||||||
-A|BR-2772||Belterra Airport|-2.66811|-54.89566|541|S|BR|0
+A|BR-2772||Belterra Airport|-2.66811|-54.89566|541|S|BR|0|-19.04|-0.094
 R|10|28|6562|197|A|0||||||||||
-A|BR-3007||Galletti II Airport|-2.95139|-51.14611|974|S|BR|0
+A|BR-3007||Galletti II Airport|-2.95139|-51.14611|974|S|BR|0|-20.09|-0.053
 R|08|26|3609|82|A|0||||||||||
-A|BR-ALT|ALT|Alenquer Municipal Airport|-1.917|-54.7231|55|S|BR|0
+A|BR-ALT|ALT|Alenquer Municipal Airport|-1.917|-54.7231|55|S|BR|0|-19.02|-0.089
 R|10|28|3280|75|A|0|-1.91755|-54.72724||||-1.91633|-54.71832|||
-A|SBHT|ATM|Altamira Interstate Airport|-3.25314|-52.25394|368|M|BR|1
+A|SBHT|ATM|Altamira Interstate Airport|-3.25314|-52.25394|368|M|BR|1|-19.88|-0.068
 R|07|25|6572|125|A|0||||||||||
-A|SBMD|MEU|Monte Dourado - Serra do Areão Airport|-0.88984|-52.6022|677|M|BR|0
+A|SBMD|MEU|Monte Dourado - Serra do Areão Airport|-0.88984|-52.6022|677|M|BR|0|-19.47|-0.061
 R|08|26|5906|98|A|0||||||||||
-A|SBSN|STM|Santarém - Maestro Wilson Fonseca International Airport|-2.42242|-54.79306|198|M|BR|1
+A|SBSN|STM|Santarém - Maestro Wilson Fonseca International Airport|-2.42242|-54.79306|198|M|BR|1|-19.05|-0.092
 R|10|28|7874|148|A|1||||||||||
 F|APP|119.3|APP
 F|TWR|118.1|TWR
-A|SDWV||Chácara Maringá Airport|-2.57274|-51.95376|98|S|BR|0
+A|SDWV||Chácara Maringá Airport|-2.57274|-51.95376|98|S|BR|0|-19.86|-0.061
 R|12|30|3232|59|D|0||||||||||
-A|SIK2||Fazenda Santa Maria Airstrip|-0.79127|-52.46977|295|S|BR|0
+A|SIK2||Fazenda Santa Maria Airstrip|-0.79127|-52.46977|295|S|BR|0|-19.48|-0.059
 R|06|24|3281|59|D|0||||||||||
-A|SINQ||Laranjal Airport|-0.79041|-52.48816|250|S|BR|0
+A|SINQ||Laranjal Airport|-0.79041|-52.48816|250|S|BR|0|-19.48|-0.059
 R|04|22|3281|82|A|0||||||||||
-A|SIY9||Pista Sagarana|-3.28007|-51.30163|328|S|BR|0
+A|SIY9||Pista Sagarana|-3.28007|-51.30163|328|S|BR|0|-20.11|-0.056
 R|07|25|3281|75|U|0||||||||||
-A|SNCB||Castanhal Airport|-2.52361|-53.93972|502|S|BR|0
+A|SNCB||Castanhal Airport|-2.52361|-53.93972|502|S|BR|0|-19.33|-0.083
 R|07|25|3182|98|A|0||||||||||
-A|SNIN||Prainha Airport|-1.7841|-53.48991|151|S|BR|0
+A|SNIN||Prainha Airport|-1.7841|-53.48991|151|S|BR|0|-19.37|-0.075
 R|08|26|3937|98|T|0||||||||||
-A|SNMA|MTE|Monte Alegre Airport|-1.9958|-54.0742|325|S|BR|0
+A|SNMA|MTE|Monte Alegre Airport|-1.9958|-54.0742|325|S|BR|0|-19.22|-0.082
 R|10|28|4675|98|A|0||||||||||
-A|SNMZ|PTQ|Porto de Moz Airport|-1.74131|-52.23603|52|S|BR|0
+A|SNMZ|PTQ|Porto de Moz Airport|-1.74131|-52.23603|52|S|BR|0|-19.68|-0.06
 R|05|23|4298|92|A|0||||||||||
-A|SNRR||Fazenda Aratau Airport|-4.15146|-50.16387|541|S|BR|0
+A|SNRR||Fazenda Aratau Airport|-4.15146|-50.16387|541|S|BR|0|-20.47|-0.047
 R|04|22|3379|75|A|0||||||||||
-A|SNSH||São José Airport|-2.57452|-54.73443|440|S|BR|0
+A|SNSH||São José Airport|-2.57452|-54.73443|440|S|BR|0|-19.08|-0.092
 R|09|27|4921|98|A|0||||||||||
-A|SNVS|BVS|Breves Airport|-1.63653|-50.4436|98|S|BR|1
+A|SNVS|BVS|Breves Airport|-1.63653|-50.4436|98|S|BR|1|-20.01|-0.038
 R|07|25|5249|98|A|0||||||||||
-A|SNWR||Wilma Rabelo Airport|-2.6366|-51.82708|201|S|BR|0
+A|SNWR||Wilma Rabelo Airport|-2.6366|-51.82708|201|S|BR|0|-19.9|-0.06
 R|17|35|3117|66|A|0||||||||||
-A|SNXY||Cikel Brasil Verde Airport|-2.69493|-50.52595|98|S|BR|0
+A|SNXY||Cikel Brasil Verde Airport|-2.69493|-50.52595|98|S|BR|0|-20.17|-0.044
 R|05|23|3937|66|A|0||||||||||
-A|SNYA|GGF|Almeirim Airport|-1.47952|-52.57821|584|S|BR|1
+A|SNYA|GGF|Almeirim Airport|-1.47952|-52.57821|584|S|BR|1|-19.56|-0.063
 R|05|23|3937|98|G|0||||||||||
-A|SWPX||Belterra Airport|-2.6722|-54.95151|574|S|BR|0
+A|SWPX||Belterra Airport|-2.6722|-54.95151|574|S|BR|0|-19.02|-0.095
 R|11|29|3117|59|G|0||||||||||

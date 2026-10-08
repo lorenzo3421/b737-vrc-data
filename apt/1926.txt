@@ -1,5 +1,5 @@
-H|apt|1|1926
-A|ZLDH|DNH|Dunhuang Mogao International Airport|40.16195|94.81283||L|CN|1
+H|apt|2|1926
+A|ZLDH|DNH|Dunhuang Mogao International Airport|40.16195|94.81283||L|CN|1|-0.25|-0.014
 R|08|26|9186|148|C|1||||||||||
-A|ZWHM|HMI|Hami Airport|42.8414|93.6692|2703|M|CN|1
+A|ZWHM|HMI|Hami Airport|42.8414|93.6692|2703|M|CN|1|0.3|-0.021
 R|11|29|7874||C|1||||||||||

@@ -1,3 +1,3 @@
-H|apt|1|2213
-A|UNIP|TGP|Podkamennaya Tunguska Airport|61.5897|89.994|213|M|RU|0
+H|apt|2|2213
+A|UNIP|TGP|Podkamennaya Tunguska Airport|61.5897|89.994|213|M|RU|0|7.4|-0.097
 R|04|22|5597|92|U|0||||||||||

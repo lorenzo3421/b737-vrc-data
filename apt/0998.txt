@@ -1,120 +1,120 @@
-H|apt|1|0998
-A|AU-0458||Tilmouth Airstrip|-22.81222|132.60667|1880|S|AU|0
+H|apt|2|0998
+A|AU-0458||Tilmouth Airstrip|-22.81222|132.60667|1880|S|AU|0|3.89|-0.024
 R|12|30|4154|60|D|0||||||||||
-A|YABU||Amburla Airport|-23.3399|133.17233||S|AU|0
+A|YABU||Amburla Airport|-23.3399|133.17233||S|AU|0|4.11|-0.023
 R|12|30|3280||U|0||||||||||
 F|CTAF|120.5|CTAF
-A|YALC||Alcoota Station Airport|-22.80196|134.4036|1994|S|AU|0
+A|YALC||Alcoota Station Airport|-22.80196|134.4036|1994|S|AU|0|4.37|-0.025
 R|12|30|3999||U|0||||||||||
 F|CTAF|118.4|CTAF
-A|YANN||Anningie Airport|-21.8317|133.125||S|AU|0
+A|YANN||Anningie Airport|-21.8317|133.125||S|AU|0|3.9|-0.028
 R|01|19|3444||U|0||||||||||
-A|YARN||Areyonga Airport|-24.09156|132.27123||S|AU|0
+A|YARN||Areyonga Airport|-24.09156|132.27123||S|AU|0|3.97|-0.02
 R|12|30|3215||U|0||||||||||
 F|CTAF|134.4|CTAF
-A|YBAS|ASP|Alice Springs Airport|-23.80659|133.90343|1789|M|AU|1
+A|YBAS|ASP|Alice Springs Airport|-23.80659|133.90343|1789|M|AU|1|4.38|-0.022
 R|12|30|7999|148|A|1|-23.801|133.89301|1786|120||-23.8121|133.914|1763|300|
 R|17|35|3717|60|A|1|-23.7973|133.88699|1789|178||-23.8075|133.88699|1778|358|
 F|CTAF|118.3|CTAF
 F|TWR|118.3|TWR
-A|YBRC||Barrow Creek Airport|-21.5422|133.87196||S|AU|0
+A|YBRC||Barrow Creek Airport|-21.5422|133.87196||S|AU|0|4.05|-0.029
 R|13|31|3937||U|0||||||||||
-A|YCNS||Coniston Airport|-22.1333|132.533||S|AU|0
+A|YCNS||Coniston Airport|-22.1333|132.533||S|AU|0|3.78|-0.027
 R|12|30|3937||U|0||||||||||
 F|CTAF|122.3|CTAF
-A|YDLD||Delmore Downs Airport|-22.4586|134.884||S|AU|0
+A|YDLD||Delmore Downs Airport|-22.4586|134.884||S|AU|0|4.45|-0.026
 R|12|30|3937||U|0||||||||||
 F|CTAF|118.15|CTAF
-A|YHAA||Haasts Bluff Airport|-23.455|131.853|2269|S|AU|0
+A|YHAA||Haasts Bluff Airport|-23.455|131.853|2269|S|AU|0|3.78|-0.022
 R|12|30|3254||U|0||||||||||
 F|CTAF|126.7|CTAF
-A|YHBY|HRY|Henbury Airport|-24.584|133.236||S|AU|0
+A|YHBY|HRY|Henbury Airport|-24.584|133.236||S|AU|0|4.3|-0.019
 R|11|29|3280||T|0||||||||||
 F|CTAF|123.9|CTAF
-A|YHGR||Hugh River Airport|-24.44926|133.70873||S|AU|0
+A|YHGR||Hugh River Airport|-24.44926|133.70873||S|AU|0|4.42|-0.02
 R|14|32|5019||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YHMB|HMG|Hermannsburg Airport|-23.92648|132.8078|593|S|AU|0
+A|YHMB|HMG|Hermannsburg Airport|-23.92648|132.8078|593|S|AU|0|4.09|-0.021
 R|11|29|3704||U|0||||||||||
 F|CTAF|123.9|CTAF
-A|YHTS||Harts Range Airport|-22.985|134.918||S|AU|0
+A|YHTS||Harts Range Airport|-22.985|134.918||S|AU|0|4.54|-0.025
 R|16|34|4265||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YKCA|KBJ|Kings Canyon Airport|-24.26023|131.48892|2100|S|AU|0
+A|YKCA|KBJ|Kings Canyon Airport|-24.26023|131.48892|2100|S|AU|0|3.78|-0.019
 R|12|30|4908||U|0||||||||||
 F|CTAF|122|CTAF
-A|YKCS|KCS|Kings Creek Airport|-24.42129|131.81946|615|S|AU|0
+A|YKCS|KCS|Kings Creek Airport|-24.42129|131.81946|615|S|AU|0|3.89|-0.019
 R|10|28|5029||U|0||||||||||
 F|CTAF|121.85|CTAF
-A|YLBG||Mount Liebig Airport|-23.2433|131.25999||S|AU|0
+A|YLBG||Mount Liebig Airport|-23.2433|131.25999||S|AU|0|3.6|-0.022
 R|08|26|3937||U|0||||||||||
 F|CTAF|118.4|CTAF
-A|YMDK||Mount Riddock Airport|-23.0333|134.683||S|AU|0
+A|YMDK||Mount Riddock Airport|-23.0333|134.683||S|AU|0|4.48|-0.024
 R|13|31|3280||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YMEI||Mereenie Airport|-23.9767|131.562|735|S|AU|0
+A|YMEI||Mereenie Airport|-23.9767|131.562|735|S|AU|0|3.76|-0.02
 R|12|30|4921||U|0||||||||||
 F|CTAF|118.4|CTAF
-A|YMNA||Mount Allan Airport|-22.275|132.217||S|AU|0
+A|YMNA||Mount Allan Airport|-22.275|132.217||S|AU|0|3.72|-0.026
 R|16|34|3280||U|0||||||||||
 F|CTAF|124.8|CTAF
-A|YMNN||Mount Denison Airport|-22.1417|132.07001||S|AU|0
+A|YMNN||Mount Denison Airport|-22.1417|132.07001||S|AU|0|3.67|-0.026
 R|13|31|3211||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YMSK||Mount Skinner Airport|-22.1878|134.17165||S|AU|0
+A|YMSK||Mount Skinner Airport|-22.1878|134.17165||S|AU|0|4.22|-0.027
 R|12|30|3280||U|0||||||||||
 F|CTAF|120.7|CTAF
-A|YMYV||Maryvale Airport|-24.64799|134.02636||S|AU|0
+A|YMYV||Maryvale Airport|-24.64799|134.02636||S|AU|0|4.53|-0.019
 R|11|29|3280||U|0||||||||||
 F|CTAF|122.6|CTAF
-A|YMYW||Murray Downs Airport|-21.0483|134.683||S|AU|0
+A|YMYW||Murray Downs Airport|-21.0483|134.683||S|AU|0|4.19|-0.031
 R|15|33|3280||U|0||||||||||
 F|CTAF|122.1|CTAF
-A|YNHV||New Haven Airport|-22.7283|131.145||S|AU|0
+A|YNHV||New Haven Airport|-22.7283|131.145||S|AU|0|3.51|-0.024
 R|13|31|3605||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YNRR||Nyrripi Airport|-22.6453|130.565||S|AU|0
+A|YNRR||Nyrripi Airport|-22.6453|130.565||S|AU|0|3.36|-0.023
 R|07|25|4593||U|0||||||||||
 F|CTAF|121.85|CTAF
-A|YNWT||Narwietooma Airport|-23.22879|132.62938||S|AU|0
+A|YNWT||Narwietooma Airport|-23.22879|132.62938||S|AU|0|3.95|-0.023
 R|07|25|3605||U|0||||||||||
 F|CTAF|126.7|CTAF
-A|YPAY||Papunya Airport|-23.2467|131.903|620|S|AU|0
+A|YPAY||Papunya Airport|-23.2467|131.903|620|S|AU|0|3.76|-0.023
 R|13|31|4015||U|0||||||||||
 F|CTAF|125.4|CTAF
-A|YRBT||Rabbit Flat Airport|-20.1833|130.017||S|AU|0
+A|YRBT||Rabbit Flat Airport|-20.1833|130.017||S|AU|0|2.96|-0.03
 R|09|27|4396||U|0||||||||||
 F|CTAF|132.1|CTAF
-A|YRNW||Ringwood Airport|-23.8283|134.96201||S|AU|0
+A|YRNW||Ringwood Airport|-23.8283|134.96201||S|AU|0|4.68|-0.022
 R|06|24|3999||U|0||||||||||
 R|18|36|1899||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YSAI||Saipem Airport|-23.7|131.867||S|AU|0
+A|YSAI||Saipem Airport|-23.7|131.867||S|AU|0|3.81|-0.021
 R|18|36|3937||U|0||||||||||
 F|CTAF|123.4|CTAF
-A|YSTT||Santa Teresa Airport|-24.1183|134.39||S|AU|0
+A|YSTT||Santa Teresa Airport|-24.1183|134.39||S|AU|0|4.56|-0.021
 R|10|28|3316||U|0||||||||||
-A|YTGT|GTS|The Granites Airport|-20.5483|130.347||S|AU|0
+A|YTGT|GTS|The Granites Airport|-20.5483|130.347||S|AU|0|3.07|-0.03
 R|11|29|4921||U|0||||||||||
 F|CTAF|132.1|CTAF
-A|YTIT||Ti Tree Airport|-22.1317|133.42||S|AU|0
+A|YTIT||Ti Tree Airport|-22.1317|133.42||S|AU|0|4.01|-0.027
 R|18|36|4265||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YUTP||Utopia Airport|-22.055|134.78999||S|AU|0
+A|YUTP||Utopia Airport|-22.055|134.78999||S|AU|0|4.37|-0.027
 R|07|25|3937||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YUTS||Utopia Station Airport|-22.2333|134.58||S|AU|0
+A|YUTS||Utopia Station Airport|-22.2333|134.58||S|AU|0|4.34|-0.027
 R|07|25|3937||U|0||||||||||
 F|CTAF|119.8|CTAF
-A|YVNS||Vaughan Springs Airport|-22.3333|130.867||S|AU|0
+A|YVNS||Vaughan Springs Airport|-22.3333|130.867||S|AU|0|3.4|-0.025
 R|14|32|3937||U|0||||||||||
 F|CTAF|132.1|CTAF
-A|YWBI||Warrabri Airport|-21|134.397|383|S|AU|0
+A|YWBI||Warrabri Airport|-21|134.397|383|S|AU|0|4.11|-0.031
 R|12|30|3405||U|0||||||||||
 F|CTAF|122.1|CTAF
-A|YWLA||Willowra Airport|-21.2767|132.623||S|AU|0
+A|YWLA||Willowra Airport|-21.2767|132.623||S|AU|0|3.69|-0.029
 R|12|30|3182||U|0||||||||||
 F|CTAF|120.5|CTAF
-A|YYND|YUE|Yuendumu Airport|-22.2542|131.782|2205|S|AU|0
+A|YYND|YUE|Yuendumu Airport|-22.2542|131.782|2205|S|AU|0|3.61|-0.026
 R|12|30|4724|60|A|0|-22.24938|131.77641||127||-22.25773|131.78793||307|
 F|CTAF|126.7|CTAF

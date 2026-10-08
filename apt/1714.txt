@@ -1,33 +1,33 @@
-H|apt|1|1714
-A|CN-0081|JGS|Jinggangshan Airport|26.8569|114.737|281|M|CN|1
+H|apt|2|1714
+A|CN-0081|JGS|Jinggangshan Airport|26.8569|114.737|281|M|CN|1|-4.25|-0.02
 R|08|26|8530||C|1||||||||||
-A|ZGCD|CGD|Changde Taohuayuan Airport|28.9189|111.64|128|M|CN|1
+A|ZGCD|CGD|Changde Taohuayuan Airport|28.9189|111.64|128|M|CN|1|-3.96|-0.014
 R|02|20|8366||U|1||||||||||
-A|ZGCZ|HCZ|Chenzhou Beihu Airport|25.75342|112.8454|1071|M|CN|1
+A|ZGCZ|HCZ|Chenzhou Beihu Airport|25.75342|112.8454|1071|M|CN|1|-3.66|-0.013
 R|07|25|8530||U|0||||||||||
-A|ZGDY|DYG|Zhangjiajie Hehua International Airport|29.10475|110.44279|8530|L|CN|1
+A|ZGDY|DYG|Zhangjiajie Hehua International Airport|29.10475|110.44279|8530|L|CN|1|-3.71|-0.011
 R|08|26|8530|148|U|0|29.10007|110.43066||||29.10584|110.45652|||
-A|ZGHA|CSX|Changsha Huanghua International Airport|28.1892|113.22|217|L|CN|1
+A|ZGHA|CSX|Changsha Huanghua International Airport|28.1892|113.22|217|L|CN|1|-4.19|-0.017
 R|18L|36R|12467|197|C|1|28.2091|113.22241|212|177||28.17486|113.22451|188|357|
 R|18R|36L|10499|148|A|1|28.2009|113.219|217|177||28.1774|113.22|197|357|
 F|APP|119.65|CHANGSHU
 F|ATIS|128.8|ATIS
 F|GND|121.75|GND
 F|TWR|118.55|TWR
-A|ZGHY|HNY|Hengyang Nanyue Airport|26.72208|112.61796||S|CN|1
+A|ZGHY|HNY|Hengyang Nanyue Airport|26.72208|112.61796||S|CN|1|-3.79|-0.014
 R|04|22|8530||U|1||||||||||
-A|ZGKL|KWL|Guilin Liangjiang International Airport|25.21983|110.03955|570|L|CN|1
+A|ZGKL|KWL|Guilin Liangjiang International Airport|25.21983|110.03955|570|L|CN|1|-3.01|-0.005
 R|01|19|10499|147|C|1|25.2055|110.038|571|5||25.2307|110.04|564|185|
 F|ATIS|126.45|ATIS
 F|GND|121.65|GND
 F|TWR|118|TWR
-A|ZGLG|LLF|Yongzhou Lingling Airport|26.33866|111.61004|340|M|CN|1
+A|ZGLG|LLF|Yongzhou Lingling Airport|26.33866|111.61004|340|M|CN|1|-3.51|-0.01
 R|18|36|8530|157|U|1||||||||||
-A|ZGSY|WGN|Shaoyang Wugang Airport|26.80612|110.64104|1444|M|CN|1
+A|ZGSY|WGN|Shaoyang Wugang Airport|26.80612|110.64104|1444|M|CN|1|-3.38|-0.008
 R|03|21|8530|148|U|0||||||||||
-A|ZGYY|YYA|Yueyang Sanhe Airport|29.3117|113.28157|230|M|CN|1
+A|ZGYY|YYA|Yueyang Sanhe Airport|29.3117|113.28157|230|M|CN|1|-4.41|-0.018
 R|18|36|8530||U|0||||||||||
-A|ZSGZ|KOW|Ganzhou Huangjin Airport|25.85333|114.77889|387|S|CN|1
+A|ZSGZ|KOW|Ganzhou Huangjin Airport|25.85333|114.77889|387|S|CN|1|-4.07|-0.019
 R|07|25|8530||U|1||||||||||
-A|ZSYC|YIC|Yichun Mingyueshan Airport|27.8025|114.3062|430|M|CN|1
+A|ZSYC|YIC|Yichun Mingyueshan Airport|27.8025|114.3062|430|M|CN|1|-4.35|-0.019
 R|06|24|7874||U|1||||||||||

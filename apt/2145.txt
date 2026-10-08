@@ -1,9 +1,9 @@
-H|apt|1|2145
-A|UIKK|KCK|Kirensk Airport|57.773|108.064|840|S|RU|0
+H|apt|2|2145
+A|UIKK|KCK|Kirensk Airport|57.773|108.064|840|S|RU|0|-7.64|-0.088
 R|09|27|5085|131|C|1||||||||||
-A|UITK||Kazachinskaya Airport|56.28015|107.56757|1499|S|RU|0
+A|UITK||Kazachinskaya Airport|56.28015|107.56757|1499|S|RU|0|-7.15|-0.084
 R|04|22|5248|105|C|1||||||||||
-A|UITT|UKX|Ust-Kut Airport|56.8567|105.73|2188|M|RU|1
+A|UITT|UKX|Ust-Kut Airport|56.8567|105.73|2188|M|RU|1|-6.04|-0.09
 R|12|33|6561|147|C|1||||||||||
-A|UIUN|NZG|Nizhneangarsk International Airport|55.8008|109.595|1545|S|RU|1
+A|UIUN|NZG|Nizhneangarsk International Airport|55.8008|109.595|1545|S|RU|1|-8.28|-0.077
 R|05|23|5249|105|C|1||||||||||

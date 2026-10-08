@@ -1,30 +1,30 @@
-H|apt|1|0526
-A|AR-0316||Rio Chico Airport|-51.669|-69.26636|68|S|AR|0
+H|apt|2|0526
+A|AR-0316||Rio Chico Airport|-51.669|-69.26636|68|S|AR|0|10.51|-0.099
 R|03|21|4593|66|T|0||||||||||
 R|08|26|3937|66|T|0||||||||||
-A|AR-0736||Ushuaia Aeroclub Airport|-54.8227|-68.3043|19|S|AR|0
+A|AR-0736||Ushuaia Aeroclub Airport|-54.8227|-68.3043|19|S|AR|0|11.72|-0.087
 R|16|34|5299|161|A|0|-54.8154|-68.3045|17|178.9||-54.83|-68.304|20|358.9|
 F|RDO|122.1|RDO
-A|SAWE|RGA|Gobernador Ramón Trejo Noel International Airport|-53.7777|-67.7494|65|M|AR|1
+A|SAWE|RGA|Gobernador Ramón Trejo Noel International Airport|-53.7777|-67.7494|65|M|AR|1|10.69|-0.09
 R|07|25|6562|131|A|1|-53.7781|-67.7645|66|87.5||-53.7773|-67.7343|44|267.5|
 F|TWR|118.3|GRANDE TWR/APP
-A|SAWG|RGL|Piloto Civil Norberto Fernández International Airport|-51.60879|-69.30895|61|L|AR|1
+A|SAWG|RGL|Piloto Civil Norberto Fernández International Airport|-51.60879|-69.30895|61|L|AR|1|10.5|-0.099
 R|08|26|9022|148|C|1|-51.6095|-69.32672|57|86|243|-51.60761|-69.28714|51|266|
 F|APP|119.1|APP/TWR
 F|RDO|122.1|RDO
-A|SAWH|USH|Ushuaia - Malvinas Argentinas International Airport|-54.8433|-68.2958|102|M|AR|1
+A|SAWH|USH|Ushuaia - Malvinas Argentinas International Airport|-54.8433|-68.2958|102|M|AR|1|11.72|-0.087
 R|07|25|9186|148|C|1|-54.8442|-68.3175|85|86.2|591|-54.8424|-68.274|74|266.2|525
 F|RDO|122.1|RDO
 F|TWR|118.1|TWR/APP
-A|SAWU|RZA|Santa Cruz Airport|-50.0165|-68.5792|364|M|AR|0
+A|SAWU|RZA|Santa Cruz Airport|-50.0165|-68.5792|364|M|AR|0|8.97|-0.104
 R|07|25|6561|98|A|1|-50.019|-68.5928|364|77.9||-50.0152|-68.5656|364|257.9|
-A|SCBS||Posesión Airport|-52.29259|-68.93303|100|S|CL|0
+A|SCBS||Posesión Airport|-52.29259|-68.93303|100|S|CL|0|10.64|-0.096
 R|07|25|3281|98|T|0||||||||||
-A|SCGZ|WPU|Guardia Marina Zañartu Airport|-54.9311|-67.6263|88|M|CL|0
+A|SCGZ|WPU|Guardia Marina Zañartu Airport|-54.9311|-67.6263|88|M|CL|0|11.31|-0.086
 R|08|26|4724|95|A|1|-54.931|-67.6375|88|91.4||-54.9312|-67.615|42|271.4|
 F|TWR|118.5|WILLIAMS APP/TWR
-A|SCSB|SMB|Franco Bianco Airport|-52.7367|-69.3336|104|S|CL|0
+A|SCSB|SMB|Franco Bianco Airport|-52.7367|-69.3336|104|S|CL|0|11.2|-0.095
 R|01|19|3937|98|T|0|||106|||||98||
 R|07|25|4921|131|T|0|||106|||||106||
-A|SCSS||San Sebastián Airport|-53.3162|-68.6573|50|S|CL|0
+A|SCSS||San Sebastián Airport|-53.3162|-68.6573|50|S|CL|0|11.06|-0.093
 R|08|26|3609|82|U|0||||||||||

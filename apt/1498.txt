@@ -1,3 +1,3 @@
-H|apt|1|1498
-A|RCSP||Taiping Island Airport|10.37709|114.36564||S|TW|0
+H|apt|2|1498
+A|RCSP||Taiping Island Airport|10.37709|114.36564||S|TW|0|-1.3|-0.01
 R|07|25|3935||U|0||||||||||
