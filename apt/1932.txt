@@ -1,0 +1,25 @@
+H|apt|1|1932
+A|KP-0009||Sinuiju Airport|40.08722|124.40772|23|S|KP|0
+R|03|21|3250|236|T|0||||||||||
+A|ZBTL|TGO|Tongliao Airport|43.5567|122.2|2395|M|CN|1
+R|02|20|7546||C|0||||||||||
+A|ZKUJ|UJU|Uiju Airport|40.15001|124.5011|32|S|KP|0
+R|04|22|8180|174|C|0||||||||||
+A|ZYAS|AOG|Anshan Teng'ao Airport / Anshan Air Base|41.1053|122.854||M|CN|1
+R|02|20|8530||U|0||||||||||
+A|ZYCY|CHG|Chaoyang Airport|41.5381|120.435|568|M|CN|1
+R|18|36|6562||U|0||||||||||
+A|ZYDD|DDG|Dandong Langtou International Airport|40.02545|124.28669|30|M|CN|1
+R|01|19|8530||C|0||||||||||
+A|ZYJZ|JNZ|Jinzhou Bay Airport|40.93603|121.27711||M|CN|1
+R|04|22|8202||U|0||||||||||
+A|ZYSQ|YSQ|Songyuan Chaganhu Airport|44.93114|124.55212|459|M|CN|1
+R|04|22|8202|148|U|0||||||||||
+A|ZYTX|SHE|Shenyang Taoxian International Airport|41.6398|123.48367|198|L|CN|1
+R|06|24|10499|148|C|1|41.6304|123.469|171|49||41.6493|123.498|197|229|
+F|ATIS|127.45|ATIS
+F|GND|121.9|Taoxian Ground
+F|GND|121.95|Taoxian Apron
+F|TWR|118.1|SHENYANG TWR
+A|ZYYK|YKH|Yingkou Lanqi Airport|40.54252|122.3586||M|CN|1
+R|04|22|8202||U|0||||||||||

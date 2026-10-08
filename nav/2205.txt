@@ -1,0 +1,4 @@
+H|nav|1|2205
+N|KTL|Kotlas|VOR-DME|117800|61.2417|46.7133|180|14.6|125X|
+N|VC|Leshukonskoye|NDB|678|64.9|45.75||17.1||
+N|WJ|Leshukonskoye|NDB|678|64.9003|45.7503||17.1||

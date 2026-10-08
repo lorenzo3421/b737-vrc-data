@@ -1,0 +1,5 @@
+H|apt|1|1853
+A|ZWCM|IQM|Qiemo Yudu Airport|38.23452|85.46546||M|CN|1
+R|04|22|9186||U|1||||||||||
+A|ZWRQ|RQA|Ruoqiang Loulan Airport|38.97472|88.00833|2916|M|CN|1
+R|04|22|9186|148|U|0||||||||||

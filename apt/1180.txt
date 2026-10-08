@@ -1,0 +1,113 @@
+H|apt|1|1180
+A|BR-0263|CJZ|Pedro Vieira Moreira Airport|-6.8827|-38.61583|1099|S|BR|1
+R|12|30|5249||A|0||||||||||
+A|BR-0535||Vitalli Airport|-6.63981|-36.65389|1037|S|BR|0
+R|03|21|3471|75|D|0||||||||||
+A|BR-0698||Jardim de Angicos Airport|-5.63815|-35.95654|492|S|BR|0
+R|12|30|3609|98|D|0||||||||||
+A|BR-2172||Belém de São Francisco Airport|-8.76959|-38.9496|1034|S|BR|0
+R|15|33|3609|82|A|0||||||||||
+A|BR-2222||Mombaça Airport|-5.72918|-39.59793|748|S|BR|0
+R|18|36|3281|85|A|0||||||||||
+A|BR-2363||Brejo das Freiras Airport|-6.6779|-38.496|1017|S|BR|0
+R|09|27|3117|82|A|0||||||||||
+A|BR-2364||Pedro Simões Pimenta Airport|-6.48589|-36.1372|2139|S|BR|0
+R|10|28|3773|98|T|0||||||||||
+A|BR-2455||Fazenda Santa Rita Airport|-8.22833|-37.75639|1634|S|BR|0
+R|07|25|4528|98|G|0||||||||||
+A|BR-2792||Ibimirim Airport|-8.53286|-37.67419|1329|S|BR|0
+R|16|34|3609|85|A|0||||||||||
+A|BR-2796||Jardim do Seridó Airport|-6.54145|-36.73201|837|S|BR|0
+R|09|27|3609|85|A|0||||||||||
+A|BR-2847||Afogados da Ingazeira Airport|-7.72361|-37.61889|1844|S|BR|0
+R|09|27|3445|66|A|0||||||||||
+A|BR-2857||Santa Maria da Boa Vista Airport|-8.78206|-39.87222|1253|S|BR|0
+R|11|29|3445|66|A|0||||||||||
+A|BR-2860||São José do Egito Airport|-7.48694|-37.29111|2133|S|BR|0
+R|12|30|3445|66|A|0||||||||||
+A|BR-2861||Uauá Airport|-9.83206|-39.49973|1335|S|BR|0
+R|15|33|3937|82|A|0||||||||||
+A|BR-2862||Sertânia Airport|-8.0575|-37.28944|1968|S|BR|0
+R|16|34|3445|66|G|0||||||||||
+A|BR-2871||Guaxuma Airport|-9.98056|-36.23111|322|S|BR|0
+R|12|30|3281|98|T|0||||||||||
+A|SBJU|JDO|Orlando Bezerra de Menezes Airport|-7.21932|-39.2691|1342|S|BR|1
+R|13|31|6365|148|A|0||||||||||328
+A|SBKG|CPV|Presidente João Suassuna Airport|-7.26966|-35.89606|1646|M|BR|1
+R|15|33|5135|138|A|0||||||||||
+A|SBMO|MCZ|Zumbi dos Palmares International Airport|-9.51256|-35.79184|387|L|BR|1
+R|12|30|8537|148|A|0|||387|100||||364|280|
+F|APP|119.25|MACEIO APP
+F|TWR|118.25|MACEIO TWR
+A|SBMS|MVF|Dix-Sept Rosado Airport|-5.20192|-37.3643|76|M|BR|1
+R|05|23|6562|98|A|0||||||||||
+A|SBNT||Natal Air Force Base|-5.91142|-35.2477|171|M|BR|0
+R|12|30|5987|148|A|0|||166|99||||145|279|
+R|16L|34R|8530|148|A|0|||149|141||||138|321|
+R|16R|34L|5905|148|A|0|||161|141||||151|321|
+F|APP|119.3|NATAL APP
+F|ATIS|132.65|NATAL ATIS
+F|GND|121.9|GND
+F|TWR|118.7|NATAL TWR
+A|SBSG|NAT|Rio Grande do Norte/São Gonçalo do Amarante–Governador Aluízio Alves International Airport|-5.76982|-35.36661|273|L|BR|1
+R|12|30|9843|197|A|1|-5.76764|-35.37988|273|99||-5.77198|-35.35324|264|279|
+F|ATIS|127.6|
+F|TWR|118.2|
+A|SBUF|PAV|Paulo Afonso Airport|-9.40088|-38.2506|883|M|BR|1
+R|14|32|5906|148|A|0||||||||||
+A|SDLI||Jeová Gomes Corrêa Airport|-8.73699|-39.1154|1066|S|BR|0
+R|12|30|3937|66|G|0||||||||||
+A|SIBU||Jerônimo Sérgio Rosado Maia Airport|-6.36253|-37.7562|892|S|BR|0
+R|11|29|3281|59|A|0||||||||||
+A|SIBY||Lourival Nunes de Farias Airport|-7.87824|-37.14|2041|S|BR|0
+R|14|32|3740|98|A|0||||||||||
+A|SIBZ||Itaporanga Airport|-7.31166|-38.1127|957|S|BR|0
+R|13|31|3937|89|A|0||||||||||
+A|SJ4I||Fazenda Lagoa Fechada Airport|-8.90681|-37.92829|1309|S|BR|0
+R|01|19|3281|66|G|0||||||||||
+A|SJ4L||Governo Divaldo Suruagy Airport|-9.69444|-35.83167|279|S|BR|0
+R|15|33|4265|66|U|1||||||||||
+A|SJPO||Xingó Airport|-9.58797|-37.7778|781|S|BR|0
+R|16|34|3068|92|T|0||||||||||
+A|SJZC||Destilaria São Luiz Airport|-8.77878|-35.78616|1371|S|BR|0
+R|09|27|3281|92|T|0||||||||||
+A|SNAE||Arcoverde Airport|-8.40778|-37.08833|2126|S|BR|0
+R|15|33|4265|92|A|0||||||||||
+A|SNAL|APQ|Arapiraca Airport|-9.77659|-36.62898|886|S|BR|0
+R|10|28|3051|59|A|0||||||||||
+A|SNGN|QGP|Garanhuns Airport|-8.83428|-36.4716|2533|S|BR|0
+R|16|34|4114|92|A|0||||||||||
+A|SNHS|SET|Santa Magalhães Airport|-8.06143|-38.32889|1542|S|BR|1
+R|13|31|5905|98|A|1||||||||||
+A|SNIG|QIG|Iguatu Airport|-6.34632|-39.29445|699|S|BR|0
+R|16|34|4626|98|A|0||||||||||
+A|SNKK||Rui Mariz Airport|-6.43916|-37.07808|600|S|BR|0
+R|14|32|3281|59|A|0||||||||||
+A|SNKN|QCP|Currais Novos Airport|-6.28083|-36.54028|1148|S|BR|0
+R|11|29|3412|98|A|0||||||||||
+A|SNMI||Mina Caraíba Airport|-9.83|-39.88667|1476|S|BR|0
+R|17|35|5741|118|A|0||||||||||
+A|SNML||Manduca Leão Airport|-9.54422|-35.82495|387|S|BR|0
+R|11|29|3281|59|T|0||||||||||
+A|SNOG||Ceará Mirim Airport|-5.6614|-35.41365|171|S|BR|0
+R|16|34|3937|66|A|0||||||||||
+A|SNPQ||Pesqueira Airport|-8.37481|-36.63781|2067|S|BR|0
+R|12|30|3281|125|D|0||||||||||
+A|SNQD||Sousa Airport|-6.78544|-38.2334|745|S|BR|0
+R|15|33|3937|98|A|0||||||||||
+A|SNRU|CAU|Caruaru Airport|-8.28239|-36.0135|1891|S|BR|1
+R|13|31|5906|98|A|0||||||||||
+A|SNSG||Salgueiro Airport|-8.04716|-39.1364|1539|S|BR|0
+R|17|35|4265|98|A|0||||||||||
+A|SNTS|JPO|Aeroporto Brigadeiro Firmino Ayres|-7.03899|-37.2516|869|S|BR|0
+R|12|30|5249|98|A|0||||||||||
+A|SNUC||Açu Airport|-5.59505|-36.9609|364|S|BR|0
+R|11|29|4921|52|A|0||||||||||
+A|SNXX||Maxaranguape Airport|-5.38414|-35.5284|305|S|BR|0
+R|16|34|7218|98|A|0||||||||||
+A|SS3E||Brisanet Airport|-6.18496|-38.51622|2436|S|BR|0
+R|11|29|4758|98|A|0||||||||||
+A|SSA3||Fazenda Mainau Airstrip|-9.94308|-38.52034|1276|S|BR|0
+R|11|29|3610|98|D|0||||||||||
+A|SW2B||Fazenda Pedra da Letra Airport|-7.39268|-38.68286|1505|S|BR|0
+R|10|28|3217|59|G|0||||||||||

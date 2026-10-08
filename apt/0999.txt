@@ -1,0 +1,129 @@
+H|apt|1|0999
+A|YALP||Alpurrurulam Airport|-20.98493|137.83295|651|S|AU|0
+R|15|33|4152|79|A|0|-20.97943|137.83026||||-20.99005|137.83466|||
+A|YALY||Alderley Airport|-22.4833|139.633||S|AU|0
+R|18|36|3280||U|0||||||||||
+F|CTAF|124.2|CTAF
+A|YAMJ||Ampilatwatja Airport|-21.65496|135.23097|1290|S|AU|0
+R|13|31|3937||U|0||||||||||
+F|CTAF|120.5|CTAF
+A|YAMM|AMX|Ammaroo Airport|-21.7383|135.242||S|AU|0
+R|18|36|3608||U|0||||||||||
+F|CTAF|120.5|CTAF
+A|YANW||Annitowa Airport|-21.20002|136.45114|901|S|AU|0
+R|15|33|3205||U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YAOR||Ardmore Airport|-21.65|139.183||S|AU|0
+R|18|36|3280||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YARD||Argadargada Airport|-21.6767|136.67799||S|AU|0
+R|14|32|3205||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YARP||Arapunya Airport|-22.3167|135.7||S|AU|0
+R|12|30|3280||U|0||||||||||
+F|CTAF|134.4|CTAF
+A|YATL||Atula Airport|-23.25534|136.38896|915|S|AU|0
+R|14|32|3116||U|0||||||||||
+F|CTAF|124.8|CTAF
+A|YAUS|AWP|Austral Downs Airport|-20.5|137.75||S|AU|0
+R|16|34|3937||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YAVD||Avon Downs Airport|-20.0333|137.517||S|AU|0
+R|15|33|3569||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YBAW|BKP|Barkly Downs Airport|-20.49583|138.47472|810|S|AU|0
+R|15|33|4796||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YBHK||Bushy Park Airport|-21.2667|139.717||S|AU|0
+R|12|30|3280||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YBIE|BEU|Bedourie Airport|-24.3461|139.46001|300|M|AU|1
+R|14|32|4921|98|A|1|-24.3388|139.455|292|145||-24.352|139.4647|292|325|
+F|CTAF|126.7|CTAF
+A|YBMA|ISA|Mount Isa Airport|-20.66638|139.48847|1121|M|AU|1
+R|16|34|8399|148|A|1|-20.655|139.48599|1102|169||-20.6776|139.491|1111|349|
+F|CTAF|126.5|CTAF
+A|YBOU|BQL|Boulia Airport|-22.9133|139.89999|542|M|AU|1
+R|14|32|4180|98|A|1|-22.90575|139.89631|542|150||-22.91969|139.90528|536|330|
+F|CTAF|126.7|CTAF
+A|YCCK||Canteen Creek Airport|-20.6508|135.58501||S|AU|0
+R|12|30|3083||U|0||||||||||
+F|CTAF|124.1|CTAF
+A|YCDT||Carandotta Airport|-21.9667|138.617||S|AU|0
+R|09|27|4921||U|0||||||||||
+R|18|36|3280||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YCTS||Calton Hills Airport|-20.1333|139.41701||S|AU|0
+R|15|33|3280||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YDAJ|DJR|Dajarra Airport|-21.7083|139.533|335|S|AU|0
+R|11|29|3733||U|0||||||||||
+R|15|33|2598||U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YELK|EKD|Elkedra Airport|-21.1725|135.444||S|AU|0
+R|13|31|3205||U|0||||||||||
+F|CTAF|120|CTAF
+A|YGLO|GLM|Glenormiston Airport|-22.8883|138.825|158|S|AU|0
+R|08|26|1998||U|0||||||||||
+R|16|34|3405||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YHDY|HIP|Headingly Airport|-21.3333|138.283||S|AU|0
+R|09|27|3999||U|0||||||||||
+R|18|36|3937||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YHKT||Huckitta Airport|-22.9433|135.44701||S|AU|0
+R|15|33|3280||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YIKL||Baikal Airport|-22.7633|136.16299||S|AU|0
+R|17|35|4593||U|0||||||||||
+F|CTAF|126.9|CTAF
+A|YJNK||Jinka Airport|-22.95|135.733||S|AU|0
+R|15|33|3937||U|0||||||||||
+F|CTAF|120.6|CTAF
+A|YJVM||Jervois Mine Airport|-22.6333|136.267||S|AU|0
+R|17|35|3937||U|0||||||||||
+F|CTAF|120.6|CTAF
+A|YJVS||Jervois Airport|-22.9133|136.11999|331|S|AU|0
+R|14|32|3205||U|0||||||||||
+F|CTAF|120.6|CTAF
+A|YKLL||Kallala Airport|-21.75|138.883||S|AU|0
+R|08|26|3280||U|0||||||||||
+R|16|34|3280||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YLKN|LNH|Lake Nash Airport|-20.9807|137.9178|640|S|AU|0
+R|11|29|2559||U|0||||||||||
+R|14|32|3015||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YLUC||Lucy Creek Airport|-22.4667|136.267||S|AU|0
+R|09|27|3280||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YMCR|MFP|Manners Creek Airport|-22.1|137.983||S|AU|0
+R|18|36|4002||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YMDS|MNW|Macdonald Downs Airport|-22.444|135.19901||S|AU|0
+R|12|30|3608||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YMNS|MSF|Mount Swan Airport|-22.6247|135.03451|1641|S|AU|0
+R|11|29|4265||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YNUE||Numery Airport|-23.9833|135.39999||S|AU|0
+R|16|34|3280||U|0||||||||||
+F|CTAF|122.2|CTAF
+A|YORT||Ooratippra Airport|-21.9058|136.069||S|AU|0
+R|14|32|3149||U|0||||||||||
+F|CTAF|122.1|CTAF
+A|YSBO||Stanbroke Airport|-21.5667|139.717||S|AU|0
+R|18|36|3280||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YTLT||Tarlton Downs Airport|-22.6333|136.8||S|AU|0
+R|14|32|3444||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YTMO|PHQ|The Monument Airport|-21.8111|139.924|949|S|AU|0
+R|14|32|6233|98|A|1|-21.8019|139.916|949|145.2||-21.8161|139.927|947|325.2|
+F|CTAF|127.3|CTAF
+A|YUDG||Urandangi Airport|-21.59|138.358||S|AU|0
+R|18|36|3280||U|0||||||||||
+F|CTAF|122.4|CTAF
+A|YUNY|CZY|Cluny Airport|-24.5167|139.617|90|S|AU|0
+R|06|24|3297||U|0||||||||||
+F|CTAF|125.4|CTAF

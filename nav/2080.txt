@@ -1,0 +1,2 @@
+H|nav|1|2080
+N|ME|Nikolayevsk-Na-Amure|NDB|394|53.15|140.63499||-12.3||

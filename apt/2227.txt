@@ -1,0 +1,3 @@
+H|apt|1|2227
+A|UHMW|SWV|Severo-Evensk Airport|61.92179|159.22906|32|M|RU|0
+R|03|21|5249||G|0||||||||||

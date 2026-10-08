@@ -1,0 +1,2 @@
+H|nav|1|1551
+N|FLU|Faya Largeau|NDB|300|17.9211|19.113|830|1.1||FTTY

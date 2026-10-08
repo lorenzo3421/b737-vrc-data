@@ -1,0 +1,5 @@
+H|apt|1|1499
+A|RPEN|ENI|El Nido Airport|11.2024|119.41609||S|PH|1
+R|15|33|3280||C|0||||||||||
+A|RPSV|SWL|San Vicente Airport|10.5243|119.2729|24|S|PH|1
+R|04|22|5915||C|0||||||||||

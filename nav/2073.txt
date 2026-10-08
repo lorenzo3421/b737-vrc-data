@@ -1,0 +1,7 @@
+H|nav|1|2073
+N|GR|Khorinsk|NDB|320|52.1667|109.783||-6||
+N|KA|Olzony|NDB|102|52.95|105.217||-3.3||
+N|MX|Zhigalovo|NDB|445|54.8|105.15||-3.3||
+N|PF|Bolshoye Goloustnoye|NDB|475|52.0333|105.417||-3.4||
+N|RT|Kyakhta|NDB|695|50.35|106.467||-4.1||
+N|ZD|Ulan-Ude|NDB|349|51.82|107.523||-4.5||UIUU

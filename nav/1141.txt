@@ -1,0 +1,3 @@
+H|nav|1|1141
+N|TST|Truscott|NDB|359|-14.0897|126.387||2.6||YTST
+N|TTX|Troughton Island|NDB|413|-13.7547|126.149||2.5||YTTI

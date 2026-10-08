@@ -1,0 +1,2 @@
+H|nav|1|1300
+N|XI|Christmas Island|NDB|333|1.98806|-157.353||9||PLCH

@@ -1,0 +1,3 @@
+H|apt|1|2106
+A|CYER|YER|Fort Severn Airport|56.0189|-87.6761|48|S|CA|1
+R|15|33|3500|100|G|0||||||||||

@@ -1,0 +1,4 @@
+H|nav|1|1620
+N|MOK|Bordj Mokhtar|NDB|304|21.3723|0.91964||-1.3||
+N|MOK|Bordj Mokhtar|VOR|113000|21.3808|0.95214||-1.3||
+N|TZE|Tessalit|NDB|299|20.257|0.98817||-1.4||GATS

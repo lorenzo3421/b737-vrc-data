@@ -1,0 +1,5 @@
+H|nav|1|2060
+N|FI|Golitsyno|NDB|490|53.6|44.1167||10.1||
+N|HB|Zemetchino|NDB|978|53.5167|42.6167||9.5||
+N|QL|Algasovo|NDB|694|53.6833|41.6833||9.4||
+N|ZG|Petrovskoye|NDB|475|51.7167|40.1833||8.3||

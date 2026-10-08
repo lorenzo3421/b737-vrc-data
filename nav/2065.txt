@@ -1,0 +1,8 @@
+H|nav|1|2065
+N|AB|Atbasar|NDB|420|51.8833|68.4||10.2||
+N|AR|Arkalyk|NDB|518|50.325|66.96||9.3||
+N|KW|Kokshetau|NDB|975|53.3719|69.6403||11||
+N|OT|Kokshetau|NDB|975|53.3167|69.6||11||
+N|PT|Petropavlovsk|NDB|360|54.7925|69.2536||12||
+N|RP|Petropavlovsk|NDB|360|54.7833|69.1833||12||
+N|UN|Arkalyk|NDB|121|50.3128|66.95||9.3||

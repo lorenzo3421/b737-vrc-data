@@ -1,0 +1,29 @@
+H|apt|1|0925
+A|YBSR||Blackstone Airport|-25.9867|128.28799||S|AU|0
+R|10|28|5905||U|0||||||||||
+F|CTAF|120.5|CTAF
+A|YGLS||Giles Airport|-25.0437|128.29601|579|S|AU|0
+R|12|30|5249||U|0||||||||||
+F|CTAF|120.5|CTAF
+A|YJAM||Jameson Airport|-25.85|127.683||S|AU|0
+R|01|19|5249||U|0||||||||||
+F|CTAF|130.9|CTAF
+A|YLSY||Mount Lindsay Airport|-27.0183|129.88499||S|AU|0
+R|05|23|2952||U|0||||||||||
+R|12|30|4921||U|0||||||||||
+F|CTAF|121.85|CTAF
+A|YMDV||Mount Davies Airport|-26.1667|129.133||S|AU|0
+R|15|33|5905||U|0||||||||||
+F|CTAF|121.85|CTAF
+A|YTJI||Tjirrkarli Airport|-26.0062|125.46249||S|AU|0
+R|02|20|3280||U|0||||||||||
+R|10|28|5380||U|0||||||||||
+F|CTAF|130.9|CTAF
+A|YTJU||Tjuntjuntjarra Airport|-29.34494|127.10735|740|S|AU|0
+R|06|24|4265||U|0||||||||||
+F|CTAF|121.85|CTAF
+A|YWBR||Warburton Airport|-26.12554|126.58316|1500|S|AU|0
+R|18|36|5216|75|A|1|-26.1188|126.584|1500|185||-26.1331|126.582|1510|5|
+F|CTAF|127.1|CTAF
+A|YWNL||Wingellina Airport|-26.0667|128.95|2218|S|AU|0
+R|11|29|5626||U|0||||||||||

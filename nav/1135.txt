@@ -1,0 +1,4 @@
+H|nav|1|1135
+N|CC|Cocos (Keeling) Island|NDB|305|-12.1449|96.8198||-2.4||YPCC
+N|CC|Cocos (Keeling) Island|VOR-DME|114100|-12.2006|96.8409|10|-2.4|088X|YPCC
+N|CIL|Cocos (Keeling) Island|NDB|388|-12.1707|96.8212||-2.4||YPCC

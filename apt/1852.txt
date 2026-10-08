@@ -1,0 +1,3 @@
+H|apt|1|1852
+A|ZWYT|YTW|Yutian Wanfang Airport|36.8085|81.7827|4731|S|CN|1
+R|08|26|10499|148|U|1||||||||||

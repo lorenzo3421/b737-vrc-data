@@ -1,0 +1,7 @@
+H|apt|1|2037
+A|CFX5||Clarence and Abel Swallow Airport|52.73|-72.221|1560|S|CA|0
+R|06|24|4902|98|G|0|||1552|58||||1558|238|
+A|CTU2|YFG|Fontanges Airport|54.5539|-71.1733|1550|S|CA|0
+R|09|27|4900|150|G|0|||1544|||||1550||
+A|CYAH|YAH|La Grande-4 Airport|53.7547|-73.6753|1005|M|CA|0
+R|09|27|5000|150|G|0|||993|||||1002||

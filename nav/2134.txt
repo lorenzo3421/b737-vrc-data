@@ -1,0 +1,7 @@
+H|nav|1|2134
+N|DT|Dyurtyuli|NDB|380|55.4758|54.8936||12.4||
+N|HJ|Mamadysh|NDB|425|55.7333|51.4||12.3||
+N|MN|Mendeleyevo|NDB|940|58.1667|54.9783||14.3||
+N|NA|Begishevo|NDB|370|55.5317|52.0367||12.3||UWKE
+N|NK|Begishevo|NDB|370|55.5983|52.1583||12.3||UWKE
+N|QT|Belokholunitsky|NDB|630|58.8833|50.8667||14.2||

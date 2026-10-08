@@ -1,0 +1,3 @@
+H|nav|1|2179
+N|YZS|Coral Harbour|NDB|362|64.1486|-83.3047||-22.4||CYZS
+N|ZS|Coral Harbour|DME|109700|64.1486|-83.3031|1|-22.4|034X|

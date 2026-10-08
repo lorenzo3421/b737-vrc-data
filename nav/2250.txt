@@ -1,0 +1,2 @@
+H|nav|1|2250
+N|YUT|Repulse Bay|NDB|335|66.5283|-86.2422|80|-23||CYUT

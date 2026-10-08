@@ -1,0 +1,3 @@
+H|apt|1|2195
+A|EGET|LWK|Lerwick / Tingwall Airport|60.1922|-1.24361|43|S|GB|1
+R|02|20|5787|59|A|1|||43|16||||20|196|

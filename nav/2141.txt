@@ -1,0 +1,5 @@
+H|nav|1|2141
+N|CE|Maksimkin Yar|NDB|510|58.6333|86.7333||9.1||
+N|NC|Kemerovo|NDB|489|55.3|86.18||7.3||UNEE
+N|SP|Malinovka|NDB|535|56.7|85.35||8.4||
+N|TX|Tomsk|NDB|380|56.3833|85.2117||8.3||

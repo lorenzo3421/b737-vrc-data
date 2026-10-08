@@ -1,0 +1,104 @@
+H|apt|1|0927
+A|AU-0616||Painted Hills Aerodrome|-29.52163|135.85659|650|S|AU|0
+R|04|22|1968||D|0||||||||||
+R|13|31|4593|30|D|0||||||||||
+A|DALH||Dalhousie Airport|-26.42304|135.50928||S|AU|0
+R|03|21|3280|30|U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YADO||Andado Airport|-25.40777|135.29079|549|S|AU|0
+R|13|31|3051||U|0||||||||||
+F|CTAF|120.5|CTAF
+A|YADS|AWN|Alton Downs Airport|-26.48896|139.25991||S|AU|0
+R|01|19|3772||U|0||||||||||
+F|CTAF|118.3|CTAF
+A|YBDV|BVI|Birdsville Airport|-25.8975|139.34801|159|M|AU|1
+R|03|21|3937|59|U|1|-25.9039|139.343|150|40||-25.8955|139.351|148|220|
+R|14|32|5682|98|A|1|-25.8852|139.341|159|149||-25.8986|139.35001|152|329|
+F|CTAF|126.7|CTAF
+A|YCKA||Curdimurka Airport|-29.4767|137.088||S|AU|0
+R|09|27|5249||U|0||||||||||
+F|CTAF|121.2|CTAF
+A|YCWI|CWR|Cowarie Airport|-27.7117|138.328|52|S|AU|0
+R|17|35|4265||U|0||||||||||
+F|CTAF|119.5|CTAF
+A|YDLH||[Duplicate] Dalhousie Airport|-26.42304|135.50928|397|S|AU|0
+R|03|21|3280||U|0||||||||||
+R|18|36|2952||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YDLK|DLK|Dulkaninna Airport|-29.0133|138.481||S|AU|0
+R|08|26|1968||U|0||||||||||
+R|17|35|3805||U|0||||||||||
+F|CTAF|121.2|CTAF
+A|YEDA|ETD|Etadunna Airport|-28.7408|138.589||S|AU|0
+R|09|27|3904||U|0||||||||||
+R|17|35|3805||U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YFTN||Mount Fitton Talc Airport|-29.9092|139.474||S|AU|0
+R|14|32|2460||U|0||||||||||
+R|18|36|3608||U|0||||||||||
+F|CTAF|119.5|CTAF
+A|YHMT||Hamilton Airport|-26.72|135.073||S|AU|0
+R|02|20|3608||U|0||||||||||
+R|03|21|3280||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YMAC||Macumba Airport|-27.2617|135.638||S|AU|0
+R|01|19|2952||U|0||||||||||
+R|08|26|3608||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YMLR||Muloorina Airport|-29.2467|137.91||S|AU|0
+R|12|30|2624||U|0||||||||||
+R|15|33|3608||U|0||||||||||
+F|CTAF|121.2|CTAF
+A|YMNB||Mount Barry Airport|-28.2333|135||S|AU|0
+R|11|29|3608||U|0||||||||||
+F|CTAF|122.1|CTAF
+A|YMRE|RRE|Marree Airport|-29.6633|138.065|50|M|AU|0
+R|04|22|4422|52|A|0||||||||||
+F|CTAF|127.8|Lake Eyre Broadcast area
+A|YMTX||Mount Dare Airport|-26.0617|135.24699||S|AU|0
+R|15|33|4921||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YMUG|MNE|Mungeranie Airport|-28.0092|138.657||S|AU|0
+R|17|35|3444||U|0||||||||||
+F|CTAF|134.2|CTAF
+A|YMUK|MVK|Mulka Airport|-28.3478|138.64999||S|AU|0
+R|12|30|3280||U|0||||||||||
+F|CTAF|125.7|CTAF
+A|YMWT|MWT|Moolawatana Airport|-29.9069|139.765|265|S|AU|0
+R|08|26|3280||U|0||||||||||
+R|15|33|4068||U|0||||||||||
+F|CTAF|119.5|CTAF
+A|YNPA||Nilpinna Airport|-28.48235|135.91247|450|S|AU|0
+R|17|35|4593||U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YOAD||Old Andado Airport|-25.3833|135.41701||S|AU|0
+R|15|33|6561||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YOOD|ODD|Oodnadatta Airport|-27.56247|135.44295|118|S|AU|0
+R|04|22|4488||U|0||||||||||
+R|13|31|4215||U|0|||368|||||368||
+F|CTAF|126.7|CTAF
+A|YPDI|PDE|Pandie Pandie Airport|-26.12225|139.4035||S|AU|0
+R|15|33|3608||U|0||||||||||
+F|CTAF|125.4|CTAF
+A|YPKE||Peake Airport|-28.25|135.89999||S|AU|0
+R|04|22|3608||U|0||||||||||
+F|CTAF|122.6|CTAF
+A|YPMH|PXH|Prominent Hill Airport|-29.716|135.5244|745|S|AU|1
+R|18|36|7218|98|G|0|-29.70614|135.52631|729|||-29.72571|135.52246|729||
+A|YRSB|RSB|Roseberth Airport|-25.82574|139.62748|55|S|AU|0
+R|14|32|4455||U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YSAR||Mount Sarah Airport|-27.0431|135.242||S|AU|0
+R|16|34|3444||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YSTC||Stuart Creek Airport|-29.7167|137.063|122|S|AU|0
+R|09|27|3937||U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YTOS||Tenneco Station Two Airport|-29.56599|139.94136||S|AU|0
+R|13|31|3444||U|0||||||||||
+F|CTAF|119.5|CTAF
+A|YWMC||William Creek Aerodrome|-28.90999|136.34027|253|S|AU|0
+R|03|21|2624|50|G|0||||||||||
+R|11|29|4265|25|A|1||||||||||
+F|CTAF|127.8|Lake Eyre Broadcast area

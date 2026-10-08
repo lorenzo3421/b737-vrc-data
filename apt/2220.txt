@@ -1,0 +1,7 @@
+H|apt|1|2220
+A|UEMO|OLZ|Olyokminsk Airport|60.40183|120.47609|656|M|RU|1
+R|16|34|4265||A|0||||||||||
+A|UENI|VHV|Verkhnevilyuisk Airport|63.45806|120.26917|411|S|RU|1
+R|04|22|4593||A|0||||||||||
+A|UENW|VYI|Vilyuisk Airport|63.75667|121.69334|361|M|RU|1
+R|12|30|5249|105|C|1||||||||||

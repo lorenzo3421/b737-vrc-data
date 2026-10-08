@@ -1,0 +1,102 @@
+H|apt|1|1250
+A|BR-0290||Tomé-Açu Airport|-2.42426|-48.24152|172|S|BR|0
+R|10|28|3282|59|A|0||||||||||
+A|BR-1549||Fazenda Itália Airstrip|-4.53722|-47.86556|1060|S|BR|0
+R|12|30|3281|59|G|0||||||||||
+A|BR-1877||Fazenda Itapuã  Airport|-4.94306|-47.97194|1204|S|BR|0
+R|07|25|3284|66|U|0||||||||||
+A|BR-1929||Fazenda Pau Brasil Airport|-4.65361|-47.50444|1030|S|BR|0
+R|11|29|3937|98|U|0||||||||||
+A|BR-2169||Campo de Boi Airport|-2.52331|-47.5174|186|S|BR|0
+R|09|27|4757|89|A|0||||||||||
+A|BR-2448||Nova Conceição Agroindustrial Airport|-2.92443|-49.78548|49|S|BR|0
+R|01|19|3117|59|A|0||||||||||
+A|BR-2660||Norte Jet Airport|-1.30727|-48.25597|88|S|BR|0
+R|11|29|3117|66|A|0||||||||||
+A|BR-2760||Baião Airport|-2.78905|-49.65199|105|S|BR|0
+R|10|28|5249|98|T|0||||||||||
+A|BR-2782||Fazenda Estrela Dalva Airport|-4.25033|-48.77008|446|S|BR|0
+R|02|20|4921|131|T|0||||||||||
+A|BR-2789||Igarapé-Açu Airport|-1.12696|-47.59875|180|S|BR|0
+R|10|28|3822|98|T|0||||||||||
+A|BR-2999||Haras Fazenda Reunidas Sobral Airport|-1.28496|-48.21408|115|S|BR|0
+R|10|28|3281|66|A|0||||||||||
+A|BR-3230||Fazenda Santo Antônio Airport|-3.9|-48.88139|243|S|BR|0
+R|12|30|3051|59|T|0||||||||||
+A|CMT|CMT|New Cametá Airport|-2.2468|-49.56|60|S|BR|0
+R|10|28|4000|100|A|1|-2.2473|-49.565|64|86|200|-2.2465|-49.5552|80|266|200
+A|CTP|CTP|Carutapera Airport|-1.22537|-46.01906|85|S|BR|0
+R|07|25|3166|98|T|0||||||||||
+A|SBBE|BEL|Val de Cans/Júlio Cezar Ribeiro International Airport|-1.37928|-48.47621|54|L|BR|1
+R|03|21|6004|148|A|0|-1.39055|-48.47715|27|5||-1.37406|-48.47575|54|185|
+R|07|25|9186|148|A|0|-1.38802|-48.48501|44|46||-1.37025|-48.46708|52|226|
+F|APP|119.05|BELEM APP
+F|ATIS|127.6|BELEM ATIS
+F|GND|121.9|GND
+F|TWR|118.7|BELEM TWR
+A|SBTU|TUR|Tucuruí Airport|-3.78601|-49.7203|830|M|BR|1
+R|02|20|6562|148|A|0||||||||||
+A|SD1F||Fazenda Marupiara Airport|-2.75583|-48.52628|174|S|BR|0
+R|11|29|3117|66|U|0||||||||||
+A|SD1P||Fazenda Agropecuária Rio da Prata Airport|-1.20808|-48.16212|110|S|BR|0
+R|11|19|3938|75|U|0||||||||||
+A|SD8S||Fazenda Alegria – P Airstrip|-4.31944|-45.36778|167|S|BR|0
+R|16|34|3281|66|G|0||||||||||
+A|SI03||Fazenda São Roque Airport|-2.59012|-48.06809|230|S|BR|0
+R|11|29|3281|59|G|0||||||||||
+A|SI40||Estância Benício Airport|-3.58802|-45.99222|207|S|BR|0
+R|02|20|3937|66|U|0||||||||||
+A|SI47||Fazenda Byeta Airport|-4.72229|-46.25971|1253|S|BR|0
+R|14|32|3937|59|G|0||||||||||
+A|SI6P||Fazenda Sagrada Família Airport|-3.11556|-47.52972|482|S|BR|0
+R|11|29|3937|75|U|0||||||||||
+A|SIE5||Confinamento Adão Airport|-4.33859|-47.52611|804|S|BR|0
+R|14|32|3445|75|U|0||||||||||
+A|SJ3U||Fazenda Central Airport|-3.00139|-49.39889|210|S|BR|0
+R|10|28|3937|59|G|0||||||||||
+A|SJBY||João Silva Airport|-3.65428|-45.3452|82|S|BR|0
+R|06|24|4921|98|A|0||||||||||
+A|SJJ4||Fazenda Bola Branca Airport|-4.7113|-47.6525|1089|S|BR|0
+R|15|33|3281|75|U|0||||||||||
+A|SJK9||Fazenda Paraiso Airstrip|-1.51778|-46.94861|253|S|BR|0
+R|07|35|3117|82|U|0||||||||||
+A|SJLI||Fazenda Lilliani Airport|-4.21361|-46.975|958|S|BR|0
+R|09|27|3150|92|A|0||||||||||
+A|SJN2||Fazenda São Vicente Airport|-4.63028|-48.08722|705|S|BR|0
+R|02|20|3281|75|U|0||||||||||
+A|SJOJ||Simasa Airport|-4.87071|-47.39041|656|S|BR|0
+R|06|24|3904|75|A|0||||||||||
+A|SJTZ||Dom Eliseu Airport|-4.30278|-47.58167|800|S|BR|0
+R|10|28|3281|75|A|0||||||||||
+A|SN3Q||Agrícola Rizzi Airstrip|-4.75722|-45.35194|673|S|BR|0
+R|08|26|3937|59|U|0||||||||||
+A|SN4T||Fazenda Lago da Pedra  Airport|-4.79333|-45.24778|791|S|BR|0
+R|14|32|3937|66|U|0||||||||||
+A|SNCI||Cibrasa Airport|-1.231|-47.2006|174|S|BR|0
+R|01|19|4429|98|A|0||||||||||
+A|SNEB|JPE|Nagib Demachki Airport|-3.0198|-47.31647|443|S|BR|1
+R|09|27|4265|75|A|0||||||||||
+A|SNHU||FazendaBola Sete Airport|-4.57|-47.47|699|S|BR|0
+R|07|25|3281|66|U|0||||||||||
+A|SNI7||Mara Rosa Airport|-4.03707|-49.16467|1700|S|BR|0
+R|10|28|3609|75|A|0||||||||||
+A|SNNC||Rio Capim Airport|-2.82028|-47.89305|236|S|BR|0
+R|07|25|3281|75|A|0||||||||||
+A|SNOK||Fazenda Chão de Estrelas Airport|-2.33241|-47.65622|126|S|BR|0
+R|10|28|3117|69|G|0||||||||||
+A|SNQ9||Fazenda Santa Rita Airport|-2.14292|-48.07079|164|S|BR|0
+R|16|34|3611|59|G|0||||||||||
+A|SNSM|OPP|Salinópolis Airport|-0.69611|-47.33611|105|S|BR|1
+R|09|27|6102|82|A|0|-0.69852|-47.34298|89|70|709|-0.69352|-47.32907|105|250|
+A|SNSW|SFK|Soure Airport|-0.69784|-48.51976|32|S|BR|0
+R|06|24|3609|98|A|0||||||||||
+A|SNTP||Agropalma Airport|-2.52896|-48.7565|66|S|BR|0
+R|13|31|4265|66|A|0||||||||||
+A|SNYE|PHI|Pinheiro Airport|-2.47743|-45.105|66|S|BR|0
+R|09|27|5709|98|A|0||||||||||
+A|SNYP||Chácara Paraíso Airport|-1.31778|-48.29871|69|S|BR|0
+R|12|30|3150|59|A|0||||||||||
+A|SNYV||Fazenda Socôco Airport|-2.11901|-48.64292|102|S|BR|0
+R|09|27|3196|66|A|0||||||||||
+A|SW2G||Tailândia Airport|-2.9827|-48.93416|174|S|BR|0
+R|09|27|4264|59|D|0||||||||||

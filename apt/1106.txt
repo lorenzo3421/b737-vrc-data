@@ -1,0 +1,433 @@
+H|apt|1|1106
+A|BR-0032||São Domingos Airstrip|-13.4121|-46.2983|2375|S|BR|0
+R|10|28|3688|66|U|0||||80|||||260|
+A|BR-0153||Crixás Airport|-14.5383|-49.93477|1542|S|BR|0
+R|04|22|4004|59|A|0||||||||||
+A|BR-0197||Fazenda Chapadão Alegre Airport|-13.435|-45.30772|2530|S|BR|0
+R|09|27|3937|98|D|0||||||||||
+A|BR-0333||Fazenda Sagarana Airport|-13.75246|-46.16238|3163|S|BR|0
+R|02|20|5577|98|G|0||||||||||
+A|BR-0363||Fazenda Santana Airport|-11.66751|-45.72742|2592|S|BR|0
+R|12|30|3609|66|D|0||||||||||
+A|BR-0408||J Lem Airport|-12.12519|-45.77106|2408|S|BR|0
+R|12|30|3937|65|A|1||||||||||
+A|BR-0503||Fazenda Santo Antônio Airport|-11.7082|-45.98535|2657|S|BR|0
+R|14|32|4921|82|D|0||||||||||
+A|BR-0504||Fazenda Palmares 2 Airport|-11.65628|-46.0525|2700|S|BR|0
+R|14|32|4757|66|G|0||||||||||
+A|BR-0538||Fazenda Santa Maria Airport|-13.05922|-45.13301|2480|S|BR|0
+R|11|29|6726|59|A|0||||||||||
+A|BR-0567||Fazenda Nova Fronteira Airport|-10.33333|-45.96857|2625|S|BR|0
+R|12|30|3445|66|D|0||||||||||
+A|BR-0609||Fazenda Uirapuru Airstrip|-11.22972|-48.93944|978|S|BR|0
+R|03|21|3904|75|D|0||||||||||
+A|BR-0613||Fazenda Requinte Airport|-12.81194|-46.1404|2920|S|BR|0
+R|18|36|5249|82|D|0||||||||||
+A|BR-0690||Agropecuária Zé Reis Airport|-13.01889|-48.41583|1493|S|BR|0
+R|03|21|5020|66|A|1||||||||||
+A|BR-0888||Celeiro 1 Airport|-14.37057|-45.5439|2749|S|BR|0
+R|08|26|4167|98|G|0||||||||||
+A|BR-0929||Fazenda Flor da Serra Airport|-14.10095|-46.18116|3261|S|BR|0
+R|12|30|3937|66|D|0||||||||||
+A|BR-1369||Fazenda Parceiro Airport|-10.55847|-45.44722|2582|S|BR|0
+R|11|29|5249|66|G|0||||||||||
+A|BR-1383||Gercino Coelho Airport|-11.27532|-45.23793|2618|S|BR|0
+R|06|24|4925|66|A|0||||||||||
+A|BR-1394||Ventura I Airstrip|-13.17971|-46.23885|3215|S|BR|0
+R|18|36|4593|66|D|0||||||||||
+A|BR-1528||Fazenda Savana Airport|-11.55769|-45.54408|2539|S|BR|0
+R|09|27|4593|75|A|0||||||||||
+A|BR-1555||Fazenda Bela Vista Airstrip|-13.63808|-46.18581|3228|S|BR|0
+R|11|29|4921|59|G|0||||||||||
+A|BR-1556||Fazenda União Airstrip|-13.98942|-45.96487|3015|S|BR|0
+R|08|26|4921|59|G|0||||||||||
+A|BR-1574||Fazenda Jucurutu - Nordeste Airport|-14.49786|-45.925|3022|S|BR|0
+R|06|24|3937|82|D|0||||||||||
+A|BR-1597||Fazenda Novo México|-14.08952|-45.72956|2825|S|BR|0
+R|08|25|4921|59|G|0||||||||||
+A|BR-1606||Fazenda Alternativa Airstrip|-11.23|-47.16583|1627|S|BR|0
+R|18|36|3609|79|D|0||||||||||
+A|BR-1609||Fazenda Ventura IV Airport|-13.141|-46.16414|3064|S|BR|0
+R|18|36|4921|82|D|0||||||||||
+A|BR-1675||Luís Eduardo Magalhães Airport|-12.06822|-45.71153|2529|S|BR|0
+R|10|28|6562|98|A|1||||||||||
+A|BR-1837||Fazenda Tulipa Airstrip|-14.11084|-49.04626|1716|S|BR|0
+R|09|27|3281|66|D|0||||||||||
+A|BR-1838||Passo Fundo Agro Airstrip|-11.87639|-46.25528|2726|S|BR|0
+R|05|23|3937|75|D|0||||||||||
+A|BR-1862||Fazenda Integrada Airport|-13.79333|-46.03861|3038|S|BR|0
+R|09|27|3937|59|G|0||||||||||
+A|BR-1868||Fazenda Paraiso Rio Galhão III Airstrip|-10.53504|-45.98436|2559|S|BR|0
+R|11|29|3937|75|D|0||||||||||
+A|BR-1881||Fazenda Planalto das Emas Airport|-14.09855|-46.13555|3205|S|BR|0
+R|11|29|4921|59|A|1|-14.09851|-46.14132||90|426|-14.09855|-46.12863||270|
+A|BR-2149|AAI|Arraias Airport|-13.02515|-46.88411|1923|S|BR|0
+R|15|33|4921|148|A|0||||||||||
+A|BR-2198||Fazenda Indiara Airport|-13.3149|-49.7749|909|S|BR|0
+R|16|30|3937|59|A|0||||||||||
+A|BR-2208||Cavalcante Airport|-13.7786|-47.41212|2625|S|BR|0
+R|05|23|3281|328|T|0||||||||||
+A|BR-2215||Iaciara Airport|-14.10761|-46.66692|1854|S|BR|0
+R|17|35|4921|82|A|0||||||||||
+A|BR-2487||Fazenda Triângulo Airport|-13.58033|-49.82085|804|S|BR|0
+R|01|19|3609|62|A|0||||||||||
+A|BR-2493||Fazenda Rancho Estrela IV Airport|-13.65202|-46.54172|2549|S|BR|0
+R|04|22|3215|66|A|0||||||||||
+A|BR-2532||Crispiano Airport|-13.22438|-46.95309|1657|S|BR|0
+R|08|26|3937|75|A|0||||||||||
+A|BR-2562||Fazenda Santa Clara|-10.70278|-48.19444|1024|S|BR|0
+R|13|31|5085|115|T|0||||||||||
+A|BR-2570||Fazenda Ventura Airport|-13.16083|-46.20083|3127|S|BR|0
+R|09|27|3937|82|T|0||||||||||
+A|BR-2599||Fazenda Horita Airport|-13.01111|-46.23806|3163|S|BR|0
+R|03|21|3281|82|T|0||||||||||
+A|BR-2605||Fazenda Santo Ângelo Airport|-12.79833|-46.09583|2799|S|BR|0
+R|06|24|4921|98|T|0||||||||||
+A|BR-2673||Marcos da Cunha Airport|-12.36114|-46.13517|2815|S|BR|0
+R|18|36|4593|82|T|0||||||||||
+A|BR-2686||Dona Iracema Airport|-10.60696|-48.34894|919|S|BR|0
+R|05|23|3990|131|A|0||||||||||
+A|BR-2707||Fazenda Alvorada do Caxingó Airport|-13.37454|-46.8993|1742|S|BR|0
+R|13|31|3150|66|T|0||||||||||
+A|BR-2751||Carlos Alberto Pinto Airport|-12.60897|-46.74711|1338|S|BR|0
+R|02|20|4429|95|A|0||||||||||
+A|BR-2893||Fazenda Dona Hilda Airport|-13.20445|-48.59063|1424|S|BR|0
+R|14|32|3281|131|A|0||||||||||
+A|BR-3076||Fazenda Frigovale I Airport|-10.49078|-48.3372|860|S|BR|0
+R|10|28|3445|66|A|0||||||||||
+A|BR-3114||Paranã Airport|-12.62759|-47.84776|886|S|BR|0
+R|14|32|3281|197|G|0||||||||||
+A|BR-3122||Fazenda Barro Preto Airport|-13.33549|-46.90199|1578|S|BR|0
+R|16|34|3609|98|T|0||||||||||
+A|BR-3168||Barragem Manoel Alves Airport|-11.55704|-46.98511|2067|S|BR|0
+R|01|19|3281|66|A|0||||||||||
+A|BR-3170||Fazenda Formosa Airport|-10.01306|-47.68167|1132|S|BR|0
+R|11|29|3281|66|A|0||||||||||
+A|BR-3191||Fazenda Santa Izabel Airport|-14.26528|-47.0275|1434|S|BR|0
+R|01|19|3281|66|G|0||||||||||
+A|BR-3270||Agro Basso Airport|-11.93736|-45.87206|2569|S|BR|0
+R|09|27|3938|59|A|0||||||||||
+A|BR-3280||Capanema Airstrip|-10.62178|-45.3863|2539|S|BR|0
+R|01|19|3495|66|G|0||||||||||
+A|BR-3298||Fazenda Café da Roça Airport|-10.34933|-49.85671|585|S|BR|0
+R|12|30|3609|66|G|0||||||||||
+A|SBMC|MQH|Minaçu Airport|-13.5491|-48.1953|1401|M|BR|0
+R|05|23|4183|98|A|0||||||||||
+F|RDO|130.3|RDO
+A|SBPJ|PMW|Brigadeiro Lysias Rodrigues Airport|-10.2915|-48.357|774|M|BR|1
+R|14|32|8202|148|A|1|-10.2853|-48.36651|747|||-10.29779|-48.34749|747||
+F|APP|119|PALMAS APP
+F|TWR|118|PALMAS TWR
+A|SBPN|PNB|Porto Nacional Airport|-10.7194|-48.3997|870|M|BR|0
+R|05|23|5577|98|A|0||||||||||
+A|SBQB||Fazenda Pedrinhas II Airport|-13.26194|-45.07694|2533|S|BR|0
+R|09|27|5906|82|D|0||||||||||
+A|SD0G||Fazenda Santa Paula Airport|-12.81525|-45.48557|2500|S|BR|0
+R|09|27|3937|66|D|0||||||||||
+A|SD1L||Grupo Shimohira Airstrip|-10.8872|-47.22363|1439|S|BR|0
+R|01|19|4102|66|D|0||||||||||
+A|SD2P||Fazenda São Gabriel Airstrip|-10.30316|-45.80774|2569|S|BR|0
+R|12|30|3937|66|D|0||||||||||
+A|SD34||Ita Airstrip|-13.81417|-46.15222|3189|S|BR|0
+R|13|31|3937|66|D|0||||||||||
+A|SD3Q||Fazenda Panorama Airport|-13.40013|-46.10003|3058|S|BR|0
+R|13|31|4593|66|G|0||||||||||
+A|SD4E||Fazenda Seara Airport|-14.04924|-45.71887|2785|S|BR|0
+R|08|26|4593|59|G|0||||||||||
+A|SD9R||Fazenda Vitória Airport|-12.1246|-45.37624|2421|S|BR|0
+R|04|22|3937|66|D|0||||||||||
+A|SD9S||Fazenda Madre Regina Airport|-11.84455|-45.79374|2562|S|BR|0
+R|15|33|3937|55|D|0||||||||||
+A|SDA8||Fazenda Passagem Funda Airport|-13.95968|-46.10351|2772|S|BR|0
+R|07|25|3937|98|D|0||||||||||
+A|SDCM||Sete Povos Airport|-12.86394|-46.16326|2957|S|BR|0
+R|09|27|4265|66|T|0||||||||||
+A|SDEX||Fazenda Nossa Senhora do Carmo Airstrip|-12.58051|-45.82435|2543|S|BR|0
+R|09D|27A|4449|66|D|0|||||512|-12.57777|-45.81852||244|
+A|SDI2||Graciosa Airport|-13.14861|-45.55306|2569|S|BR|0
+R|10|28|3937|66|G|0||||||||||
+A|SDJX||Fazenda Serra Dourada Airport|-13.10217|-48.38647|1585|S|BR|0
+R|03|21|3293|62|D|0|-13.10891|-48.38267||||-13.09998|-48.38122|||
+R|17|35|4593|75|D|0||||||||||
+A|SDKJ||Formosa do Rio Preto Airport|-11.0216|-45.1867|1732|S|BR|0
+R|13|31|4593|98|A|0||||||||||
+A|SDM1||Fazenda Pontal da Serra Airport|-10.50666|-46.20438|2526|S|BR|0
+R|07|25|3938|75|D|0||||||||||
+A|SDM9||Fazenda Sete Povos II Airport|-12.90167|-46.15583|3005|S|BR|0
+R|10|28|4921|66|A|0||||||||||
+A|SDN6||Fazenda Entre Rios Airport|-12.45382|-45.38831|2277|S|BR|0
+R|10|28|3281|59|D|0||||||||||
+A|SDNT||Fazenda Terra Prometida Airport|-10.41444|-48.25667|889|S|BR|0
+R|03|21|3970|66|A|1||||||||||
+A|SDO6||Fazenda Alvorada Airport|-11.97799|-46.02655|2671|S|BR|0
+R|08|26|3281|66|D|0||||||||||
+A|SDP6||Fazenda Chapadão Airport|-11.98302|-46.2152|2776|S|BR|0
+R|03|21|3281|98|D|0||||||||||
+A|SDQ7||Fazenda Atlântida Airport|-11.47074|-46.54341|2976|S|BR|0
+R|11|29|4593|59|D|0||||||||||
+A|SDS9||Fazenda Pontal Airstrip|-13.23639|-48.18444|1132|S|BR|0
+R|01|19|3281|59|D|0||||||||||
+A|SDTV||Fazenda São Miguel Airport|-12.60737|-46.23946|2999|S|BR|0
+R|09|27|5906|98|T|0||||||||||
+A|SDU3||Fazenda Ipiranga Airport|-11.66442|-47.17771|1302|S|BR|0
+R|07|25|3281|59|D|0||||||||||
+A|SDV1||Fazenda Viscal Airport|-12.84058|-49.96141|902|S|BR|0
+R|04|22|3282|59|G|0||||||||||
+A|SDV9||Fazenda Baixão Verde Airport|-11.19976|-47.32406|1795|S|BR|0
+R|05|23|3937|59|A|0||||||||||
+A|SDW5||Fazenda Roso Airport|-11.65791|-46.18516|2780|S|BR|0
+R|09|27|3291|59|U|0||||||||||
+A|SDW6||Ceolin Grãos e Fibra Airport|-13.24889|-45.855|2779|S|BR|0
+R|08|25|4593|59|D|1||||||||||
+A|SDX2||Fazenda São José Airport|-11.40836|-45.61902|2523|S|BR|0
+R|10|28|3937|98|D|0||||||||||
+A|SDXF||Alto Paraíso Airport|-14.121|-47.5309|4413|S|BR|0
+R|09|27|3937|98|A|0||||||||||
+A|SI1Q||Alvorada do Norte Airport|-14.51241|-46.52484|1797|S|BR|0
+R|06|24|3548|75|A|1||||||||||
+A|SI1V||Fazenda Sudotex Airport|-13.46981|-45.54958|2595|S|BR|0
+R|11|29|3610|98|D|0||||||||||
+A|SI1Z||Dedo de Deus Airstrip|-11.46982|-47.29053|1198|S|BR|0
+R|07|25|3984|59|D|0||||||||||
+A|SI35||Fazenda Santa Paula Airport|-11.25201|-48.07275|907|S|BR|0
+R|16|34|3017|59|U|0||||||||||
+A|SI3X||Fazenda Nova Aliança Airport|-10.79696|-45.62874|2510|S|BR|0
+R|13|31|3940|66|U|0||||||||||
+A|SI4M||Fazenda Olinda Airport|-12.56523|-45.87497|2598|S|BR|0
+R|04|22|3248|66|A|0||||||||||
+A|SI6M||Recanto das Araras Airstrip|-10.29417|-46.55056|1496|S|BR|0
+R|08|26|3937|59|D|0||||||||||
+A|SI8P||Fazena Espírito Santo I Airport|-10.63389|-45.49028|2520|S|BR|0
+R|10|28|3937|66|D|0||||||||||
+A|SI8Q||Freire Airport|-11.53601|-46.13874|2762|S|BR|0
+R|09|27|3281|59|T|0||||||||||
+A|SI9Q||Fazenda Catarinense Airport|-13.28294|-46.01327|2904|S|BR|0
+R|08|26|4482|49|D|0||||||||||
+A|SID1||Fazenda Santa Bárbara Airstrip|-10.77872|-49.39688|632|S|BR|0
+R|09|27|3773|59|D|0||||||||||
+A|SILM||Fazenda Regalito Airport|-14.46619|-46.8707|1598|S|BR|0
+R|03|21|3281|115|A|0||||||||||
+A|SIP8||Fazenda São José Airstrip|-12.6393|-47.39763|1175|S|BR|0
+R|16|34|3117|49|D|0||||||||||
+A|SIQ2||Saulo Fonseca Aviation Airport|-11.86261|-45.3242|1726|S|BR|0
+R|08|26|3610|72|U|0||||||||||
+A|SIT5||Fazenda Paraíso Airport|-11.72517|-45.52223|2494|S|BR|0
+R|04|22|3936|75|D|0||||||||||
+A|SIU4||Fazenda Nossa Senhora da Salete Airstrip|-12.49666|-46.06271|2756|S|BR|0
+R|18|36|3938|75|D|0||||||||||
+A|SIU5||Fazenda Stein Airport|-12.42397|-46.20359|2934|S|BR|0
+R|18|36|4922|75|U|0||||||||||
+A|SIY2||Fazenda Campanholi Airport|-13.13665|-45.99735|2854|S|BR|0
+R|09|27|3281|59|A|0||||||||||
+A|SIY7||Fazenda Gerais 1B Airport|-10.55718|-45.85452|2429|S|BR|0
+R|17|35|4429|59|D|0||||||||||
+A|SIY8||Fazenda União Airport|-11.54032|-48.40268|843|S|BR|0
+R|16|34|3281|75|D|0||||||||||
+A|SIZ6||Fazenda Tarumã Airstrip|-10.22969|-47.87911|1194|S|BR|0
+R|16|34|3281|59|D|0||||||||||
+A|SJ2P||Merlin Agro Airport|-10.22417|-46.11194|2618|S|BR|0
+R|12|30|3609|66|D|0||||||||||
+A|SJ3D||Fazenda Sinimbu Airport|-13.86631|-45.16535|2523|S|BR|0
+R|10|28|4921|72|A|1||||||||||
+A|SJ3L||Fazenda Santa Lucia Airport|-13.19036|-46.07792|2986|S|BR|0
+R|10|28|3937|66|D|0||||||||||
+A|SJ3X||Fazenda São Bento Airstrip.|-10.80167|-45.74306|2484|S|BR|0
+R|13|31|3937|66|D|0||||||||||
+A|SJ3Z||Fazenda Santo Expedito Airport|-14.26161|-45.98245|3094|S|BR|0
+R|15|33|3937|66|D|0||||||||||
+A|SJ5D||Fazenda Campo Dourado Airstrip|-11.44831|-48.62163|840|S|BR|0
+R|14|32|3280|75|D|0||||||||||
+A|SJ6Z||Fazenda Piratini Airstrip|-12.67722|-45.77056|2543|S|BR|0
+R|09|27|3937|66|D|0||||||||||
+A|SJ78||Fazenda Talismã Airport|-12.78478|-49.00623|1916|S|BR|0
+R|11|29|3281|59|D|0||||||||||
+A|SJ7A||Fazenda Espírito Santo Airstrip|-11.59373|-46.1178|2733|S|BR|0
+R|10|28|3445|75|G|0||||||||||
+A|SJ7J||Fazenda Santo Inácio Airport|-12.62454|-46.15624|2890|S|BR|0
+R|18|36|3281|59|G|0||||||||||
+A|SJ7L||Fazenda Palestra Airport|-12.65092|-45.62157|2477|S|BR|0
+R|09|27|4921|59|D|0||||||||||
+A|SJ9L||Fazenda Santa Paula|-12.14782|-45.47712|2382|S|BR|0
+R|03|21|4495|59|D|0||||||||||
+A|SJ9U||Fazenda São José Airport|-11.41431|-45.42392|2533|S|BR|0
+R|01|19|4593|66|D|0||||||||||
+A|SJAX||Fazenda Acalanto Airport|-12.95931|-45.97281|2657|S|BR|0
+R|08|26|4462|82|A|0||||||||||
+A|SJAZ||Fazenda Querubim Airport|-12.7704|-46.02349|2733|S|BR|0
+R|10|28|3281|82|T|0||||||||||
+A|SJC7||Fazenda Paraíso Airstrip|-10.45194|-48.17528|2260|S|BR|0
+R|16|34|3937|59|D|0||||||||||
+A|SJD1||Fazenda Delfin Airport|-11.16857|-45.81436|2519|S|BR|0
+R|09|27|4266|59|A|0||||||||||
+A|SJD4||Fazenda Santo André Airstrip|-14.635|-46.40694|3143|S|BR|0
+R|18|36|3937|66|D|0||||||||||
+A|SJEA||Cadete 56-147 Santana Airport|-12.85086|-48.22683|985|S|BR|0
+R|08|26|3609|98|A|0||||||||||
+A|SJEX||Fazenda Vitória Airport|-13.00866|-46.10737|2966|S|BR|0
+R|03|21|3281|82|T|0||||||||||
+A|SJF6||Salon Airport|-12.88611|-48.86583|335|S|BR|0
+R|08|26|3937|23|A|0||||||||||
+A|SJF7||Fazenda Santa Maria do Palmas Airstrip|-12.36528|-47.09722|1050|S|BR|0
+R|10|28|3937|98|D|0||||||||||
+A|SJFK||Fazenda Cachoeira Airport|-12.59199|-49.53252|771|S|BR|0
+R|10|28|3937|59|T|0||||||||||
+A|SJGC||Fazenda Busato I Airport|-12.89968|-45.49449|1201|S|BR|0
+R|09|27|4265|98|T|0||||||||||
+A|SJGD||Fazenda Rio Brilhante Airport|-12.7948|-45.72191|2799|S|BR|0
+R|09|27|3937|66|T|0||||||||||
+A|SJH3||Fazenda Santa Maria Airport|-11.64|-48.21833|899|S|BR|0
+R|01|19|4593|66|D|0||||||||||
+A|SJH6||Fazenda 3 Marias Airstrip|-14.54556|-45.65611|2848|S|BR|0
+R|07|25|4265|59|G|0||||||||||
+A|SJH8||Pradella Airport|-10.38056|-45.5225|2638|S|BR|0
+R|13|31|3937|66|D|0||||||||||
+A|SJJL||Fazenda Campo Aberto Airport|-11.78745|-45.96541|2418|S|BR|0
+R|16|34|3543|98|A|0||||||||||
+A|SJM9||Fazenda Rio Grande Airport|-12.79439|-45.154|2464|S|BR|0
+R|10|28|3924|66|U|0||||||||||
+A|SJMZ||Fazenda Mizote Airport|-12.95748|-46.0062|2701|S|BR|0
+R|10|28|3281|82|A|0||||||||||
+A|SJN9||Fazenda Nossa Senhora Aparecida Airport|-11.03417|-46.10333|2566|S|BR|0
+R|12|30|3609|49|D|0||||||||||
+A|SJOX||Fazenda Brinquinho Airport|-12.825|-46.245|3145|S|BR|0
+R|09|27|6562|98|T|0||||||||||
+A|SJQA||Fazenda Clarim Airport|-13.2018|-46.2397|3241|S|BR|0
+R|09|27|3609|66|T|0||||||||||
+A|SJTT||Fazenda Lagoa do Barro Airport|-13.23861|-49.70944|926|S|BR|0
+R|14|32|3281|62|A|0||||||||||
+A|SJUA||Fazenda Ipanema Airport|-13.62151|-46.1379|3101|S|BR|0
+R|02|20|3609|66|T|0||||||||||
+A|SJUU||Fazenda Paraná Airport|-14.02806|-46.87111|1450|S|BR|0
+R|02|20|3117|59|T|0||||||||||
+A|SJWP||Warpol Airport|-12.62152|-45.92857|2687|S|BR|0
+R|09|27|3611|59|A|0||||||||||
+A|SJY3||Fazenda Vaca Preta Airport|-13.42778|-46.58028|1627|S|BR|0
+R|03|21|3593|66|G|0||||||||||
+A|SJY7||Fazenda Aurora Airport|-13.32|-45.97694|2894|S|BR|0
+R|09|27|5577|59|A|1||||||||||
+A|SN0A||Fazenda Santa Helena Airport|-12.12068|-46.31443|2884|S|BR|0
+R|09|27|3411|59|A|0||||||||||
+A|SN4D||Fazenda Santo Anjo Airstrip|-14.20778|-45.33667|2644|S|BR|0
+R|09|27|4265|75|D|0||||||||||
+A|SN4R||Fazenda Wustro Airstrip|-13.54167|-45.59694|2556|S|BR|0
+R|13|31|3609|59|G|0||||||||||
+A|SN51||Fazenda 51|-11.03219|-46.25309|2628|S|BR|0
+R|12|30|3936|66|D|0||||||||||
+A|SN6K||Fazenda Guarani Airport|-12.89833|-46.19028|3041|S|BR|0
+R|01|19|3281|98|A|0||||||||||
+A|SN6M||Fazenda Água das Três Meninas Airport|-11.5642|-48.25079|823|S|BR|0
+R|17|35|3281|50|D|0||||||||||
+A|SN8S||Alta Vista Airport|-12.70641|-45.45791|2464|S|BR|0
+R|07|25|3611|66|A|0||||||||||
+A|SNBB||Fazenda Agronol Airport|-11.95477|-45.72353|2464|S|BR|0
+R|09|27|5906|98|A|0||||||||||
+A|SNBR|BRA|Dom Ricardo Weberberger Airport|-12.0789|-45.009|2451|S|BR|1
+R|08|26|5249|98|A|0||||||||||
+A|SNC9||Joia Rara Airport|-12.2776|-48.33|909|S|BR|0
+R|17|35|3609|59|G|0||||||||||
+A|SNDH||Aba Airport|-12.16286|-45.0337|1682|S|BR|0
+R|13|31|5020|82|A|0||||||||||
+A|SNDQ||Fazenda Soya Airport|-12.92111|-45.56944|2549|S|BR|0
+R|09|27|3937|66|T|0||||||||||
+A|SNHG||Fazenda Varjadão Airport|-12.34139|-49.62111|794|S|BR|0
+R|01|19|3281|59|A|0||||||||||
+A|SNJE||Fazenda Trijunção Airport|-14.79528|-46.005|3097|S|BR|0
+R|07|25|4134|75|D|0||||||||||
+A|SNKR||Corrente Airport|-10.45194|-45.13639|1552|S|BR|0
+R|11|29|3281|66|A|0||||||||||
+A|SNM8||Fazenda Zago Airstrip|-11.11894|-45.12469|2021|S|BR|0
+R|06|24|3938|66|D|0||||||||||
+A|SNNJ||Fazenda Santa Cruz Airport|-14.21848|-46.83906|1529|S|BR|0
+R|04|22|3937|98|A|0||||||||||
+A|SNSD||Franor Airport|-12.91656|-45.72245|2664|S|BR|0
+R|09|27|3937|66|T|0||||||||||
+A|SNT4||Fazenda Bela Vista Airport|-12.4346|-45.2923|2359|S|BR|0
+R|13|33|3933|39|A|0||||||||||
+A|SNT6||Genésio Ceolin Airport|-12.99934|-45.35948|2462|S|BR|0
+R|10|28|4921|59|D|0||||||||||
+A|SNT8||Fazenda São João Airport|-12.18463|-45.81627|2583|S|BR|0
+R|13|31|4594|75|D|0||||||||||
+A|SNX7||Cerrado Aero Agrícola Airport|-14.73108|-46.44433|3322|S|BR|0
+R|18|36|3281|59|D|0||||||||||
+A|SS1L||Fazenda Laguna Airstrip|-14.72429|-45.40978|1867|S|BR|0
+R|01|19|3771|59|D|0||||||||||
+A|SS1P||Fazenda Formosa Principal Airstrip|-10.70683|-45.40972|2513|S|BR|0
+R|08|26|4595|66|D|0||||||||||
+A|SS2O||Fazenda Semear Airport|-13.02784|-45.41059|2524|S|BR|0
+R|09|27|4595|98|D|0||||||||||
+A|SS2W||Fazenda Concórdia Airstrip|-10.25649|-45.66994|2625|S|BR|0
+R|13|31|3610|66|D|0||||||||||
+A|SS2Y||Fazenda Alto Paraíso Airstrip|-14.40473|-47.65328|3543|S|BR|0
+R|08|26|3931|66|D|0||||||||||
+A|SS3R||Grupo Venetto Airstrip|-11.75461|-48.70987|879|S|BR|0
+R|11|29|3279|59|D|0||||||||||
+A|SS63||Fazenda Amizade Airport|-13.41333|-46.06249|2977|S|BR|0
+R|09|27|4922|75|D|0||||||||||
+A|SS6B||Fazenda Americana Airport|-11.79662|-49.10703|1020|S|BR|0
+R|16|34|5905|66|A|1||||||||||
+A|SS7P||PRG 1 Airstrip|-10.39851|-46.03783|2585|S|BR|0
+R|10|28|3938|75|D|0||||||||||
+A|SS7Q||Fazenda Guara-Garganta Airport|-11.18178|-46.43877|2766|S|BR|0
+R|12|30|3936|72|D|0||||||||||
+A|SS9S||Fazenda São Francisco Airport|-11.10303|-48.03332|945|S|BR|0
+R|06|24|3605|98|G|0||||||||||
+A|SSA7||Fazenda Sete Airport|-14.13471|-45.42055|2667|S|BR|0
+R|10|28|3933|66|A|0||||||||||
+A|SSA8||Fazenda Olho d'Água Airport|-13.6382|-46.72093|1459|S|BR|0
+R|08|26|3905|75|G|0||||||||||
+A|SSA9||Fazenda Lagoa Airport|-11.8284|-45.8292|2575|S|BR|0
+R|13|31|3937|98|A|0||||||||||
+A|SSB7||Fazenda Santa Paula Airport|-14.18362|-45.84489|2878|S|BR|0
+R|05|23|3281|59|D|0||||||||||
+A|SSC9||Fazenda Tara Airport|-12.84305|-45.94183|2749|S|BR|0
+R|11|29|3925|66|G|0||||||||||
+A|SSEB||Mata Serena Airport|-13.77293|-46.77219|1440|S|BR|0
+R|13|31|3904|98|G|0||||||||||
+A|SSNS||Fazenda Pajuçara Airport|-13.18308|-45.10474|2372|S|BR|0
+R|13|31|4921|98|G|0||||||||||
+A|SSNW||Aeródromo Fazenda Milano|-12.30278|-45.51389|2264|S|BR|0
+R|13|31|4593|75|A|0||||||||||
+A|SSPA||Fazenda Marajoara Airport|-11.96358|-49.03837|873|S|BR|0
+R|09|27|3694|59|A|0||||||||||
+A|SSQZ||Mimoso do Oeste Airport|-12.10639|-45.895|2543|S|BR|0
+R|10|28|4265|98|A|0||||||||||
+A|SSYA||Fazenda Tropical Airport|-14.87732|-49.19516|1854|S|BR|0
+R|07|25|3445|59|G|0||||||||||
+A|SWBF||Fazenda Boa Fortuna Airport|-10.00502|-49.49202|741|S|BR|0
+R|11|29|3655|66|A|0||||||||||
+A|SWBK||Fazenda Paladino Airport|-13.08944|-45.8325|2746|S|BR|0
+R|10|28|4921|66|G|0||||||||||
+A|SWCB||Campos Belos Airport|-13.00621|-46.71121|2198|S|BR|0
+R|18|36|3937|66|A|0||||||||||
+A|SWCU||Fazenda Canuanã Airport|-11.97522|-49.9037|787|S|BR|0
+R|08|26|3576|92|T|0||||||||||
+A|SWDN|DNO|Dianópolis Airport|-11.5954|-46.8467|2415|S|BR|0
+R|10|28|4167|98|G|0||||||||||
+A|SWFQ||Fazenda Alvorada Airport|-10.392|-48.6792|943|S|BR|0
+R|03|21|5906|98|A|0||||||||||
+A|SWGI|GRP|Gurupi Airport|-11.7396|-49.1322|1148|S|BR|0
+R|12|30|5577|98|A|0||||||||||
+A|SWJD||Fazenda Genipapo Airport|-13.45222|-46.67944|1279|S|BR|0
+R|02|20|3609|131|T|0||||||||||
+A|SWJU||Fazenda Mundo Novo Airport|-11.5434|-49.49304|755|S|BR|0
+R|15|33|4265|59|A|0||||||||||
+A|SWKE||Cobrape Airport|-11.50861|-49.84222|656|S|BR|0
+R|15|33|3281|59|A|0||||||||||
+A|SWLD||Porto Cajueiro Airport|-14.88405|-45.33857|2510|S|BR|0
+R|06|24|3281|66|A|0||||||||||
+A|SWMG||Fazenda Caraíbas Airport|-13.38556|-46.775|1637|S|BR|0
+R|05|23|3937|59|A|0||||||||||
+A|SWNQ|NQL|Niquelândia Airport|-14.43487|-48.49162|2756|S|BR|0
+R|02|20|4852|59|A|0||||||||||
+A|SWPZ||Oriçanga de Abreu Airport|-14.1181|-46.3454|2759|S|BR|0
+R|10|28|4921|82|A|1||||||||||
+A|SWTO||Paraíso do Tocantins Airport|-10.1742|-48.9328|1083|S|BR|0
+R|10|28|3937|98|A|0||||||||||
+A|SWTY||Taguatinga Airport|-12.43527|-46.40044|1959|S|BR|0
+R|06|24|4593|98|A|0||||||||||
+A|SWWA||Porangatu Airport|-13.4048|-49.1583|1201|S|BR|0
+R|14|32|4921|75|A|0||||||||||
+A|SWWU||Uruaçu Airport|-14.54472|-49.09111|1706|S|BR|0
+R|18|36|4724|98|A|0||||||||||
+A|SWXH||Fazenda São Sebastião Airport|-13.06441|-46.25883|2999|S|BR|0
+R|18|36|3281|98|T|0||||||||||

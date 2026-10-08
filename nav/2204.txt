@@ -1,0 +1,4 @@
+H|nav|1|2204
+N|AZ|Arkhangelsk|NDB|690|64.6067|40.5867||15.1||ULAA
+N|KM|Arkhangelsk|NDB|690|64.595|40.8367||15.1||ULAA
+N|S|Shenkursk|NDB|312|62.1167|42.9||14.3||

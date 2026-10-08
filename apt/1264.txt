@@ -1,0 +1,9 @@
+H|apt|1|1264
+A|FZVA|LJA|Lodja Airport|-3.46274|23.61516|1647|S|CD|0
+R|09|27|5249||T|0||||||||||
+A|FZVO||Bena-Dibele Airport|-4.07262|22.84109|1738|S|CD|0
+R|11|29|6582||A|0||||||||||
+A|FZVR|BAN|Basongo Airport|-4.3158|20.41489|1640|S|CD|0
+R|08|26|3937||T|0||||||||||
+A|FZVS|PFR|Ilebo Airport|-4.32992|20.59012|1450|S|CD|1
+R|07|25|4117||T|0||||||||||

@@ -1,0 +1,3 @@
+H|nav|1|1261
+N|PG|Port Gentil|NDB|367|-0.69383|8.76172||-4||
+N|PG|Port Gentil|VOR|112300|-0.72878|8.74747|13|-4.1||FOOG

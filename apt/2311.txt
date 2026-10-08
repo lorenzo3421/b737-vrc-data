@@ -1,0 +1,5 @@
+H|apt|1|2311
+A|PABA|BTI|Barter Island Long Range Radar Station Airport|70.134|-143.582|2|M|US|1
+R|07|25|4500|100|G|0|70.1343|-143.601|2|93||70.1337|-143.563||273|
+F|CTAF|126.2|CTAF
+F|RDO|126.2|RDO

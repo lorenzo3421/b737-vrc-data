@@ -1,0 +1,12 @@
+H|nav|1|2132
+N|BO|Nizhny Novgorod|NDB|327|56.205|43.7783||11.2||UWGG
+N|CW|Krasnaya Gorbatka|NDB|485|55.8667|41.7667||10.4||
+N|MB|Chernukha|NDB|430|55.6|43.7833||11||
+N|NG|Nizhny Novgorod|NDB|245|56.1767|43.765||11.2||UWGG
+N|RG|Tunoshna|NDB|315|57.5817|40.2383||11.1||UWUU
+N|RP|Sosnovskoye|NDB|960|55.8|43.1667||11||
+N|SF|Cherusti|NDB|410|55.55|40||10.1||
+N|ST|Nizhny Novgorod|NDB|245|56.275|43.7983||11.2||UWGG
+N|UD|Buturlino|NDB|905|55.5667|44.9167||11.2||
+N|UV|Nizhny Novgorod|NDB|327|56.2517|43.795||11.2||UWGG
+N|VA|Dobrynskoye|NDB|307|56.2667|40.6||10.4||

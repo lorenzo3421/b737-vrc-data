@@ -1,0 +1,15 @@
+H|apt|1|1924
+A|CN-0359|ZFL|Zhaosu Tianma Airport|43.08848|81.22301||S|CN|1
+R|Unknown|Unknown|9186||U|0||||||||||
+A|ZWAK|AKU|Aksu Hongqipo Airport|41.2625|80.2917|3816|M|CN|1
+R|09|27|7874||A|1||||||||||
+A|ZWAL|ACF|Aral Tarim Airport|40.43475|81.26206||S|CN|1
+R|01|19|9186|148|C|0||||||||||
+A|ZWBL|BPL|Bole Alashankou Airport|44.89546|82.30007|1253|M|CN|1
+R|10|28|8530||U|1||||||||||
+A|ZWKC|KCA|Kuqa Qiuci Airport|41.67786|82.87292|3524|S|CN|1
+R|08|26|8530||A|1|41.6762|82.8574||83||41.679|82.8882||263|
+A|ZWNL|NLT|Xinyuan Nalati Airport|43.4318|83.3786|3050|M|CN|1
+R|08|26|7546|148|A|1||||||||||
+A|ZWYN|YIN|Ili Yining International Airport|43.9558|81.3303||M|CN|1
+R|06|24|7874|148|U|1||||||||||

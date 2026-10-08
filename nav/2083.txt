@@ -1,0 +1,6 @@
+H|nav|1|2083
+N|HY|Khalaktyrka|NDB|685|53.0017|158.79201||-6.1||
+N|MK|Malka|NDB|345|53.3167|157.533||-6.5||
+N|MW|Milkovo|NDB|592|54.7067|158.61||-6.4||
+N|PR|Petropavlovsk-Kamchatsky|NDB|535|53.1133|158.49001||-6.2||UHPP
+N|UB|Ust-Bolsheretsk|NDB|907|52.8167|156.267||-7.2||

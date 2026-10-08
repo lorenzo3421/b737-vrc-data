@@ -1,0 +1,5 @@
+H|apt|1|1341
+A|HCMM|MGQ|Aden Adde International Airport|2.01444|45.3047|29|L|SO|1
+R|05|23|10446|148|A|0|2.00476|45.29301|13|||2.02315|45.31505|30||
+A|HCMN|BLW|Beledweyne Airport|4.76698|45.2388|559|S|SO|1
+R|04|22|7218||G|0||||||||||

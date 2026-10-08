@@ -1,0 +1,5 @@
+H|nav|1|2278
+N|FS|Ust-Tsilma|NDB|780|65.4003|52.2||19.3||
+N|GA|Naryan-Mar|NDB|680|67.64|53.125||21.3||
+N|HL|Ust-Tsilma|NDB|780|65.4|52.2||19.3||
+N|RK|Naryan-Mar|NDB|680|67.64|53.125||21.3||

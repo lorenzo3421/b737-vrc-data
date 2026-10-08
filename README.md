@@ -1,8 +1,9 @@
 # b737-vrc-data
 
-Static map and airport data for a personal VRChat flight simulator project, served through GitHub Pages.
+Static data for a personal VRChat flight simulator project, served through GitHub Pages.
 
-- Terrain tiles derived from open elevation data
-- Airport data derived from OurAirports (public domain)
+- `apt/` airports, runways, ILS and frequencies in 5 degree cells, plus `apt/index.txt`
+- `nav/` VOR, DME, NDB and TACAN in 5 degree cells
+- `manifest.json` sources, counts and file hashes
 
 Sources and licences: [ATTRIBUTION.md](ATTRIBUTION.md). Non-commercial use.

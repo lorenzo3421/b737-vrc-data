@@ -1,0 +1,10 @@
+H|apt|1|2006
+A|ZYFY|FYJ|Fuyuan Dongji Airport|48.19722|134.36298||M|CN|1
+R|05|23|8202|148|U|0||||||||||
+A|ZYJM|JMU|Jiamusi Songjiang International Airport|46.84279|130.46426|262|M|CN|1
+R|06|24|8202|148|C|1|46.8359|130.453|262|48||46.8493|130.47501|261|228|
+F|TWR|130|TWR
+A|ZYJS|JSJ|Jiansanjiang Shidi Airport|47.10825|132.65792||M|CN|1
+R|15|33|8202||C|0||||||||||
+A|ZYJX|JXA|Jixi Xingkaihu Airport|45.293|131.193|760|M|CN|1
+R|12|30|7546|155|C|0||||||||||

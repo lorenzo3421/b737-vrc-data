@@ -1,0 +1,4 @@
+H|apt|1|2298
+A|UESK|SEK|Srednekolymsk Airport|67.4805|153.7364|60|M|RU|1
+R|01|19|5906|197|C|1||||||||||
+F|TWR|123.4|

@@ -1,0 +1,24 @@
+H|apt|1|1934
+A|RU-0132||Chernigovka Air Base|44.32239|132.54529|328|M|RU|0
+R|08|24|8202|144|C|1||||||||||
+A|RU-0149||Uglovaya Air Base|43.34798|132.05875|40|S|RU|0
+R|03|21|8202|120|C|1||||||||||
+A|RU-0299||Varfolomeyevka Air Base|44.26182|133.41173|485|S|RU|0
+R|05|23|8202|131|C|1||||||||||
+A|RU-0327||Vozdvizhenka Air Base|43.9075|131.92501|121|M|RU|0
+R|03|21|8202|262|C|0||||||||||
+A|RU-0329||Khorol Air Base|44.449|132.124|315|S|RU|0
+R|16|34|12138|230|C|1||||||||||
+A|RU-0333||Novorossiya Airfield|43.347|132.557|200|S|RU|0
+R|09|27|6562|190|C|1||||||||||
+A|RU-0538||Nikolayevka Air Base|43.08561|133.19051|180|S|RU|0
+R|04|22|9186|180|C|1||||||||||
+A|RU-5105||Chuguyevka Air Base|44.0833|133.868|1001|M|RU|0
+R|18|36|8202|138|C|1||||||||||
+A|UHU1||Zolotaya Dolina Air Base|42.96|133.115|60|S|RU|0
+R|03|21|8202|131|C|1||||||||||
+A|UHWW|VVO|Vladivostok International Airport|43.39626|132.14816|59|L|RU|1
+R|07R|25L|11483|197|A|1|43.3937|132.142|32|61.1||43.4045|132.16901|44|241.1|
+F|ATIS|127.8|VLADIVOSTOK ATIS
+F|GND|121.7|TAXIING
+F|TWR|119.5|Vladivostok Start

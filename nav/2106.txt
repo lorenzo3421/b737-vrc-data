@@ -1,0 +1,2 @@
+H|nav|1|2106
+N|YER|Fort Severn|NDB|334|55.9932|-87.6392||-8.3||CYER

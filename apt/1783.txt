@@ -1,0 +1,7 @@
+H|apt|1|1783
+A|ZLYS|YUS|Yushu Batang Airport|32.83639|97.03639|12816|M|CN|1
+R|10|28|12467||C|0||||||||||
+A|ZUBD|BPX|Qamdo Bangda Airport|30.5536|97.1083|14219|M|CN|1
+R|14|32|14764|148|A|1||||||||||
+A|ZUGZ|GZG|Garze Gesar Airport|31.7575|99.55417|13346|S|CN|1
+R|12|30|13123||U|0||||||||||

@@ -1,0 +1,17 @@
+H|apt|1|1252
+A|BR-2182||Russas - João de Deus Regional Airport|-4.94727|-38.0082|115|M|BR|0
+R|07|25|3527|89|A|0||||||||||
+A|BR-3271||Americano Brito Airport|-3.25825|-39.34257|108|S|BR|0
+R|12|30|3939|66|U|0||||||||||
+A|SBAC|ARX|Aracati Dragão do Mar Regional Airport|-4.5689|-37.80513|128|M|BR|0
+R|09|27|5906|98|A|1|-4.57156|-37.81271|111|71||-4.5662|-37.79738|96|251|
+A|SBFZ|FOR|Pinto Martins International Airport|-3.77583|-38.53222|83|L|BR|1
+R|13|31|9039|148|A|1|-3.77301|-38.54492|82|105||-3.77943|-38.52095|71|285|
+F|APP|133|FORTALEZA APP
+F|ATIS|127.7|ATIS
+F|GND|121.95|GND
+F|TWR|129|FORTALEZA TWR
+A|SJDS||M Dias Branco Airport|-3.91716|-38.48918|66|S|BR|0
+R|13|31|3543|105|A|0||||||||||
+A|SNQX||Quixadá Airport|-4.97901|-38.98762|735|M|BR|0
+R|14|32|3937|98|A|0||||||||||

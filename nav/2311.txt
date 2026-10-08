@@ -1,0 +1,2 @@
+H|nav|1|2311
+N|BTI|Barter Island|NDB|308|70.1307|-143.644||26.4||PABA

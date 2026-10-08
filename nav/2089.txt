@@ -1,0 +1,3 @@
+H|nav|1|2089
+N|EGY|English Bay|NDB|374|57.124|-170.272||9.6||
+N|SPY|Saint Paul Island|NDB-DME|314|57.1578|-170.231|43|10|036X|PASN

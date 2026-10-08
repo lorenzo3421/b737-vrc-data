@@ -1,0 +1,2 @@
+H|nav|1|0648
+N|CI|Chatham Islands|NDB|322|-43.957|-176.56599||24.4||NZCI

@@ -1,0 +1,2 @@
+H|nav|1|2392
+N|F4|Little Cornwallis Island|NDB|402|75.3941|-96.946|234|-28.6||

@@ -1,0 +1,12 @@
+H|apt|1|2205
+A|RU-0034||Verkhnyaya Toyma Airport|62.23963|45.01978|98|S|RU|0
+R|15|33|5248|105|C|1||||||||||
+A|ULAL|LDG|Leshukonskoye Airport|64.896|45.723|220|S|RU|1
+R|03|21|2132|197|D|0||||||||||
+R|11|29|5236|118|C|1||||||||||
+A|ULKK|KSZ|Kotlas Airport|61.2358|46.6975|184|M|RU|1
+R|13|31|4757||A|0||||||||||
+A|ULKS||Savvatiya Air Base|60.995|46.87|318|S|RU|0
+R|13|31|8202|157|C|1||||||||||
+A|ULWU|VUS|Velikiy Ustyug Airport|60.7883|46.26|331|M|RU|1
+R|06|24|5069||A|0||||||||||

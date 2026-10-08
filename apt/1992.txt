@@ -1,0 +1,5 @@
+H|apt|1|1992
+A|UAOL|BXY|Baikonur Krayniy International Airport|45.62199|63.21077|317|L|KZ|1
+R|05|23|10500|197|A|1||||||||||
+A|UAON||Yubileyniy Airfield|46.05242|63.24918|328|M|KZ|0
+R|06|24|14765|275|A|1||||||||||

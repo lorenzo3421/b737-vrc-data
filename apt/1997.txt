@@ -1,0 +1,9 @@
+H|apt|1|1997
+A|ZMUL|ULG|Ölgii Mongolei International Airport|48.9933|89.9225|5732|M|MN|1
+R|13|31|7874||U|0|||5725|||||5646||
+A|ZWAT|AAT|Altay Xuedu Airport|47.74989|88.08581|2460|M|CN|1
+R|12|30|7218||C|1||||||||||
+A|ZWFY|FYN|Fuyun Koktokay Airport|46.80417|89.51201|3081|M|CN|1
+R|12|30|8530||U|1||||||||||
+A|ZWKN|KJI|Burqin Kanas Airport|48.2223|86.9959|3921|M|CN|1
+R|12|30|8202||C|0||||||||||

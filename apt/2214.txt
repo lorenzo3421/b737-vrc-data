@@ -1,0 +1,3 @@
+H|apt|1|2214
+A|UNIS|VEO|Severo-Yeniseysk Airport|60.3733|93.0117|1706|M|RU|1
+R|03|21|4920|66|C|1||||||||||

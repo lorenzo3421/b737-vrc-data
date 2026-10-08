@@ -1,0 +1,3 @@
+H|apt|1|0163
+A|SCGC|UGL|Union Glacier Blue-Ice Runway|-79.77778|-83.32083|2461|S|AQ|0
+R|18|36|9843|164|D|0||||||||||

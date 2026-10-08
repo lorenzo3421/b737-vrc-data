@@ -1,0 +1,5 @@
+H|nav|1|2067
+N|MH|Mikhaylovsky|NDB|105|51.85|79.7||8||
+N|PW|Pavlodar|NDB|440|52.2279|77.1237||8.6||UASP
+N|WL|Pavlodar|NDB|440|52.1618|77.0244||8.6||UASP
+N|YZ|Ekibastuz|NDB|396|51.6117|75.2633||8.6||

@@ -1,0 +1,5 @@
+H|nav|1|0887
+N|D|Santiago Del Estero|NDB|330|-27.785|-64.3217|653|-5||
+N|ERE|Ceres|VOR-DME|115500|-29.8644|-61.8722|287|-6.2|102X|
+N|PSP|Presidencia Roque Saenz Pena|NDB|205|-26.7472|-60.4861|299|-8.6||
+N|SDE|Santiago Del Estero|VOR|114800|-27.7794|-64.3181|656|-5||SANE

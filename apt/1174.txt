@@ -1,0 +1,23 @@
+H|apt|1|1174
+A|BR-0425||Fazenda Vale Verde Airport|-9.62139|-65.77028|587|S|BR|0
+R|01|19|4593|75|G|0||||||||||
+A|BR-2680||Fazenda Tempero Seco Airport|-9.40223|-66.69572|375|S|BR|0
+R|18|36|3281|66|G|0||||||||||
+A|SBRB|RBR|Rio Branco-Plácido de Castro International Airport|-9.86903|-67.89398|633|L|BR|1
+R|07|25|7080|148|A|1|-9.87433|-67.9022||||-9.86374|-67.88567|||
+F|APP|119.9|RIO BRANCO APP
+F|TWR|118.7|RIO BRANCO TWR
+A|SD38||Fazenda Esteios Airstrip|-9.73|-65.64275|427|S|BR|0
+R|16|34|3609|66|G|0||||||||||
+A|SDC2||Fazenda Onça Preta Airstrip|-9.02592|-65.9278|538|S|BR|0
+R|09|27|3937|59|G|0||||||||||
+A|SDNQ||Fazenda Água Limpa|-9.98057|-67.49111|646|S|BR|0
+R|11|29|3117|59|A|0||||||||||
+A|SI8V||Fazenda Manu Airport|-9.40389|-65.715|541|S|BR|0
+R|02|20|3937|59|G|0||||||||||
+A|SJ33||Fazenda Pica Pau Airstrip|-9.42111|-65.55611|587|S|BR|0
+R|05|23|3281|59|G|0||||||||||
+A|SWEI|ERN|Eirunepé Airport|-6.63953|-69.87971|400|S|BR|0
+R|16|34|7546|148|A|0||||||||||
+A|SWNK|BCR|Novo Campo Airport|-8.83457|-67.31248|394|S|BR|0
+R|18|36|5249|98|A|0||||||||||

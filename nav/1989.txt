@@ -1,0 +1,7 @@
+H|nav|1|1989
+N|BJ|Astrakhan|NDB|650|46.2767|48.0733||7.3||URWA
+N|GV|Astrakhan|NDB|650|46.2883|47.94||7.3||URWA
+N|SL|Solodniki|NDB|644|48.4|45.3||8||
+N|UP|Zenzeli|NDB|337|45.9333|47.0667||7.1||
+N|YO|Biryucha Kosa|NDB|722|45.7167|47.6||7.1||
+N|ZG|Zelenga|NDB|905|46.1833|48.6167||7.3||

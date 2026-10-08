@@ -1,0 +1,14 @@
+H|nav|1|2068
+N|AR|Barnaul|NDB|428|53.38|83.6117||7.3||UNBB
+N|BU|Barnaul|NDB|428|53.345|83.465||7.4||UNBB
+N|EB|Matveyevsky|NDB|117|54.9333|83.0833||8.4||
+N|GR|Sumy|NDB|875|54.8167|80.4667||9.3||
+N|NR|Novolokti|NDB|750|54.3833|82.9333||8.2||
+N|OC|Legostayevo|NDB|320|54.6333|83.8167||8.1||
+N|S|Semipalatinsk|NDB|850|50.3541|80.2736||7.1||
+N|S|Ust Kamenogorsk|NDB|708|50.0221|82.5195||6.2||
+N|SI|Ust Kamenogorsk|NDB|345|50.006|82.5487||6.2||UASK
+N|SP|Semipalatinsk|NDB|418|50.357|80.3166||7.1||UASS
+N|SR|Pavlovsk|NDB|399|53.3|83||7.5||
+N|U|Ust Kamenogorsk|NDB|708|50.0495|82.47||6.2||
+N|US|Ust Kamenogorsk|NDB|345|50.0676|82.437||6.2||UASK

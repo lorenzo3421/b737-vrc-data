@@ -1,0 +1,2 @@
+H|nav|1|2314
+N|YSY|Sachs Harbour|NDB|321|71.9914|-125.315|281|31.6||CYSY

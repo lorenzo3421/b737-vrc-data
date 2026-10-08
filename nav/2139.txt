@@ -1,0 +1,4 @@
+H|nav|1|2139
+N|KZ|Severnoye|NDB|100|56.335|78.36||11.1||
+N|SZ|Barabinsk|NDB|965|55.3567|78.3033||10.3||
+N|XV|Novy Vasyugan|NDB|350|58.5833|76.5||13.3||

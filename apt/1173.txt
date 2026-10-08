@@ -1,0 +1,19 @@
+H|apt|1|1173
+A|SBCZ|CZS|Cruzeiro do Sul Airport|-7.59991|-72.7695|637|M|BR|1
+R|10|28|7874|148|A|0||||||||||
+A|SBTK|TRQ|Tarauacá Airport|-8.15553|-70.78298|646|M|BR|0
+R|14|32|3707|46|A|0||||||||||
+A|SNOU|FEJ|Feijó Airport|-8.14121|-70.34082|551|S|BR|0
+R|03|21|3937|79|A|0||||||||||
+A|SPCL|PCL|Cap FAP David Abenzur Rengifo International Airport|-8.37806|-74.57449|513|L|PE|1
+R|02|20|9186|148|A|1|-8.38984|-74.5787|513|20||-8.36604|-74.5699|513|200|
+F|APP|118.1|PUCALLPA APP
+F|TWR|126.9|PUCALLPA TWR
+A|SPEP||Puerto Esperanza Airport|-9.76813|-70.7065|725|S|PE|0
+R|07|25|5922|98|A|0|-9.77071|-70.7143||71.1||-9.76555|-70.6987||251.1|
+A|SSPQ||Santa Rosa do Purus Airport|-9.44665|-70.48336|751|S|BR|0
+R|17|35|3609|75|T|0||||||||||
+A|SSPV||Marechal Thaumaturgo Airport|-8.95944|-72.77972|751|S|BR|0
+R|16|34|3937|59|A|0||||||||||
+A|SWJV||Palmeiras do Javari Airport|-5.12724|-72.81|394|S|BR|0
+R|05|23|3937|98|A|0||||||||||

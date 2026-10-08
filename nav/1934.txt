@@ -1,0 +1,5 @@
+H|nav|1|1934
+N|BG|Muraveyka|NDB|920|43.8833|133.25||-10.1||
+N|BL|Chernyshevka|NDB|605|44.2|133.117||-10.2||
+N|KW|Knevichi|NDB|400|43.47|132.323||-10||UHWW
+N|QD|Knevichi|NDB|400|43.3667|132.06799||-10||UHWW

@@ -1,0 +1,4 @@
+H|nav|1|2213
+N|AB|Podkamennaya Tunguska|NDB|342|61.5917|89.9417||9.1||
+N|AM|Verkhneimbatsk|NDB|420|63.1667|88||11.4||
+N|PTG|Podkamennaya Tunguska|VOR-DME|113400|61.5983|89.99|213|9.1|081X|

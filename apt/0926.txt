@@ -1,0 +1,122 @@
+H|apt|1|0926
+A|YAKG||Arckaringa Airport|-27.9467|134.745||S|AU|0
+R|13|31|3280||U|0||||||||||
+F|CTAF|134.4|CTAF
+A|YALA|MRP|Marla Airport|-27.3343|133.6277|328|S|AU|0
+R|18|36|5413||U|0||||||||||
+A|YAYE|AYQ|Ayers Rock Connellan Airport|-25.18591|130.97703|1626|M|AU|1
+R|13|31|8527|98|A|1|-25.1781|130.967|1612|130||-25.193|130.987|1626|310|
+F|ATIS|126.55|ATIS
+F|CTAF|126.9|CTAF
+A|YCBP|CPD|Coober Pedy Airport|-29.03831|134.72217|740|M|AU|1
+R|04|22|4685|98|U|1|-29.0443|134.714|729|48||-29.0359|134.72501|740|228|
+R|14|32|2720|98|T|1|-29.0365|134.72099|736|149||-29.043|134.72501|734|329|
+F|CTAF|126.7|CTAF
+A|YCPH||Copper Hills Airstrip|-27.94948|134.33582||S|AU|0
+R|09|27|3280||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YCSP||Curtin Springs Airport|-25.33392|131.75931||S|AU|0
+R|12|30|4265||U|0||||||||||
+F|CTAF|126.7|CTAF
+A|YCWH||Commonwealth Hill Airport|-29.95723|134.15179||S|AU|0
+R|08|26|3937||U|0||||||||||
+R|17|35|4265||U|0||||||||||
+F|CTAF|122.3|CTAF
+A|YDRL||De Rose Hill Airport|-26.43584|133.25995||S|AU|0
+R|09|27|3280||U|0||||||||||
+R|17|35|1968||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YERL|EDD|Erldunda Airport|-25.20611|133.25416||S|AU|0
+R|09|27|3772||U|0||||||||||
+F|CTAF|127.1|CTAF
+A|YERN|ERB|Ernabella Airport|-26.2633|132.18201|707|S|AU|0
+R|05|23|3838||U|0||||||||||
+F|CTAF|127.1|CTAF
+A|YEVP||Everard Park Airport|-27.03899|132.68858|1615|S|AU|0
+R|09|27|4921||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YEYD||Evelyn Downs Airport|-28.2047|134.48801||S|AU|0
+R|06|24|3280||U|0||||||||||
+R|11|29|3280||U|0||||||||||
+F|CTAF|118.1|CTAF
+A|YFRG||Fregon Airport|-26.775|132.017|528|S|AU|0
+R|17|35|3805||U|0||||||||||
+F|CTAF|123.9|CTAF
+A|YGDW||Granite Downs Airport|-26.9483|133.607|337|S|AU|0
+R|05|23|3615||U|0||||||||||
+F|CTAF|127.8|CTAF
+A|YHSB||Horseshoe Bend Airport|-25.2167|134.267||S|AU|0
+R|01|19|4921||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YIDK|IDK|Indulkana Airport|-26.96543|133.32199|401|S|AU|0
+R|11|29|3969||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YIDR||Idracowra Airport|-25.0633|133.733||S|AU|0
+R|09|27|2805||U|0||||||||||
+R|13|31|3205||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YIMA||Imanpa Airport|-25.13095|132.56574||S|AU|0
+R|14|32|3018||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YIMP||Impadna Airport|-25.15383|133.57968||S|AU|0
+R|05|23|4757||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YLLA||Mobella Airport|-29.7983|133.345||S|AU|0
+R|04|22|3608||U|0||||||||||
+R|14|32|3937||U|0||||||||||
+F|CTAF|122.1|CTAF
+A|YLLC||Lilla Creek Airport|-25.55791|134.07114||S|AU|0
+R|13|31|3280||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YMAI||Manguri Airport|-28.98681|134.39135||S|AU|0
+R|10|28|4035||U|0||||||||||
+R|17|35|3280||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YMAK||Mabel Creek Station Airport|-28.92892|134.32855||S|AU|0
+R|18|36|3280||U|0||||||||||
+F|CTAF|124.3|CTAF
+A|YMBZ||Mount Ebenezer Airport|-25.16976|132.64311||S|AU|0
+R|12|30|3937||U|0||||||||||
+F|CTAF|119.8|CTAF
+A|YMIB||Mintabie Airport|-27.32969|133.30278|366|S|AU|0
+R|05|23|3937||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YMTC||Mount Clarence Airport|-28.82696|134.35212|712|S|AU|0
+R|06|24|3444||U|0||||||||||
+R|18|36|3937||U|0||||||||||
+F|CTAF|124.1|CTAF
+A|YMUP|MUP|Mulga Park Airport|-25.86|131.64999||S|AU|0
+R|09|27|3280||U|0||||||||||
+F|CTAF|125.7|CTAF
+A|YNYP||Nyapari Airport|-26.18795|130.19229||S|AU|0
+R|10|28|4494||U|0||||||||||
+F|CTAF|121.85|CTAF
+A|YOKV||Oak Valley Airport|-29.5167|130.867||S|AU|0
+R|18|36|4593||U|0||||||||||
+F|CTAF|122.1|CTAF
+A|YTCY||Tarcoonyinna Airport|-26.7571|133.35857||S|AU|0
+R|13|31|4101||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YTDM||Todmorden Airport|-27.1242|134.77||S|AU|0
+R|15|33|3280||U|0||||||||||
+F|CTAF|121.85|CTAF
+A|YTYN||Tieyon Airport|-26.2167|133.91701||S|AU|0
+R|09|27|3001||U|0||||||||||
+R|17|35|2837||U|0||||||||||
+F|CTAF|120.7|CTAF
+A|YUMB||Umbeara Airport|-25.7467|133.702||S|AU|0
+R|12|30|3116||U|0||||||||||
+F|CTAF|125.7|CTAF
+A|YUMU||Umuwa Airport|-26.4867|132.03999||S|AU|0
+R|08|26|5577||U|0||||||||||
+F|CTAF|125.7|CTAF
+A|YWIB||Mount Willoughby Airport|-27.95816|134.14951|892|S|AU|0
+R|05|23|3608||U|0||||||||||
+F|CTAF|125.7|CTAF
+A|YWLB||Welbourn Hill Airport|-27.3422|134.08661||S|AU|0
+R|09|27|5249||U|0||||||||||
+R|18|36|6561||U|0||||||||||
+F|CTAF|134.2|CTAF
+A|YWSI||Wirrida Siding Airport|-29.5667|134.517||S|AU|0
+R|05|23|3937||U|0||||||||||
+F|CTAF|120.7|CTAF

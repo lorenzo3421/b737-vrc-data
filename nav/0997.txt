@@ -1,0 +1,2 @@
+H|nav|1|0997
+N|BGO|Balgo Hill|NDB|206|-20.1359|127.989||3.3||YBGO

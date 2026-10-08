@@ -1,0 +1,50 @@
+H|apt|1|1175
+A|BR-0063||Luiz Ribeiro Maia Airport|-5.63611|-63.18573|167|S|BR|0
+R|04|22|3920|75|A|0|-5.64104|-63.18813||||-5.63136|-63.18344|||
+A|BR-0899||Pousada Amazon Roosevelt Airport|-7.57|-60.68877|174|S|BR|0
+R|14|32|4265|66|G|0||||||||||
+A|BR-1883||Zirondi Airport|-8.77417|-63.73389|276|S|BR|0
+R|04|22|4593|66|A|0||||||||||
+A|BR-1926||Fazenda Lagoa das Conchas Airport|-9.09925|-61.19279|348|S|BR|0
+R|16|34|3117|82|G|0||||||||||
+A|BR-2400||Fazenda Mudança Airport|-9.91292|-60.86256|499|S|BR|0
+R|05|23|3150|66|A|0||||||||||
+A|BR-2808||Agropecuária Céu Aberto Ltda Airport|-9.51667|-61.25|3428|S|BR|0
+R|09|27|3281|66|A|0||||||||||
+A|BR-2816||Agropecuária Paralelo Dez Ltda Airport|-9.99944|-61.05222|3035|S|BR|0
+R|18|36|3281|66|G|0||||||||||
+A|BR-3008||Barradão Airport|-9.61972|-60.6675|459|S|BR|0
+R|09|27|3117|66|G|0||||||||||
+A|BR-3092||Buritizal Agropastoril Ltda Airport|-9.28945|-60.69668|315|S|BR|0
+R|01|19|3281|131|T|0||||||||||
+A|SBMY|MNX|Manicoré Airport|-5.81138|-61.2783|174|M|BR|1
+R|05|23|4199|98|A|0||||||||||
+F|RDO|125.9|RDO
+A|SBPV|PVH|Governador Jorge Teixeira de Oliveira International Airport|-8.70849|-63.90234|295|L|BR|1
+R|01|19|7874|148|A|1||||||||||
+F|APP|119.1|APP
+F|TWR|118.7|TWR
+A|SD3E||Fazenda Rio Madeira Airport|-9.64256|-64.83756|433|S|BR|0
+R|04|22|3609|59|G|0||||||||||
+A|SD5N||Fazenda HD Airstrip|-8.11329|-61.44534|525|S|BR|0
+R|17|35|3609|59|D|0||||||||||
+A|SDDE||Fazenda Dois Irmãos Airport|-8.01277|-61.7772|344|S|BR|0
+R|01|19|3281|59|G|0||||||||||
+A|SJJF||Pousada do Rio Roosevelt Airport|-8.49523|-60.95575|335|S|BR|0
+R|02|20|3215|82|A|0||||||||||
+A|SJOG|AQM|Ariquemes Airport|-9.88044|-63.04711|466|S|BR|0
+R|03|21|4285|59|A|0||||||||||
+A|SNW3||Estancia Pau d'Alho Airport|-9.46439|-60.52501|528|S|BR|0
+R|02|20|3612|59|G|0||||||||||
+A|SS2E||Fazenda Esmeralda Airport|-9.20913|-64.25634|367|S|BR|0
+R|17|35|3939|59|G|0||||||||||
+A|SWHT|HUW|Humaitá Airport|-7.53212|-63.0721|230|S|BR|0
+R|14|32|4987|98|A|0||||||||||
+A|SWLB|LBR|Lábrea Airport|-7.27897|-64.7695|243|S|BR|1
+R|18|36|3937|98|A|0||||||||||
+A|SWLP||Fazenda Rosa - Paralelo 10 Airport|-9.96861|-61.22972|535|S|BR|0
+R|07|25|3281|105|T|0||||||||||
+A|SWNA|NVP|Novo Aripuanã Airport|-5.11803|-60.3649|118|S|BR|0
+R|07|25|3937|89|A|0||||||||||
+A|SWRO||Aeroclube de Rondônia Airport|-8.79435|-63.85749|371|S|BR|0
+R|01|19|4265|98|D|0||||||||||

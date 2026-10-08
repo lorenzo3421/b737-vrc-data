@@ -1,0 +1,3 @@
+H|apt|1|2307
+A|2AK8||Icy Cape Air Force Station Airport|70.29354|-161.90715|48|S|US|0
+R|06|24|3200|75|G|0||||||||||
