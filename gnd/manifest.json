@@ -46,6 +46,29 @@
    "stands": 23,
    "status": "osm"
   },
+  "EPWA": {
+   "bytes": 74048,
+   "edges": 721,
+   "nodes": 550,
+   "osm_input_sha256": "988a0b359dfa1873be093a57ac1d302a103a25a77a3486d83f81dceb11b167b6",
+   "osm_timestamp": "2026-10-09T13:10:01Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 148,
+    "osm_taxi_edges": 522,
+    "polys": 23,
+    "stats": {
+     "dropped_components": 0,
+     "dropped_lines": 0,
+     "osm_runways": 4,
+     "rw_synth": 0,
+     "synthetic_links": 0
+    }
+   },
+   "sha256": "d6d15cb4884533bf3e252a6961ba2fff0a5ae270de4e050df9cfc23fd25aaf13",
+   "stands": 148,
+   "status": "osm"
+  },
   "KJFK": {
    "bytes": 193578,
    "edges": 1449,
