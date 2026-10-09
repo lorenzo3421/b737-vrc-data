@@ -1,0 +1,190 @@
+{
+ "airports": {
+  "EDDM": {
+   "bytes": 189519,
+   "edges": 1894,
+   "nodes": 1513,
+   "osm_input_sha256": "0616c6d1021c9dcfbcfb840c0f15d97317ad987b11d51dcbf20124cbcb1d7030",
+   "osm_timestamp": "2026-10-09T12:38:36Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 233,
+    "osm_taxi_edges": 1617,
+    "polys": 53,
+    "stats": {
+     "dropped_components": 3,
+     "dropped_lines": 3,
+     "osm_runways": 2,
+     "rw_synth": 0,
+     "synthetic_links": 10
+    }
+   },
+   "sha256": "f8984977ce5ea03f2786ea91249fcee5b85b2ea06d3b3972fdcd5e476fd75c8b",
+   "stands": 233,
+   "status": "osm"
+  },
+  "EPLL": {
+   "bytes": 11906,
+   "edges": 74,
+   "nodes": 62,
+   "osm_input_sha256": "2383110469caed598654e416c3e3325ee4e2420a14569f3205806095e02b462a",
+   "osm_timestamp": "2026-10-09T12:38:36Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 23,
+    "osm_taxi_edges": 40,
+    "polys": 15,
+    "stats": {
+     "dropped_components": 0,
+     "dropped_lines": 0,
+     "osm_runways": 1,
+     "rw_synth": 0,
+     "synthetic_links": 0
+    }
+   },
+   "sha256": "b131c334a47d8aa6b9c451a6d48649a183e0ac757fef250cfa1cce54898e7429",
+   "stands": 23,
+   "status": "osm"
+  },
+  "KJFK": {
+   "bytes": 193578,
+   "edges": 1449,
+   "nodes": 1192,
+   "osm_input_sha256": "c9036aca8dd7b9f291a18f067369aa7f9c76e6c1632509e32a39c721a19dbf24",
+   "osm_timestamp": "2026-06-01T08:52:28Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 281,
+    "osm_taxi_edges": 960,
+    "polys": 53,
+    "stats": {
+     "dropped_components": 3,
+     "dropped_lines": 2,
+     "osm_runways": 5,
+     "rw_synth": 0,
+     "synthetic_links": 62
+    }
+   },
+   "sha256": "8135cb01ec1781e169c8cfba23b9640a52ff6d7c930a3ae60907f7a56c0e4943",
+   "stands": 281,
+   "status": "osm"
+  },
+  "KSEA": {
+   "bytes": 132635,
+   "edges": 817,
+   "nodes": 676,
+   "osm_input_sha256": "56da3a7cf5f764621e0d7aa3e844afc59dc468e02f0601ebde4dcfb54bb450e6",
+   "osm_timestamp": "2026-10-09T12:42:35Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 130,
+    "osm_taxi_edges": 514,
+    "polys": 51,
+    "stats": {
+     "dropped_components": 3,
+     "dropped_lines": 3,
+     "osm_runways": 3,
+     "rw_synth": 0,
+     "synthetic_links": 123
+    }
+   },
+   "sha256": "c0aa96588f788d9891a6d4180d607cc08328fd8824350267a1039965c85247fb",
+   "stands": 130,
+   "status": "osm"
+  },
+  "LIME": {
+   "bytes": 21476,
+   "edges": 176,
+   "nodes": 141,
+   "osm_input_sha256": "1c7c8490167af407cca6e7fd78a4b6d24b18ea6f1b5aea3cd26e6e65f38032cb",
+   "osm_timestamp": "2026-10-09T12:38:36Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 24,
+    "osm_taxi_edges": 135,
+    "polys": 12,
+    "stats": {
+     "dropped_components": 0,
+     "dropped_lines": 0,
+     "osm_runways": 4,
+     "rw_synth": 0,
+     "synthetic_links": 1
+    }
+   },
+   "sha256": "882da8e275d7e45ebbb3be051e5d5de22b1f263624ad8bd55b0749503977b5df",
+   "stands": 24,
+   "status": "osm"
+  },
+  "LIRF": {
+   "bytes": 114095,
+   "edges": 942,
+   "nodes": 717,
+   "osm_input_sha256": "fd18ab81aa3969b06076c6a852f028b1a10f9e9cf1b25de260c519983fe70e23",
+   "osm_timestamp": "2026-05-31T22:37:44Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 116,
+    "osm_taxi_edges": 789,
+    "polys": 34,
+    "stats": {
+     "dropped_components": 0,
+     "dropped_lines": 0,
+     "osm_runways": 4,
+     "rw_synth": 0,
+     "synthetic_links": 0
+    }
+   },
+   "sha256": "b7ccf06081363e2205270a1973ccbb576fa15c35ec2e7ff197abfb244ebe0a8a",
+   "stands": 116,
+   "status": "osm"
+  },
+  "LOWI": {
+   "bytes": 8969,
+   "edges": 49,
+   "nodes": 42,
+   "osm_input_sha256": "171cc8599928e90d69db72623caa7332d5e2dddfbd140a847196acfe7b0d6a12",
+   "osm_timestamp": "2026-05-31T22:37:44Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 4,
+    "osm_taxi_edges": 31,
+    "polys": 15,
+    "stats": {
+     "dropped_components": 0,
+     "dropped_lines": 0,
+     "osm_runways": 3,
+     "rw_synth": 0,
+     "synthetic_links": 5
+    }
+   },
+   "sha256": "1b9017723effb50b8a4dab18ab06431268fef904b61809b4ec66856373ef6cab",
+   "stands": 4,
+   "status": "osm"
+  },
+  "LSZH": {
+   "bytes": 213295,
+   "edges": 1475,
+   "nodes": 1201,
+   "osm_input_sha256": "18605cdad14eb06d7db8e0567e1b8ee9cfbe230a3f646f70ad753350c53efe28",
+   "osm_timestamp": "2026-10-09T12:38:36Z",
+   "report": {
+    "fallback": false,
+    "osm_stands": 255,
+    "osm_taxi_edges": 1098,
+    "polys": 83,
+    "stats": {
+     "dropped_components": 2,
+     "dropped_lines": 1,
+     "osm_runways": 8,
+     "rw_synth": 0,
+     "synthetic_links": 40
+    }
+   },
+   "sha256": "1c0da054f620003a87993ec0274fb724cea2223d70dc0763b649d23169f8e9ab",
+   "stands": 255,
+   "status": "osm"
+  }
+ },
+ "format": 1,
+ "source": "OpenStreetMap contributors, ODbL 1.0, https://www.openstreetmap.org/copyright"
+}
